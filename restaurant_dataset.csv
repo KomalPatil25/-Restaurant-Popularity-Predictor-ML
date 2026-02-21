@@ -1,0 +1,3393 @@
+Location,Average_Cost,Online_Order,Table_Booking,Rating,Votes,Reviews_Count,Cuisines,Delivery_Time,Popularity
+Indore,227.0,Yes,Yes,3.2,586,438.0,Continental,36,Low
+Delhi,237.0,No,No,2.9,61,67.0,Rajasthani,49,Low
+Mumbai,125.0,No,Yes,3.3,299,109.0,Cafe,28,Low
+Surat,152.0,Yes,Yes,2.7,532,482.0,Kerala,26,High
+Ahmedabad,151.0,No,No,3.3,377,510.0,Cafe,36,Low
+Hyderabad,175.0,No,Yes,,638,181.0,Gujarati,21,High
+Bhopal,336.0,No,Yes,4.7,649,309.0,Biryani,24,High
+Jaipur,,No,Yes,2.5,153,448.0,Biryani,36,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Ahmedabad,96.0,No,Yes,3.5,746,358.0,Rajasthani,40,Low
+Mumbai,247.0,Yes,Yes,3.1,659,401.0,Kerala,108,Low
+Nagpur,248.0,No,Yes,,420,387.0,Chinese,56,Low
+Goa,119.0,No,No,2.5,281,438.0,Chinese,32,Low
+Indore,225.0,Yes,No,3.1,663,179.0,Street Food,30,Low
+Bangalore,242.0,No,Yes,2.9,731,327.0,North Indian,47,Low
+Bhopal,143.0,Yes,No,3.2,172,169.0,Gujarati,28,Low
+Pune,171.0,No,No,3.9,53,249.0,Street Food,38,High
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Indore,320.0,Yes,Yes,4.6,594,451.0,South Indian,35,High
+Chennai,108.0,No,Yes,3.1,154,68.0,Chinese,35,Low
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Jaipur,100.0,Yes,No,3.4,349,530.0,North Indian,43,Low
+Nashik,146.0,Yes,No,3.6,109,86.0,Fast Food,44,Low
+Bhopal,143.0,Yes,No,2.9,285,311.0,North Indian,20,Low
+Ahmedabad,434.0,Yes,No,4.3,713,304.0,Rajasthani,21,High
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Kochi,90.0,No,No,2.6,274,333.0,Cafe,36,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Delhi,134.0,No,Yes,3.4,195,254.0,Seafood,56,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Kochi,168.0,Yes,Yes,3.1,303,346.0,Street Food,54,Low
+Goa,90.0,No,No,,132,428.0,Rajasthani,59,Low
+Mumbai,219.0,Yes,Yes,3.5,94,127.0,Biryani,28,Low
+Surat,248.0,Yes,Yes,2.8,687,22.0,Rajasthani,46,Low
+Pune,329.0,No,No,4.4,519,55.0,Cafe,26,High
+Chennai,225.0,Yes,No,2.5,564,38.0,Gujarati,41,Low
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Pune,203.0,Yes,No,3.1,745,168.0,Seafood,26,Low
+Nagpur,90.0,Yes,Yes,2.8,612,22.0,Continental,47,Low
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Bangalore,173.0,Yes,No,4.0,34,292.0,Biryani,43,Low
+Chennai,85.0,Yes,Yes,3.0,587,214.0,Biryani,56,Low
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Nagpur,102.0,No,Yes,3.2,161,424.0,Biryani,57,Low
+Pune,585.0,Yes,Yes,4.4,566,105.0,Kerala,26,High
+Surat,470.0,Yes,Yes,4.9,774,231.0,South Indian,26,High
+Bangalore,172.0,Yes,No,2.5,720,235.0,Seafood,44,Low
+Bangalore,248.0,Yes,No,2.8,768,399.0,Kerala,53,Low
+Kochi,86.0,Yes,No,3.2,353,135.0,Gujarati,33,Low
+Chennai,96.0,Yes,No,3.4,551,570.0,North Indian,33,Low
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Hyderabad,150.0,Yes,No,3.0,650,339.0,Gujarati,40,Low
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Nagpur,188.0,Yes,Yes,2.6,290,23.0,Fast Food,33,Low
+Delhi,114.0,Yes,No,2.5,837,89.0,South Indian,42,Low
+Indore,212.0,Yes,No,3.0,245,380.0,Cafe,46,Low
+Chennai,173.0,Yes,No,3.7,36,75.0,Biryani,21,Low
+Hyderabad,162.0,Yes,No,2.5,253,482.0,Biryani,25,Low
+Bangalore,242.0,No,Yes,3.3,681,157.0,Biryani,39,Low
+Goa,185.0,Yes,Yes,3.5,144,308.0,Continental,32,Low
+Mumbai,235.0,Yes,Yes,5.0,81,578.0,Seafood,26,Low
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Bangalore,,No,Yes,3.4,106,501.0,Kerala,23,Low
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Surat,124.0,No,No,3.4,119,426.0,Kerala,60,Low
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Jaipur,335.0,Yes,Yes,4.9,1758,235.0,Seafood,31,High
+Goa,,No,Yes,3.3,422,262.0,North Indian,56,Low
+Hyderabad,95.0,Yes,No,3.0,860,212.0,Chinese,58,Low
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Indore,238.0,No,No,3.5,841,106.0,Fast Food,54,Low
+Delhi,171.0,No,Yes,3.3,307,443.0,Fast Food,44,Low
+Surat,196.0,No,No,3.0,418,80.0,Continental,20,Low
+Jaipur,477.0,Yes,No,4.6,486,238.0,Street Food,34,High
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Pune,116.0,No,No,3.0,810,89.0,Fast Food,35,Low
+Goa,232.0,Yes,Yes,3.2,491,441.0,South Indian,120,Low
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Ahmedabad,129.0,Yes,Yes,4.7,96,141.0,Street Food,29,Low
+Goa,249.0,No,No,3.3,137,184.0,North Indian,41,Low
+Mumbai,167.0,Yes,No,3.5,486,594.0,Fast Food,59,Low
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Kochi,156.0,Yes,No,2.8,429,247.0,Kerala,22,Low
+Nagpur,133.0,Yes,No,3.3,637,557.0,Rajasthani,24,Low
+Nagpur,87.0,No,No,4.4,115,109.0,Seafood,40,Low
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Goa,254.0,No,Yes,5.0,436,527.0,Gujarati,31,High
+Nagpur,110.0,Yes,No,3.2,854,437.0,Rajasthani,26,Low
+Nashik,185.0,Yes,Yes,2.8,32,507.0,Kerala,20,Low
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Mumbai,470.0,No,No,4.4,649,596.0,South Indian,21,Low
+Nagpur,103.0,No,Yes,4.7,66,90.0,North Indian,35,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Goa,196.0,No,Yes,3.5,801,175.0,Rajasthani,35,Low
+Nashik,108.0,No,Yes,3.8,50,87.0,Seafood,59,Low
+Ahmedabad,,No,Yes,3.3,820,184.0,North Indian,46,Low
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Pune,159.0,Yes,No,2.8,456,166.0,North Indian,48,Low
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Hyderabad,175.0,No,Yes,,638,181.0,Gujarati,21,High
+Mumbai,6852.0,No,Yes,4.4,60,39.0,Fast Food,49,Low
+Ahmedabad,191.0,No,Yes,4.8,298,233.0,Kerala,40,Low
+Delhi,89.0,Yes,Yes,2.9,342,297.0,Continental,46,Low
+Nagpur,112.0,Yes,No,3.5,627,228.0,Biryani,23,Low
+Bhopal,336.0,No,Yes,4.7,649,309.0,Biryani,24,High
+Jaipur,245.0,Yes,No,4.6,105,,North Indian,44,Low
+Goa,208.0,No,Yes,3.6,107,300.0,Kerala,54,Low
+Indore,198.0,No,No,3.9,148,590.0,Rajasthani,49,Low
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Pune,95.0,No,No,4.3,95,444.0,Biryani,46,Low
+Hyderabad,2911.0,Yes,Yes,3.1,516,,Biryani,53,Low
+Delhi,131.0,No,Yes,2.9,168,43.0,Seafood,58,Low
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Pune,,No,No,4.4,800,565.0,South Indian,34,High
+Pune,135.0,Yes,Yes,3.2,142,506.0,Continental,42,Low
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Surat,196.0,No,No,2.8,449,581.0,Gujarati,50,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Nagpur,139.0,No,Yes,3.3,657,,Street Food,33,Low
+Delhi,112.0,Yes,Yes,3.2,292,163.0,Chinese,25,Low
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Delhi,108.0,Yes,No,3.3,756,306.0,Chinese,46,Low
+Indore,231.0,Yes,Yes,2.8,730,578.0,North Indian,28,Low
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Bangalore,370.0,No,No,4.5,798,61.0,Rajasthani,32,High
+Goa,146.0,Yes,Yes,,563,336.0,Rajasthani,47,Low
+Mumbai,240.0,No,No,2.7,300,288.0,Street Food,53,Low
+Pune,465.0,Yes,No,5.0,857,,Fast Food,26,High
+Delhi,545.0,No,Yes,3.9,599,522.0,Street Food,21,Low
+Chennai,92.0,No,No,2.8,197,74.0,Biryani,37,Low
+Jaipur,94.0,Yes,No,2.7,299,212.0,Biryani,22,Low
+Ahmedabad,104.0,Yes,No,2.7,709,285.0,Fast Food,59,Low
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Nashik,138.0,Yes,Yes,2.7,169,592.0,Fast Food,55,High
+Nashik,,Yes,No,3.2,497,358.0,Seafood,33,Low
+Delhi,453.0,Yes,Yes,4.9,549,525.0,Seafood,29,High
+Chennai,95.0,No,No,4.0,77,419.0,Rajasthani,51,Low
+Kochi,127.0,No,Yes,2.7,619,132.0,North Indian,39,Low
+Delhi,435.0,Yes,No,4.4,401,397.0,Continental,35,High
+Goa,85.0,Yes,No,3.3,861,207.0,Street Food,36,Low
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Pune,155.0,No,No,3.0,79,537.0,Biryani,22,Low
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Indore,149.0,Yes,No,2.9,544,461.0,Gujarati,52,Low
+Bhopal,145.0,Yes,Yes,5.0,607,325.0,Seafood,53,High
+Surat,493.0,Yes,Yes,4.7,655,254.0,Biryani,21,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Mumbai,208.0,No,No,2.7,346,28.0,Street Food,42,Low
+Mumbai,120.0,Yes,No,2.8,392,100.0,Rajasthani,34,Low
+Chennai,5966.0,No,No,4.9,608,496.0,Rajasthani,21,High
+Jaipur,240.0,Yes,Yes,3.3,177,220.0,Seafood,59,Low
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Hyderabad,209.0,Yes,No,4.3,318,86.0,Kerala,20,Low
+Bhopal,173.0,Yes,Yes,3.5,819,280.0,Chinese,36,Low
+Hyderabad,226.0,Yes,Yes,4.7,42,318.0,Gujarati,46,Low
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Hyderabad,101.0,No,No,3.2,74,257.0,Continental,53,Low
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Nashik,214.0,Yes,No,4.3,90,381.0,Chinese,60,Low
+Mumbai,,No,No,3.3,50,572.0,Biryani,34,Low
+Jaipur,220.0,No,Yes,4.1,49,34.0,North Indian,54,Low
+Bhopal,133.0,Yes,Yes,2.9,775,454.0,Continental,46,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Goa,418.0,Yes,No,5.0,638,136.0,Gujarati,30,High
+Indore,83.0,No,Yes,3.1,602,332.0,Rajasthani,27,Low
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Bhopal,122.0,Yes,No,2.7,424,482.0,Kerala,20,High
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Kochi,367.0,Yes,Yes,4.9,587,426.0,Biryani,21,High
+Chennai,163.0,Yes,No,2.7,345,327.0,Biryani,46,Low
+Goa,86.0,Yes,No,2.7,85,67.0,Continental,33,Low
+Chennai,288.0,Yes,No,4.9,480,242.0,Continental,142,High
+Bhopal,230.0,Yes,Yes,4.2,73,,Street Food,49,Low
+Delhi,126.0,Yes,No,2.8,442,566.0,Seafood,30,Low
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Indore,148.0,Yes,Yes,2.9,274,564.0,South Indian,27,Low
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Jaipur,497.0,Yes,No,5.0,521,300.0,Rajasthani,26,High
+Indore,181.0,No,No,4.5,90,148.0,Rajasthani,47,Low
+Pune,82.0,No,No,2.7,289,483.0,Kerala,27,Low
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Goa,170.0,No,No,2.7,447,224.0,Street Food,26,Low
+Hyderabad,146.0,Yes,Yes,3.2,879,222.0,North Indian,29,Low
+Jaipur,159.0,Yes,Yes,,686,265.0,Chinese,57,Low
+Nashik,249.0,Yes,No,3.5,167,189.0,Seafood,21,Low
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Mumbai,225.0,No,No,3.0,830,408.0,North Indian,42,Low
+Mumbai,148.0,No,Yes,3.7,78,223.0,Chinese,53,Low
+Delhi,486.0,No,Yes,4.3,514,90.0,Cafe,32,High
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Goa,168.0,No,No,2.6,3285,116.0,Seafood,58,Low
+Goa,86.0,Yes,No,2.6,41,176.0,Chinese,21,Low
+Bhopal,93.0,No,Yes,2.7,299,203.0,Biryani,32,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Chennai,188.0,Yes,Yes,2.6,142,308.0,Street Food,59,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Indore,140.0,Yes,No,3.5,261,210.0,Gujarati,47,Low
+Bhopal,140.0,Yes,Yes,3.5,654,315.0,Kerala,29,Low
+Nashik,160.0,No,No,3.2,561,72.0,Cafe,22,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Ahmedabad,145.0,Yes,No,2.6,102,76.0,Cafe,22,Low
+Delhi,345.0,Yes,Yes,4.4,579,,Kerala,44,High
+Pune,144.0,Yes,Yes,3.3,745,480.0,Kerala,44,Low
+Bangalore,170.0,No,No,4.2,59,112.0,Rajasthani,29,Low
+Mumbai,87.0,No,No,2.7,883,247.0,Kerala,29,Low
+Bangalore,230.0,No,No,2.7,800,119.0,Gujarati,25,Low
+Nagpur,216.0,No,No,2.8,269,104.0,Biryani,105,Low
+Indore,247.0,Yes,No,2.9,298,123.0,Seafood,21,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Pune,212.0,No,Yes,3.4,142,365.0,Kerala,45,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Surat,174.0,Yes,No,3.5,741,381.0,Gujarati,35,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Indore,247.0,Yes,Yes,3.3,139,288.0,Street Food,26,Low
+Nagpur,331.0,Yes,No,3.6,735,357.0,Seafood,46,Low
+Mumbai,232.0,No,No,3.3,843,230.0,Gujarati,51,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Pune,329.0,No,No,4.4,519,55.0,Cafe,26,High
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Ahmedabad,154.0,No,No,,109,340.0,South Indian,56,Low
+Delhi,303.0,No,No,4.0,678,532.0,Biryani,37,High
+Mumbai,137.0,No,Yes,2.6,536,158.0,Kerala,41,High
+Nashik,6142.0,Yes,Yes,5.0,90,556.0,Cafe,22,Low
+Nagpur,109.0,No,Yes,4.6,33,265.0,South Indian,24,Low
+Goa,,No,Yes,4.2,71,354.0,Gujarati,46,High
+Nashik,148.0,No,No,2.5,702,230.0,Seafood,37,Low
+Jaipur,131.0,Yes,No,3.4,806,107.0,Rajasthani,29,Low
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Kochi,200.0,Yes,Yes,3.4,70,511.0,Fast Food,49,Low
+Ahmedabad,150.0,No,Yes,2.9,711,55.0,Rajasthani,58,Low
+Chennai,236.0,Yes,No,2.9,31,129.0,Chinese,53,Low
+Pune,,Yes,No,2.9,130,548.0,South Indian,28,Low
+Bhopal,188.0,Yes,Yes,3.3,652,375.0,Gujarati,34,Low
+Indore,167.0,Yes,Yes,3.9,78,503.0,Fast Food,55,Low
+Ahmedabad,168.0,Yes,Yes,3.0,873,,Rajasthani,51,Low
+Mumbai,213.0,No,Yes,3.0,55,37.0,Chinese,36,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Hyderabad,232.0,Yes,No,3.1,493,478.0,Street Food,45,High
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Goa,176.0,No,No,2.9,674,337.0,North Indian,58,Low
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Surat,493.0,Yes,Yes,4.7,655,254.0,Biryani,21,High
+Pune,192.0,Yes,No,2.8,2896,329.0,Gujarati,54,Low
+Chennai,572.0,Yes,Yes,4.4,472,46.0,Chinese,33,High
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Nashik,223.0,No,Yes,3.2,548,559.0,Biryani,60,Low
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Kochi,561.0,Yes,Yes,4.7,758,292.0,South Indian,32,Low
+Pune,221.0,Yes,Yes,3.6,45,369.0,South Indian,35,Low
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Nagpur,210.0,No,Yes,3.2,182,355.0,Kerala,35,Low
+Surat,196.0,No,Yes,3.3,704,207.0,North Indian,60,Low
+Goa,,Yes,Yes,3.1,680,497.0,South Indian,60,Low
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Nagpur,196.0,No,Yes,2.9,564,242.0,Fast Food,59,Low
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Indore,81.0,Yes,No,2.8,602,500.0,South Indian,158,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Pune,239.0,No,No,3.4,701,44.0,Chinese,39,Low
+Delhi,5720.0,Yes,No,3.1,251,297.0,Continental,28,Low
+Nashik,142.0,No,No,3.4,35,573.0,Gujarati,55,High
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Delhi,216.0,No,No,4.6,63,411.0,Biryani,36,Low
+Chennai,2506.0,Yes,Yes,3.2,144,111.0,Biryani,41,Low
+Kochi,219.0,Yes,No,3.3,680,219.0,Seafood,103,Low
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Jaipur,420.0,No,Yes,4.7,409,46.0,Biryani,26,High
+Mumbai,83.0,No,Yes,2.6,464,412.0,South Indian,24,Low
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Surat,145.0,No,No,3.7,107,484.0,South Indian,37,Low
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Hyderabad,,Yes,No,3.0,411,165.0,Cafe,22,Low
+Pune,171.0,No,No,3.9,53,249.0,Street Food,38,High
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Hyderabad,211.0,Yes,No,3.5,100,563.0,Chinese,53,Low
+Bhopal,119.0,No,No,3.3,880,210.0,Continental,37,Low
+Bhopal,98.0,Yes,Yes,3.2,295,355.0,Rajasthani,45,Low
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Ahmedabad,148.0,No,Yes,4.7,55,,Chinese,41,Low
+Kochi,87.0,Yes,Yes,3.3,2481,305.0,Kerala,25,Low
+Goa,115.0,Yes,Yes,2.5,768,518.0,Gujarati,47,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Kochi,297.0,Yes,No,4.9,653,265.0,Continental,30,High
+Bhopal,,No,Yes,3.5,844,514.0,Rajasthani,24,Low
+Delhi,166.0,Yes,Yes,4.3,126,410.0,Street Food,55,Low
+Surat,166.0,No,Yes,2.8,743,590.0,Seafood,35,Low
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Indore,186.0,No,Yes,3.2,863,264.0,North Indian,40,Low
+Ahmedabad,133.0,No,No,3.6,51,102.0,Rajasthani,56,Low
+Pune,129.0,Yes,No,2.7,364,454.0,Kerala,24,Low
+Hyderabad,180.0,No,No,4.6,40,50.0,Continental,32,Low
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Indore,116.0,No,No,2.8,129,423.0,Street Food,43,Low
+Nashik,83.0,Yes,No,2.8,539,547.0,Street Food,54,Low
+Mumbai,129.0,Yes,Yes,3.2,255,62.0,Fast Food,22,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Hyderabad,207.0,No,No,3.1,370,331.0,Kerala,25,Low
+Nagpur,486.0,Yes,Yes,4.6,740,278.0,Rajasthani,23,High
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Nagpur,112.0,No,Yes,2.7,177,515.0,Continental,20,Low
+Goa,163.0,Yes,Yes,2.9,705,111.0,Kerala,26,Low
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Jaipur,335.0,Yes,Yes,4.9,1758,235.0,Seafood,31,High
+Kochi,157.0,Yes,No,4.3,94,66.0,Seafood,24,Low
+Jaipur,313.0,No,Yes,4.5,603,291.0,Rajasthani,28,High
+Indore,224.0,Yes,No,2.7,780,295.0,Chinese,60,Low
+Hyderabad,89.0,No,Yes,3.0,578,474.0,Kerala,27,Low
+Jaipur,192.0,No,No,3.1,188,439.0,Street Food,28,Low
+Jaipur,477.0,Yes,No,4.6,486,238.0,Street Food,34,High
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Jaipur,86.0,No,No,2.8,481,497.0,Street Food,27,Low
+Jaipur,345.0,No,Yes,5.0,646,189.0,Rajasthani,51,High
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Mumbai,81.0,Yes,No,3.0,843,,Biryani,46,Low
+Nagpur,192.0,Yes,Yes,2.8,822,156.0,South Indian,29,Low
+Goa,406.0,Yes,Yes,4.5,659,106.0,Rajasthani,28,High
+Mumbai,95.0,No,Yes,2.6,377,496.0,Chinese,50,Low
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Ahmedabad,87.0,No,No,3.3,631,382.0,Gujarati,32,Low
+Pune,128.0,Yes,Yes,2.6,542,337.0,Seafood,56,Low
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Mumbai,183.0,No,Yes,3.0,212,152.0,Cafe,34,Low
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Surat,219.0,Yes,No,3.3,255,208.0,Street Food,53,Low
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Pune,92.0,Yes,Yes,2.5,251,309.0,Kerala,21,Low
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Pune,,Yes,No,2.7,636,245.0,South Indian,55,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Jaipur,235.0,Yes,No,2.9,249,494.0,Seafood,23,Low
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Mumbai,225.0,Yes,Yes,2.7,215,,Fast Food,31,Low
+Pune,136.0,No,Yes,3.1,857,592.0,Kerala,31,Low
+Ahmedabad,5161.0,Yes,No,3.6,90,139.0,Continental,28,Low
+Mumbai,159.0,No,Yes,3.2,595,324.0,Gujarati,26,Low
+Bhopal,239.0,No,No,2.6,456,324.0,South Indian,40,Low
+Jaipur,236.0,Yes,No,3.3,276,513.0,Chinese,52,Low
+Indore,140.0,No,Yes,3.0,3498,596.0,South Indian,25,High
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Goa,254.0,No,Yes,5.0,436,527.0,Gujarati,31,High
+Indore,202.0,Yes,Yes,,58,400.0,Cafe,41,Low
+Mumbai,206.0,Yes,No,2.8,702,572.0,Rajasthani,43,Low
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Hyderabad,164.0,Yes,No,3.5,407,589.0,Rajasthani,21,Low
+Chennai,288.0,Yes,No,4.9,480,242.0,Continental,142,High
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Mumbai,89.0,Yes,No,3.3,700,501.0,Chinese,29,Low
+Goa,418.0,Yes,No,4.8,3264,519.0,Fast Food,23,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Ahmedabad,166.0,No,No,3.1,633,430.0,Kerala,53,Low
+Hyderabad,258.0,Yes,Yes,4.5,445,421.0,Chinese,28,High
+Indore,163.0,No,No,2.8,558,552.0,Gujarati,26,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Bangalore,142.0,No,Yes,3.3,171,145.0,Fast Food,32,Low
+Chennai,91.0,No,No,2.8,396,106.0,Cafe,31,Low
+Jaipur,121.0,No,No,3.2,162,260.0,Gujarati,52,Low
+Indore,296.0,No,No,4.5,597,,North Indian,26,High
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Bangalore,201.0,Yes,Yes,4.3,698,536.0,Kerala,44,High
+Kochi,164.0,Yes,Yes,3.5,795,174.0,North Indian,43,High
+Chennai,207.0,No,Yes,3.2,749,566.0,Gujarati,52,Low
+Jaipur,176.0,No,No,3.2,830,512.0,Seafood,25,Low
+Goa,241.0,No,No,4.4,30,277.0,Street Food,46,Low
+Jaipur,222.0,Yes,Yes,3.5,615,287.0,Street Food,42,Low
+Nashik,142.0,No,No,3.4,35,573.0,Gujarati,55,High
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Kochi,164.0,Yes,Yes,3.5,795,174.0,North Indian,43,High
+Bhopal,169.0,Yes,No,,874,417.0,Continental,26,Low
+Kochi,563.0,No,Yes,4.5,430,522.0,Continental,26,High
+Chennai,166.0,No,Yes,2.9,122,311.0,Biryani,114,Low
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Kochi,210.0,Yes,No,3.5,606,145.0,North Indian,35,Low
+Goa,574.0,No,No,4.4,782,462.0,Biryani,28,High
+Delhi,,Yes,Yes,2.7,1522,546.0,Street Food,32,Low
+Kochi,188.0,Yes,Yes,2.8,731,328.0,Continental,44,Low
+Bhopal,222.0,No,No,3.5,185,569.0,Continental,20,Low
+Mumbai,356.0,No,Yes,4.9,723,287.0,Continental,20,High
+Goa,85.0,No,Yes,3.1,80,33.0,Gujarati,22,Low
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Jaipur,427.0,No,No,4.3,510,317.0,Chinese,27,High
+Surat,186.0,Yes,No,2.6,135,162.0,Fast Food,29,Low
+Goa,,Yes,Yes,4.1,55,301.0,Seafood,35,Low
+Goa,235.0,No,No,3.5,651,256.0,Rajasthani,34,Low
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Indore,296.0,No,No,4.5,597,,North Indian,26,High
+Indore,93.0,No,No,3.4,497,557.0,Gujarati,47,Low
+Jaipur,147.0,No,No,3.8,43,270.0,Biryani,44,Low
+Kochi,465.0,No,Yes,4.6,152,304.0,South Indian,30,High
+Nashik,237.0,Yes,Yes,3.4,808,254.0,Fast Food,25,Low
+Surat,83.0,No,Yes,3.0,129,444.0,Chinese,38,Low
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Ahmedabad,115.0,Yes,Yes,2.7,215,341.0,Fast Food,56,Low
+Chennai,113.0,No,No,2.5,546,410.0,Rajasthani,39,Low
+Nagpur,397.0,Yes,No,4.3,760,353.0,Biryani,21,High
+Delhi,303.0,No,No,4.0,678,532.0,Biryani,37,High
+Hyderabad,245.0,No,Yes,3.4,543,21.0,Seafood,59,Low
+Jaipur,136.0,No,Yes,3.0,82,409.0,Chinese,46,Low
+Bhopal,271.0,No,No,4.9,676,419.0,South Indian,30,High
+Ahmedabad,362.0,No,Yes,4.6,460,176.0,Cafe,35,High
+Surat,493.0,Yes,Yes,4.7,655,254.0,Biryani,21,High
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Nagpur,412.0,No,Yes,4.9,420,341.0,South Indian,31,High
+Indore,104.0,No,Yes,2.9,319,350.0,Kerala,46,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Indore,212.0,No,No,4.9,111,165.0,North Indian,53,Low
+Pune,,Yes,No,2.9,139,86.0,Biryani,33,Low
+Nashik,398.0,Yes,No,4.6,612,535.0,Street Food,31,High
+Indore,227.0,Yes,Yes,3.4,471,514.0,Cafe,54,Low
+Chennai,168.0,Yes,Yes,,397,217.0,South Indian,46,Low
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Indore,229.0,No,Yes,3.3,143,337.0,Gujarati,31,Low
+Delhi,443.0,Yes,No,4.7,593,,Cafe,32,High
+Bhopal,287.0,Yes,No,4.4,261,426.0,Chinese,55,Low
+Nagpur,6019.0,Yes,Yes,3.1,486,39.0,South Indian,51,Low
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Surat,112.0,No,Yes,4.5,58,217.0,South Indian,43,Low
+Hyderabad,191.0,No,No,4.1,135,46.0,Gujarati,54,Low
+Surat,107.0,Yes,No,3.1,101,498.0,Biryani,20,High
+Mumbai,200.0,No,Yes,3.7,114,,Kerala,35,Low
+Pune,125.0,Yes,No,3.2,287,161.0,Fast Food,46,Low
+Hyderabad,192.0,No,No,3.7,43,446.0,Gujarati,21,Low
+Pune,267.0,Yes,Yes,4.5,673,358.0,Cafe,27,High
+Bhopal,210.0,No,No,3.3,526,96.0,Gujarati,58,Low
+Chennai,238.0,Yes,No,3.4,301,579.0,Kerala,47,Low
+Ahmedabad,98.0,Yes,No,4.3,141,119.0,Fast Food,27,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Hyderabad,152.0,No,Yes,3.0,499,263.0,Seafood,40,Low
+Jaipur,109.0,Yes,Yes,3.8,141,71.0,South Indian,35,High
+Pune,,No,Yes,3.3,262,61.0,Fast Food,48,Low
+Indore,581.0,Yes,No,4.8,694,128.0,Street Food,24,High
+Goa,241.0,Yes,Yes,,758,595.0,Cafe,37,Low
+Bhopal,179.0,No,No,3.3,259,480.0,Fast Food,32,Low
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Kochi,216.0,No,No,2.8,626,387.0,South Indian,26,Low
+Nashik,141.0,Yes,No,3.1,697,292.0,Street Food,34,Low
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Nashik,4645.0,Yes,No,3.1,220,443.0,North Indian,26,Low
+Nashik,231.0,No,Yes,3.3,551,327.0,Fast Food,51,Low
+Kochi,155.0,Yes,No,2.9,654,454.0,Street Food,32,Low
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Kochi,232.0,No,No,4.5,129,281.0,Seafood,31,High
+Delhi,345.0,Yes,Yes,4.4,579,,Kerala,44,High
+Delhi,196.0,No,No,3.1,410,315.0,Fast Food,23,Low
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Bhopal,94.0,Yes,Yes,2.7,787,262.0,South Indian,56,Low
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Nashik,181.0,No,No,3.5,384,413.0,Gujarati,37,Low
+Jaipur,151.0,Yes,Yes,2.7,784,355.0,Street Food,56,Low
+Jaipur,323.0,Yes,No,4.5,544,594.0,Seafood,29,High
+Kochi,219.0,No,No,4.7,152,,Rajasthani,36,Low
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Ahmedabad,502.0,Yes,Yes,4.6,520,256.0,Seafood,33,High
+Nagpur,105.0,No,No,4.9,72,235.0,South Indian,47,Low
+Goa,226.0,No,No,3.1,829,255.0,Biryani,48,Low
+Hyderabad,194.0,No,Yes,2.6,115,394.0,Kerala,24,Low
+Kochi,214.0,No,Yes,3.0,176,476.0,Rajasthani,24,Low
+Bhopal,123.0,Yes,Yes,3.3,576,115.0,Cafe,52,Low
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Surat,118.0,Yes,No,4.4,97,226.0,North Indian,29,Low
+Pune,201.0,Yes,No,3.7,62,531.0,Seafood,40,Low
+Goa,98.0,Yes,Yes,2.8,560,133.0,Street Food,57,Low
+Surat,293.0,No,Yes,4.6,509,76.0,Biryani,28,High
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Kochi,127.0,No,No,2.7,828,508.0,Kerala,124,Low
+Indore,249.0,No,Yes,3.0,783,456.0,Chinese,51,Low
+Pune,137.0,Yes,Yes,2.5,183,239.0,Fast Food,37,Low
+Mumbai,133.0,No,No,3.0,202,505.0,Rajasthani,26,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Indore,134.0,No,Yes,3.5,343,380.0,Gujarati,49,Low
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Surat,102.0,Yes,Yes,4.8,98,279.0,Rajasthani,23,Low
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Nagpur,177.0,Yes,No,3.0,667,239.0,Continental,22,Low
+Kochi,164.0,Yes,Yes,3.5,795,174.0,North Indian,43,High
+Goa,190.0,Yes,No,2.9,715,284.0,Chinese,43,Low
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Delhi,160.0,Yes,No,4.2,142,171.0,North Indian,48,Low
+Bangalore,190.0,No,Yes,3.2,190,234.0,Kerala,43,Low
+Nagpur,224.0,No,No,3.4,810,472.0,Street Food,47,Low
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Bhopal,172.0,No,Yes,3.5,36,336.0,Biryani,37,High
+Nagpur,204.0,Yes,No,3.5,184,103.0,North Indian,32,High
+Delhi,236.0,No,Yes,2.8,221,197.0,Rajasthani,25,Low
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Delhi,216.0,No,No,3.6,64,472.0,Seafood,55,Low
+Ahmedabad,150.0,No,No,3.3,46,91.0,Kerala,50,Low
+Nashik,171.0,No,No,3.3,634,155.0,North Indian,56,Low
+Chennai,239.0,No,No,2.9,497,534.0,Gujarati,52,Low
+Hyderabad,157.0,No,No,2.6,84,545.0,Cafe,27,Low
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Hyderabad,431.0,No,Yes,4.3,893,252.0,Kerala,52,Low
+Nashik,238.0,Yes,Yes,3.1,794,384.0,Fast Food,55,Low
+Pune,329.0,No,No,4.4,519,55.0,Cafe,26,High
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Pune,585.0,Yes,Yes,4.4,566,105.0,Kerala,26,High
+Bhopal,81.0,Yes,No,3.3,122,586.0,Gujarati,49,Low
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Chennai,166.0,Yes,Yes,3.4,680,513.0,Seafood,56,Low
+Mumbai,352.0,Yes,Yes,4.7,646,60.0,Seafood,35,High
+Indore,4928.0,No,No,2.6,247,67.0,Chinese,42,Low
+Hyderabad,107.0,Yes,Yes,4.1,63,587.0,Fast Food,58,Low
+Jaipur,200.0,Yes,Yes,2.7,720,41.0,Biryani,37,Low
+Delhi,114.0,No,No,3.1,398,348.0,North Indian,23,Low
+Mumbai,92.0,Yes,No,4.7,134,342.0,South Indian,42,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Bhopal,169.0,No,No,2.7,187,22.0,Cafe,52,Low
+Pune,81.0,No,Yes,3.5,127,209.0,Kerala,136,Low
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Jaipur,153.0,Yes,Yes,,71,406.0,Kerala,53,Low
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Ahmedabad,251.0,Yes,Yes,4.4,442,484.0,South Indian,35,High
+Bangalore,186.0,Yes,No,3.9,75,298.0,South Indian,54,Low
+Surat,123.0,No,Yes,3.2,413,461.0,Continental,29,Low
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Jaipur,135.0,Yes,No,,545,584.0,Kerala,37,Low
+Ahmedabad,126.0,No,Yes,2.9,723,359.0,Seafood,47,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Bangalore,201.0,Yes,Yes,4.3,698,536.0,Kerala,44,High
+Surat,107.0,Yes,No,3.1,101,498.0,Biryani,20,High
+Hyderabad,148.0,No,Yes,3.1,641,535.0,Rajasthani,50,Low
+Delhi,143.0,No,Yes,2.7,174,172.0,Rajasthani,35,Low
+Bhopal,397.0,No,No,4.3,764,471.0,Kerala,34,High
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Mumbai,146.0,No,No,2.6,772,312.0,North Indian,59,Low
+Indore,113.0,Yes,Yes,3.4,4878,125.0,Chinese,35,Low
+Kochi,153.0,No,Yes,2.7,514,193.0,South Indian,56,Low
+Pune,173.0,Yes,No,4.8,121,467.0,Seafood,36,Low
+Ahmedabad,180.0,No,Yes,2.6,853,566.0,North Indian,27,Low
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Surat,508.0,No,No,4.4,841,497.0,Biryani,32,High
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Kochi,217.0,Yes,No,3.2,123,536.0,Continental,48,Low
+Mumbai,112.0,Yes,Yes,3.5,355,549.0,South Indian,30,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Jaipur,138.0,No,Yes,2.8,96,137.0,Kerala,55,Low
+Hyderabad,102.0,Yes,Yes,2.7,638,242.0,Continental,58,Low
+Ahmedabad,166.0,Yes,Yes,3.1,741,199.0,Cafe,25,Low
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Ahmedabad,251.0,Yes,Yes,4.4,442,484.0,South Indian,35,High
+Goa,181.0,Yes,Yes,2.8,385,334.0,Cafe,48,Low
+Delhi,453.0,Yes,Yes,4.9,549,525.0,Seafood,29,High
+Jaipur,153.0,No,No,3.3,579,113.0,Fast Food,30,Low
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Nagpur,359.0,Yes,Yes,4.3,705,141.0,South Indian,34,High
+Nagpur,110.0,Yes,Yes,2.7,710,386.0,Kerala,50,High
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Bhopal,114.0,No,No,3.4,363,507.0,Street Food,49,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Bhopal,222.0,Yes,No,3.3,62,207.0,Fast Food,32,Low
+Nashik,191.0,Yes,Yes,3.2,169,254.0,Rajasthani,42,Low
+Ahmedabad,197.0,Yes,No,3.9,383,405.0,Seafood,27,Low
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Pune,136.0,No,Yes,3.3,620,111.0,Fast Food,21,Low
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Delhi,191.0,No,No,2.8,104,340.0,North Indian,151,Low
+Bangalore,110.0,Yes,No,4.4,73,,Fast Food,26,Low
+Hyderabad,101.0,Yes,No,2.7,667,437.0,Gujarati,29,Low
+Delhi,241.0,Yes,Yes,3.3,357,518.0,Continental,54,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Kochi,144.0,No,Yes,3.2,246,427.0,Seafood,20,High
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Nashik,213.0,Yes,Yes,3.0,799,364.0,North Indian,30,Low
+Bhopal,165.0,Yes,Yes,2.7,727,168.0,Seafood,44,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Nagpur,486.0,Yes,Yes,4.6,740,278.0,Rajasthani,23,High
+Nashik,195.0,No,No,2.7,347,,Seafood,44,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Bangalore,244.0,Yes,No,3.7,476,152.0,Kerala,45,Low
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Kochi,297.0,Yes,No,4.9,653,265.0,Continental,30,High
+Jaipur,133.0,No,Yes,2.8,741,301.0,Cafe,41,Low
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Kochi,228.0,Yes,No,3.3,113,448.0,Street Food,41,Low
+Nagpur,163.0,No,No,3.5,180,86.0,Biryani,51,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Ahmedabad,211.0,Yes,Yes,2.8,123,411.0,North Indian,41,Low
+Delhi,435.0,Yes,No,4.4,401,397.0,Continental,35,High
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Kochi,162.0,Yes,Yes,3.3,587,425.0,Fast Food,32,Low
+Mumbai,80.0,No,Yes,,189,558.0,Chinese,32,Low
+Chennai,191.0,Yes,No,4.2,32,517.0,Biryani,38,Low
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Chennai,230.0,No,Yes,3.2,516,139.0,Kerala,35,Low
+Kochi,175.0,No,No,2.8,809,504.0,Seafood,48,Low
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Ahmedabad,174.0,No,Yes,3.1,811,510.0,Fast Food,42,Low
+Nashik,328.0,Yes,No,4.8,470,377.0,North Indian,99,High
+Bangalore,117.0,No,Yes,3.1,266,398.0,Cafe,27,Low
+Hyderabad,153.0,Yes,No,3.4,277,196.0,South Indian,25,Low
+Ahmedabad,,No,Yes,3.3,546,571.0,Street Food,21,Low
+Jaipur,387.0,Yes,No,4.4,785,325.0,Gujarati,28,High
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Delhi,157.0,No,Yes,3.1,779,346.0,Kerala,56,Low
+Delhi,159.0,Yes,No,3.5,288,173.0,Kerala,41,Low
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Bhopal,432.0,No,No,4.8,826,443.0,Cafe,33,High
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Chennai,,No,No,,776,564.0,Continental,60,Low
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Chennai,228.0,No,No,3.0,212,329.0,Kerala,41,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Bangalore,157.0,Yes,No,3.4,480,83.0,South Indian,43,High
+Hyderabad,213.0,No,No,4.8,48,577.0,Kerala,31,Low
+Goa,136.0,Yes,Yes,2.9,198,397.0,Fast Food,48,Low
+Bangalore,596.0,Yes,Yes,4.6,439,381.0,Fast Food,36,Low
+Ahmedabad,99.0,No,Yes,3.3,506,591.0,Seafood,30,Low
+Bangalore,170.0,No,Yes,3.3,187,416.0,Cafe,58,Low
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Nagpur,153.0,No,No,3.5,606,104.0,North Indian,48,Low
+Surat,152.0,Yes,Yes,2.7,532,482.0,Kerala,26,High
+Kochi,93.0,Yes,Yes,3.0,473,520.0,Rajasthani,34,Low
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Pune,465.0,Yes,No,5.0,857,,Fast Food,26,High
+Delhi,104.0,Yes,No,3.5,570,309.0,Gujarati,38,Low
+Delhi,189.0,No,Yes,3.0,122,599.0,Gujarati,49,Low
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Bangalore,157.0,Yes,No,3.4,480,83.0,South Indian,43,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Kochi,309.0,No,No,4.8,425,249.0,Gujarati,30,High
+Bangalore,157.0,Yes,No,3.4,480,83.0,South Indian,43,High
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Hyderabad,107.0,Yes,No,5.0,117,248.0,Seafood,27,Low
+Hyderabad,84.0,Yes,Yes,2.9,439,180.0,Seafood,59,Low
+Bangalore,239.0,No,No,2.6,747,247.0,South Indian,40,Low
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Indore,475.0,Yes,Yes,4.7,597,266.0,Kerala,26,High
+Nashik,194.0,Yes,Yes,2.9,370,246.0,Gujarati,41,Low
+Delhi,109.0,Yes,No,4.2,132,71.0,Chinese,50,Low
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Bhopal,223.0,Yes,No,3.3,563,426.0,Rajasthani,57,Low
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Surat,121.0,Yes,Yes,3.9,2188,431.0,Kerala,58,Low
+Hyderabad,109.0,Yes,Yes,2.8,675,198.0,North Indian,29,Low
+Delhi,240.0,Yes,No,3.2,245,446.0,Gujarati,59,Low
+Nashik,127.0,Yes,Yes,4.9,42,281.0,South Indian,50,Low
+Jaipur,200.0,No,Yes,3.6,43,178.0,Gujarati,52,Low
+Goa,110.0,No,Yes,3.9,122,408.0,Gujarati,56,Low
+Ahmedabad,193.0,No,No,3.2,201,217.0,Kerala,43,Low
+Mumbai,294.0,Yes,Yes,4.9,230,344.0,Rajasthani,27,High
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Bangalore,130.0,No,No,2.6,281,297.0,Seafood,35,Low
+Chennai,234.0,No,Yes,3.0,37,85.0,North Indian,50,Low
+Ahmedabad,502.0,Yes,Yes,4.6,520,256.0,Seafood,33,High
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Surat,117.0,Yes,Yes,2.9,452,202.0,Gujarati,45,Low
+Surat,196.0,No,No,2.9,548,316.0,Seafood,50,Low
+Indore,82.0,No,No,3.5,727,586.0,Kerala,39,Low
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Mumbai,111.0,No,No,2.8,617,505.0,North Indian,39,Low
+Bhopal,87.0,No,Yes,3.1,762,160.0,North Indian,35,Low
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Bangalore,96.0,No,No,2.9,760,475.0,South Indian,25,Low
+Surat,,No,Yes,3.4,274,112.0,Rajasthani,21,Low
+Mumbai,467.0,Yes,No,4.0,292,155.0,Fast Food,44,High
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Bhopal,215.0,Yes,No,2.7,227,362.0,Street Food,21,Low
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Delhi,577.0,No,Yes,4.4,769,527.0,Continental,32,High
+Jaipur,238.0,Yes,No,3.4,408,42.0,Seafood,54,Low
+Pune,353.0,Yes,Yes,4.7,424,74.0,Chinese,23,High
+Surat,,Yes,Yes,,2635,535.0,South Indian,53,Low
+Indore,122.0,No,Yes,2.7,805,576.0,Cafe,57,Low
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Indore,140.0,No,Yes,3.0,3498,596.0,South Indian,25,High
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Delhi,486.0,No,Yes,4.3,514,90.0,Cafe,32,High
+Nashik,2697.0,Yes,No,3.2,453,37.0,Continental,41,Low
+Hyderabad,103.0,Yes,No,2.9,562,472.0,Rajasthani,27,Low
+Pune,125.0,Yes,No,2.5,837,547.0,Fast Food,41,Low
+Kochi,144.0,No,Yes,3.2,246,427.0,Seafood,20,High
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Bangalore,210.0,No,No,2.6,376,186.0,Chinese,50,Low
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Indore,198.0,Yes,Yes,3.1,53,591.0,South Indian,59,Low
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Jaipur,124.0,Yes,Yes,2.7,687,105.0,Street Food,31,Low
+Indore,109.0,No,Yes,3.5,416,148.0,North Indian,47,Low
+Delhi,149.0,No,No,2.8,232,353.0,Rajasthani,34,Low
+Pune,202.0,Yes,Yes,,367,338.0,Biryani,24,Low
+Indore,356.0,No,Yes,4.5,814,100.0,Kerala,27,High
+Kochi,232.0,No,No,4.5,129,281.0,Seafood,31,High
+Mumbai,502.0,Yes,No,3.9,167,306.0,Cafe,35,High
+Goa,221.0,Yes,No,2.5,819,153.0,Fast Food,60,Low
+Nagpur,113.0,Yes,Yes,,222,188.0,Street Food,45,Low
+Ahmedabad,187.0,No,Yes,2.5,40,244.0,Street Food,58,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Goa,132.0,No,No,3.5,403,503.0,Kerala,31,Low
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Bangalore,112.0,Yes,Yes,3.8,147,547.0,South Indian,51,Low
+Nashik,,Yes,Yes,2.8,679,139.0,North Indian,25,Low
+Surat,140.0,No,Yes,3.2,74,116.0,Kerala,47,Low
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Bangalore,284.0,Yes,Yes,4.4,896,564.0,Kerala,20,High
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Goa,153.0,Yes,Yes,2.9,569,41.0,Kerala,29,Low
+Ahmedabad,,Yes,No,4.1,521,328.0,Seafood,25,Low
+Bhopal,194.0,Yes,Yes,3.0,99,401.0,Continental,26,Low
+Bhopal,145.0,Yes,Yes,5.0,607,325.0,Seafood,53,High
+Nagpur,233.0,No,Yes,2.6,495,182.0,North Indian,29,Low
+Indore,,No,Yes,2.9,133,192.0,Rajasthani,42,Low
+Nashik,226.0,Yes,Yes,2.7,124,591.0,Rajasthani,27,Low
+Kochi,132.0,No,No,3.2,578,453.0,Seafood,56,Low
+Delhi,224.0,Yes,Yes,3.2,736,228.0,Rajasthani,37,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Hyderabad,191.0,No,Yes,3.5,132,383.0,Rajasthani,43,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Delhi,89.0,Yes,No,2.6,792,504.0,Seafood,44,Low
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Ahmedabad,106.0,Yes,No,3.2,85,586.0,South Indian,38,Low
+Ahmedabad,157.0,No,Yes,3.2,119,540.0,Fast Food,33,Low
+Indore,221.0,Yes,Yes,3.5,263,122.0,North Indian,41,Low
+Jaipur,97.0,No,Yes,2.6,171,408.0,Biryani,20,Low
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Jaipur,109.0,Yes,Yes,2.8,58,117.0,South Indian,59,Low
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Bhopal,113.0,Yes,Yes,2.5,173,415.0,Continental,37,Low
+Chennai,235.0,No,No,3.4,51,531.0,Seafood,52,Low
+Delhi,114.0,Yes,Yes,3.1,551,422.0,Continental,55,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Ahmedabad,,No,Yes,5.0,127,492.0,Cafe,52,Low
+Bangalore,152.0,No,Yes,3.5,250,544.0,Fast Food,27,Low
+Indore,181.0,Yes,Yes,2.7,399,276.0,Chinese,25,Low
+Bhopal,172.0,No,Yes,3.5,36,336.0,Biryani,37,High
+Chennai,85.0,No,Yes,3.3,247,271.0,Gujarati,51,Low
+Kochi,236.0,Yes,Yes,3.2,780,438.0,Cafe,44,Low
+Nashik,126.0,Yes,No,2.9,534,417.0,Kerala,36,Low
+Mumbai,225.0,No,Yes,4.6,38,178.0,Fast Food,26,Low
+Nagpur,439.0,No,Yes,,512,465.0,Fast Food,25,High
+Delhi,213.0,Yes,No,2.5,805,41.0,North Indian,48,Low
+Surat,217.0,No,No,3.3,223,148.0,North Indian,57,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Chennai,152.0,Yes,Yes,3.1,716,390.0,North Indian,35,Low
+Bhopal,145.0,Yes,Yes,5.0,607,325.0,Seafood,53,High
+Delhi,577.0,No,Yes,4.4,769,527.0,Continental,32,High
+Nashik,224.0,No,No,3.7,58,402.0,Kerala,37,Low
+Ahmedabad,101.0,No,Yes,3.3,523,539.0,Fast Food,60,Low
+Ahmedabad,251.0,Yes,Yes,4.4,442,484.0,South Indian,35,High
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Jaipur,185.0,No,No,3.5,750,599.0,Rajasthani,43,Low
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Bhopal,162.0,Yes,No,3.0,37,,Cafe,29,Low
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Jaipur,113.0,No,No,3.5,822,356.0,Gujarati,50,Low
+Hyderabad,230.0,No,No,3.3,309,295.0,Continental,24,Low
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Goa,126.0,Yes,Yes,4.2,52,434.0,Gujarati,50,Low
+Mumbai,535.0,Yes,Yes,4.4,430,382.0,Seafood,51,Low
+Jaipur,387.0,Yes,No,4.4,785,325.0,Gujarati,28,High
+Jaipur,87.0,Yes,Yes,3.0,801,521.0,North Indian,58,Low
+Delhi,114.0,No,Yes,3.3,402,129.0,Seafood,31,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Bhopal,171.0,No,No,3.7,671,557.0,Fast Food,51,High
+Surat,119.0,No,No,2.5,643,164.0,Rajasthani,55,Low
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Surat,508.0,No,No,4.4,841,497.0,Biryani,32,High
+Bhopal,157.0,No,Yes,3.4,680,183.0,South Indian,21,Low
+Bhopal,504.0,No,Yes,4.1,428,268.0,Biryani,60,Low
+Indore,121.0,Yes,No,2.6,49,379.0,South Indian,58,Low
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Goa,105.0,Yes,No,4.7,108,545.0,Chinese,26,Low
+Ahmedabad,382.0,No,Yes,3.6,378,436.0,Chinese,52,Low
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Nashik,155.0,Yes,No,3.4,827,50.0,North Indian,35,Low
+Indore,583.0,Yes,No,4.5,538,526.0,Continental,32,High
+Surat,148.0,Yes,No,2.5,438,305.0,Biryani,40,Low
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Pune,267.0,Yes,Yes,4.5,673,358.0,Cafe,27,High
+Jaipur,237.0,Yes,No,4.0,87,341.0,Fast Food,32,Low
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Indore,320.0,Yes,Yes,4.6,594,451.0,South Indian,35,High
+Indore,246.0,Yes,Yes,4.7,82,274.0,Continental,33,Low
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Pune,125.0,No,Yes,2.6,764,399.0,North Indian,34,Low
+Nashik,134.0,Yes,No,2.9,457,71.0,Cafe,25,Low
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Indore,155.0,No,No,3.2,384,527.0,Fast Food,28,Low
+Jaipur,323.0,Yes,No,4.5,544,594.0,Seafood,29,High
+Nagpur,182.0,Yes,No,4.6,91,319.0,South Indian,45,Low
+Surat,158.0,Yes,No,3.4,689,537.0,Kerala,58,Low
+Bhopal,217.0,No,No,2.5,624,572.0,Seafood,20,Low
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Hyderabad,408.0,Yes,Yes,4.9,610,529.0,Cafe,26,High
+Hyderabad,232.0,Yes,No,3.1,493,478.0,Street Food,45,High
+Ahmedabad,213.0,Yes,No,3.4,524,477.0,Biryani,43,Low
+Pune,206.0,No,No,3.3,444,119.0,Fast Food,20,Low
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Ahmedabad,99.0,No,No,3.4,52,427.0,Chinese,35,Low
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Delhi,363.0,No,Yes,4.6,220,415.0,South Indian,58,High
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Pune,,No,No,4.4,800,565.0,South Indian,34,High
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Goa,96.0,Yes,No,4.3,64,156.0,Rajasthani,28,Low
+Nagpur,180.0,Yes,No,4.8,81,128.0,Kerala,44,Low
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Indore,581.0,Yes,No,4.8,694,128.0,Street Food,24,High
+Goa,4415.0,Yes,Yes,2.7,619,306.0,Chinese,44,Low
+Nagpur,199.0,No,No,2.5,31,540.0,Gujarati,50,Low
+Mumbai,196.0,No,Yes,2.8,161,388.0,South Indian,51,Low
+Nagpur,145.0,Yes,Yes,3.3,793,237.0,Street Food,26,Low
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Hyderabad,172.0,Yes,No,3.2,286,333.0,Seafood,28,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Nagpur,122.0,Yes,Yes,2.8,237,155.0,Gujarati,60,Low
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Hyderabad,89.0,Yes,No,2.7,352,431.0,Seafood,30,Low
+Nashik,198.0,Yes,No,2.5,258,114.0,Continental,46,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Chennai,125.0,No,Yes,3.1,240,70.0,Cafe,43,Low
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Kochi,235.0,Yes,Yes,3.3,760,,Street Food,38,Low
+Surat,236.0,No,Yes,3.4,493,513.0,Continental,51,Low
+Nagpur,152.0,Yes,Yes,2.7,533,319.0,North Indian,36,Low
+Nashik,126.0,No,No,2.8,723,481.0,Kerala,22,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Goa,98.0,No,Yes,4.7,115,475.0,Rajasthani,21,Low
+Goa,418.0,Yes,No,4.8,3264,519.0,Fast Food,23,High
+Nagpur,397.0,Yes,No,4.3,760,353.0,Biryani,21,High
+Surat,92.0,No,Yes,2.6,638,328.0,Seafood,28,Low
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Kochi,462.0,No,No,4.9,437,237.0,North Indian,44,Low
+Mumbai,165.0,No,No,4.4,284,,Cafe,29,Low
+Bangalore,193.0,Yes,No,2.6,824,240.0,Gujarati,39,Low
+Delhi,87.0,No,Yes,4.1,86,551.0,Cafe,31,Low
+Ahmedabad,148.0,Yes,Yes,3.5,525,49.0,Kerala,46,Low
+Nagpur,186.0,No,No,2.9,244,143.0,Seafood,51,Low
+Indore,5175.0,No,Yes,2.8,161,117.0,Cafe,22,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Pune,175.0,Yes,Yes,3.1,658,361.0,Rajasthani,55,Low
+Delhi,106.0,Yes,Yes,3.5,762,135.0,Fast Food,51,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Bangalore,119.0,Yes,Yes,3.2,703,402.0,Cafe,33,Low
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Ahmedabad,152.0,Yes,Yes,4.6,84,67.0,Cafe,59,Low
+Ahmedabad,442.0,No,Yes,,326,524.0,Fast Food,21,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Ahmedabad,5322.0,No,No,3.2,286,535.0,Chinese,34,Low
+Surat,182.0,No,Yes,2.9,176,594.0,Kerala,49,Low
+Surat,493.0,Yes,Yes,4.7,655,254.0,Biryani,21,High
+Kochi,416.0,No,No,5.0,805,229.0,Cafe,24,High
+Jaipur,219.0,No,Yes,2.8,95,479.0,Biryani,21,Low
+Bangalore,542.0,Yes,Yes,3.6,463,440.0,South Indian,49,Low
+Kochi,178.0,Yes,Yes,3.1,599,517.0,Rajasthani,25,Low
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Hyderabad,111.0,Yes,Yes,3.3,495,174.0,Biryani,53,Low
+Delhi,363.0,No,Yes,4.6,220,415.0,South Indian,58,High
+Pune,117.0,Yes,Yes,3.0,3648,138.0,Continental,55,Low
+Chennai,169.0,Yes,Yes,3.8,35,475.0,Cafe,23,Low
+Mumbai,120.0,Yes,No,3.3,320,319.0,Continental,54,Low
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Goa,84.0,Yes,Yes,3.1,253,81.0,Kerala,28,High
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Indore,219.0,No,Yes,2.8,563,246.0,Biryani,33,Low
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Surat,225.0,Yes,Yes,4.5,86,328.0,Gujarati,53,Low
+Surat,171.0,No,No,2.8,888,454.0,Chinese,51,Low
+Chennai,128.0,Yes,Yes,2.9,401,193.0,Continental,41,Low
+Delhi,529.0,Yes,No,4.5,460,40.0,Rajasthani,30,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Goa,213.0,Yes,Yes,3.4,868,344.0,North Indian,37,Low
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Hyderabad,,No,No,3.3,62,409.0,Seafood,23,Low
+Ahmedabad,250.0,Yes,Yes,4.3,643,96.0,South Indian,31,High
+Surat,189.0,No,Yes,2.6,739,565.0,Gujarati,59,Low
+Pune,187.0,No,No,4.9,69,337.0,Biryani,21,Low
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Pune,208.0,No,Yes,3.0,603,468.0,Rajasthani,25,Low
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Surat,115.0,No,No,3.5,593,510.0,Street Food,138,Low
+Surat,293.0,No,Yes,4.6,509,76.0,Biryani,28,High
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Nashik,120.0,Yes,No,2.6,41,376.0,Kerala,43,Low
+Hyderabad,225.0,Yes,No,2.8,853,503.0,Fast Food,38,Low
+Delhi,84.0,No,Yes,2.9,198,407.0,Biryani,46,Low
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Jaipur,179.0,Yes,Yes,2.9,4368,284.0,South Indian,40,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Mumbai,,No,Yes,2.9,884,490.0,Street Food,55,Low
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Ahmedabad,236.0,No,Yes,3.4,854,582.0,Street Food,21,Low
+Pune,121.0,No,No,2.6,360,347.0,Rajasthani,20,Low
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Ahmedabad,250.0,No,No,2.5,211,53.0,Chinese,28,Low
+Jaipur,381.0,No,No,4.6,476,473.0,Cafe,30,High
+Ahmedabad,115.0,Yes,Yes,2.8,829,416.0,Continental,41,Low
+Surat,93.0,No,Yes,2.7,175,442.0,Street Food,40,Low
+Delhi,576.0,No,No,4.7,620,531.0,Chinese,33,High
+Mumbai,86.0,No,Yes,2.9,523,426.0,Chinese,46,Low
+Bangalore,174.0,Yes,No,3.4,32,82.0,North Indian,49,Low
+Bhopal,393.0,Yes,Yes,4.4,596,297.0,Rajasthani,29,High
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Hyderabad,116.0,No,Yes,2.6,566,84.0,South Indian,32,Low
+Chennai,228.0,No,Yes,2.8,801,20.0,Street Food,45,Low
+Kochi,338.0,Yes,No,4.3,434,366.0,Biryani,24,High
+Ahmedabad,250.0,Yes,Yes,4.3,643,96.0,South Indian,31,High
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Delhi,146.0,Yes,No,3.1,569,398.0,Biryani,42,Low
+Chennai,109.0,Yes,Yes,3.3,359,184.0,Street Food,52,Low
+Hyderabad,196.0,Yes,No,3.3,257,223.0,Cafe,27,Low
+Ahmedabad,345.0,Yes,No,3.6,507,57.0,Gujarati,42,High
+Delhi,207.0,Yes,Yes,,115,21.0,South Indian,28,Low
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Surat,,Yes,No,4.4,397,485.0,Biryani,60,High
+Indore,96.0,No,No,2.6,119,478.0,Gujarati,22,Low
+Goa,,No,Yes,4.1,53,591.0,Cafe,50,Low
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Bangalore,137.0,Yes,No,4.7,121,586.0,Seafood,56,Low
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Nashik,,No,Yes,3.0,605,361.0,Chinese,25,Low
+Indore,132.0,No,No,3.4,630,412.0,Street Food,57,Low
+Nashik,134.0,Yes,Yes,3.5,149,404.0,Continental,30,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Kochi,142.0,Yes,Yes,3.3,866,238.0,Cafe,44,Low
+Mumbai,143.0,No,Yes,5.0,34,,Biryani,56,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Nashik,88.0,Yes,No,2.5,739,339.0,Street Food,29,Low
+Delhi,166.0,Yes,Yes,4.5,79,570.0,Gujarati,27,Low
+Jaipur,224.0,No,No,3.2,636,93.0,Biryani,20,Low
+Nagpur,115.0,Yes,Yes,3.5,576,45.0,Gujarati,52,Low
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Hyderabad,150.0,No,Yes,4.3,37,,Fast Food,32,Low
+Pune,183.0,Yes,No,,65,23.0,Rajasthani,32,Low
+Bhopal,114.0,No,Yes,3.5,697,496.0,South Indian,58,Low
+Jaipur,564.0,Yes,No,3.8,897,265.0,Seafood,36,Low
+Mumbai,83.0,No,No,3.2,226,243.0,Gujarati,32,Low
+Chennai,218.0,Yes,Yes,3.2,793,372.0,Biryani,44,Low
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Goa,159.0,No,Yes,2.7,669,547.0,Kerala,29,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Bhopal,3888.0,No,Yes,3.4,267,570.0,Fast Food,44,Low
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Pune,227.0,No,Yes,2.6,105,75.0,Kerala,31,Low
+Bangalore,132.0,Yes,Yes,5.0,66,495.0,Kerala,29,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Pune,88.0,No,Yes,3.5,741,161.0,South Indian,28,Low
+Surat,80.0,Yes,No,2.6,615,582.0,South Indian,51,Low
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Pune,,No,No,4.4,800,565.0,South Indian,34,High
+Kochi,504.0,Yes,Yes,4.4,819,552.0,North Indian,34,High
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Hyderabad,427.0,No,Yes,3.6,680,258.0,Biryani,25,High
+Surat,300.0,No,Yes,4.3,593,26.0,Rajasthani,31,High
+Hyderabad,164.0,Yes,Yes,4.1,131,402.0,Fast Food,50,Low
+Goa,91.0,No,Yes,,510,61.0,Fast Food,52,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Jaipur,87.0,Yes,Yes,3.5,195,219.0,Seafood,35,Low
+Goa,406.0,Yes,Yes,4.5,659,106.0,Rajasthani,28,High
+Hyderabad,141.0,No,Yes,4.5,150,398.0,Fast Food,51,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Bangalore,214.0,No,Yes,2.6,823,318.0,Biryani,60,Low
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Nagpur,124.0,Yes,Yes,2.7,735,20.0,Kerala,24,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Indore,294.0,Yes,Yes,4.8,584,279.0,Continental,127,High
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Mumbai,3759.0,No,No,4.5,674,208.0,Street Food,31,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Jaipur,,Yes,Yes,2.7,669,355.0,Fast Food,42,Low
+Bangalore,250.0,No,Yes,2.5,138,319.0,Biryani,36,Low
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Kochi,114.0,Yes,No,,111,193.0,Fast Food,33,Low
+Ahmedabad,165.0,No,Yes,3.0,3192,380.0,Kerala,40,Low
+Bhopal,180.0,Yes,No,3.9,31,265.0,Biryani,59,Low
+Hyderabad,264.0,Yes,Yes,,712,305.0,Cafe,29,High
+Goa,145.0,Yes,Yes,3.0,772,367.0,Continental,50,Low
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Bhopal,178.0,Yes,No,2.7,746,22.0,Seafood,41,Low
+Hyderabad,175.0,No,Yes,,638,181.0,Gujarati,21,High
+Bhopal,271.0,No,No,4.9,676,419.0,South Indian,30,High
+Bangalore,91.0,Yes,No,2.6,147,165.0,North Indian,38,Low
+Nagpur,245.0,Yes,No,4.8,91,350.0,Kerala,32,Low
+Kochi,180.0,Yes,Yes,2.9,836,494.0,South Indian,22,Low
+Nagpur,439.0,No,Yes,,512,465.0,Fast Food,25,High
+Ahmedabad,434.0,Yes,No,4.3,713,304.0,Rajasthani,21,High
+Goa,91.0,No,No,2.6,670,,Street Food,33,Low
+Ahmedabad,167.0,Yes,Yes,2.9,4978,,Seafood,28,Low
+Bangalore,175.0,No,No,2.5,542,403.0,Seafood,51,Low
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Pune,2147.0,Yes,No,2.5,491,231.0,North Indian,27,Low
+Jaipur,361.0,No,No,3.8,455,201.0,Kerala,46,High
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Nagpur,206.0,Yes,Yes,3.1,122,358.0,Continental,30,Low
+Surat,2849.0,Yes,Yes,2.7,710,492.0,Chinese,37,Low
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Pune,113.0,Yes,No,3.0,559,235.0,Fast Food,52,Low
+Ahmedabad,345.0,Yes,No,3.6,507,57.0,Gujarati,42,High
+Goa,88.0,Yes,Yes,3.5,741,193.0,Cafe,23,Low
+Nagpur,220.0,No,Yes,3.0,676,48.0,South Indian,60,Low
+Goa,166.0,No,No,2.6,703,293.0,Chinese,21,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Delhi,4163.0,No,Yes,3.8,60,116.0,Chinese,23,Low
+Mumbai,150.0,Yes,Yes,2.5,830,210.0,Chinese,52,Low
+Chennai,167.0,No,No,3.1,770,234.0,Fast Food,50,Low
+Bhopal,162.0,Yes,No,4.7,45,35.0,Street Food,40,Low
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Delhi,133.0,Yes,Yes,2.5,599,569.0,Cafe,53,Low
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Mumbai,130.0,No,Yes,3.2,76,245.0,Rajasthani,36,Low
+Kochi,367.0,Yes,Yes,4.9,587,426.0,Biryani,21,High
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Indore,277.0,Yes,No,4.7,622,484.0,Chinese,35,High
+Delhi,227.0,No,No,3.0,813,65.0,Chinese,31,Low
+Chennai,142.0,No,Yes,4.7,186,201.0,Kerala,28,Low
+Delhi,576.0,No,No,4.7,620,531.0,Chinese,33,High
+Ahmedabad,177.0,Yes,No,3.1,411,244.0,Continental,36,Low
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Goa,244.0,Yes,Yes,3.4,265,257.0,Chinese,133,Low
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Nashik,138.0,Yes,Yes,2.7,169,592.0,Fast Food,55,High
+Jaipur,180.0,No,No,2.6,694,229.0,Biryani,119,Low
+Delhi,214.0,Yes,Yes,3.5,686,409.0,Fast Food,59,Low
+Hyderabad,264.0,Yes,Yes,,712,305.0,Cafe,29,High
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Chennai,88.0,Yes,Yes,2.6,226,416.0,Biryani,56,Low
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Indore,583.0,Yes,No,4.5,538,526.0,Continental,32,High
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Kochi,231.0,No,No,2.6,236,310.0,Continental,45,Low
+Ahmedabad,241.0,Yes,Yes,3.4,700,390.0,Cafe,48,Low
+Delhi,126.0,Yes,No,3.3,410,304.0,Fast Food,30,Low
+Chennai,204.0,No,Yes,2.9,161,539.0,Gujarati,44,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Indore,178.0,Yes,Yes,4.0,130,182.0,Chinese,21,Low
+Kochi,93.0,Yes,Yes,4.3,81,447.0,Fast Food,23,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Jaipur,121.0,No,Yes,3.1,385,553.0,Fast Food,27,Low
+Ahmedabad,169.0,No,No,2.6,802,263.0,Continental,56,Low
+Hyderabad,427.0,No,Yes,3.6,680,258.0,Biryani,25,High
+Kochi,103.0,No,No,2.8,232,440.0,Chinese,27,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Indore,477.0,Yes,No,3.7,776,149.0,Kerala,30,Low
+Indore,198.0,Yes,Yes,2.9,688,170.0,Street Food,50,Low
+Ahmedabad,210.0,Yes,Yes,3.3,465,582.0,Fast Food,28,Low
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Bangalore,188.0,Yes,Yes,3.4,2960,525.0,Street Food,45,Low
+Goa,523.0,No,No,,4021,578.0,Seafood,22,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Hyderabad,224.0,No,Yes,2.9,838,542.0,Continental,33,Low
+Bangalore,496.0,No,Yes,4.7,617,176.0,Continental,41,High
+Nagpur,590.0,Yes,No,4.6,831,556.0,North Indian,34,Low
+Pune,153.0,Yes,Yes,3.2,246,,Biryani,59,Low
+Surat,152.0,Yes,Yes,2.7,532,482.0,Kerala,26,High
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Surat,292.0,No,No,4.7,543,414.0,South Indian,33,High
+Goa,195.0,No,Yes,3.5,449,95.0,North Indian,28,Low
+Nagpur,117.0,Yes,Yes,4.3,116,351.0,Rajasthani,35,Low
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Ahmedabad,502.0,Yes,Yes,4.6,520,256.0,Seafood,33,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Ahmedabad,102.0,No,No,3.3,378,416.0,Cafe,46,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Mumbai,106.0,Yes,No,3.3,392,42.0,Street Food,37,Low
+Ahmedabad,140.0,No,Yes,2.8,118,68.0,North Indian,27,Low
+Kochi,189.0,No,No,3.2,767,86.0,Rajasthani,49,Low
+Pune,211.0,No,Yes,2.8,667,143.0,Continental,123,Low
+Delhi,238.0,Yes,Yes,3.1,349,190.0,Chinese,53,Low
+Surat,205.0,No,No,2.7,290,520.0,Street Food,39,Low
+Kochi,125.0,No,No,2.5,456,427.0,Cafe,24,Low
+Goa,554.0,Yes,Yes,4.5,459,36.0,Continental,35,Low
+Kochi,106.0,No,No,4.9,73,349.0,Cafe,99,Low
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Surat,4195.0,No,Yes,3.5,741,580.0,Continental,25,Low
+Nagpur,156.0,Yes,No,2.6,38,415.0,Street Food,56,Low
+Mumbai,88.0,No,Yes,3.5,228,476.0,Gujarati,22,Low
+Goa,138.0,No,No,3.5,268,130.0,Street Food,54,Low
+Bhopal,237.0,No,Yes,4.2,111,172.0,Seafood,42,Low
+Nashik,225.0,No,Yes,3.5,871,573.0,Continental,21,Low
+Mumbai,206.0,No,No,3.9,106,474.0,Cafe,53,Low
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Mumbai,190.0,No,Yes,3.5,113,554.0,North Indian,46,Low
+Nagpur,397.0,Yes,No,4.3,760,353.0,Biryani,21,High
+Surat,250.0,Yes,Yes,3.4,581,156.0,Rajasthani,28,Low
+Goa,297.0,Yes,No,4.8,543,333.0,Cafe,34,High
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Kochi,84.0,Yes,No,3.4,124,381.0,Street Food,31,Low
+Ahmedabad,213.0,No,Yes,2.8,238,590.0,Fast Food,34,Low
+Mumbai,184.0,Yes,No,4.3,54,321.0,Seafood,33,Low
+Pune,129.0,Yes,No,2.7,764,,Continental,58,Low
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Nagpur,246.0,Yes,No,3.2,80,497.0,Cafe,45,Low
+Nagpur,457.0,No,Yes,4.5,2711,167.0,Kerala,24,High
+Chennai,5966.0,No,No,4.9,608,496.0,Rajasthani,21,High
+Hyderabad,264.0,Yes,Yes,,712,305.0,Cafe,29,High
+Indore,182.0,Yes,No,4.6,102,508.0,Street Food,20,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Surat,129.0,Yes,Yes,3.5,249,459.0,North Indian,41,Low
+Jaipur,187.0,Yes,Yes,2.7,636,247.0,North Indian,44,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Chennai,186.0,No,Yes,3.2,744,442.0,Chinese,57,Low
+Kochi,97.0,Yes,No,3.0,487,469.0,Biryani,20,Low
+Nagpur,143.0,Yes,Yes,3.2,236,587.0,Street Food,55,Low
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Nashik,174.0,Yes,No,3.3,372,143.0,North Indian,58,Low
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Delhi,529.0,Yes,No,4.5,460,40.0,Rajasthani,30,High
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Jaipur,221.0,No,Yes,3.3,43,261.0,Biryani,32,Low
+Pune,237.0,No,Yes,3.0,335,526.0,Fast Food,41,Low
+Hyderabad,120.0,Yes,No,4.2,111,484.0,Kerala,56,Low
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Hyderabad,172.0,No,No,3.5,747,423.0,Cafe,29,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Kochi,86.0,No,No,2.9,477,113.0,Kerala,34,Low
+Kochi,180.0,No,No,3.5,346,291.0,North Indian,43,Low
+Mumbai,356.0,No,Yes,4.9,723,287.0,Continental,20,High
+Kochi,,Yes,Yes,2.8,308,527.0,North Indian,52,Low
+Delhi,171.0,Yes,Yes,2.6,119,437.0,Biryani,49,Low
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Pune,465.0,Yes,No,5.0,857,,Fast Food,26,High
+Bhopal,172.0,No,Yes,3.5,36,336.0,Biryani,37,High
+Nagpur,225.0,Yes,No,3.5,594,358.0,Continental,40,Low
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Nagpur,199.0,Yes,No,3.2,750,87.0,Continental,24,Low
+Ahmedabad,133.0,Yes,No,4.2,107,545.0,Street Food,59,Low
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Nashik,118.0,No,No,3.5,897,355.0,Continental,36,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Chennai,227.0,Yes,Yes,2.8,181,443.0,Street Food,60,Low
+Hyderabad,116.0,No,No,2.8,698,592.0,Kerala,43,Low
+Jaipur,152.0,Yes,Yes,3.8,78,290.0,North Indian,24,Low
+Goa,179.0,Yes,No,2.7,160,87.0,Gujarati,124,Low
+Ahmedabad,107.0,Yes,Yes,3.1,468,98.0,Fast Food,20,Low
+Jaipur,232.0,No,Yes,4.0,37,297.0,Fast Food,45,Low
+Goa,222.0,Yes,Yes,4.6,40,388.0,Chinese,44,Low
+Pune,168.0,Yes,Yes,2.8,135,482.0,Rajasthani,49,Low
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Surat,98.0,No,No,4.9,37,53.0,Gujarati,46,Low
+Bhopal,219.0,Yes,Yes,4.1,101,,Street Food,36,Low
+Bhopal,165.0,Yes,No,3.3,4557,410.0,Fast Food,60,Low
+Mumbai,217.0,Yes,No,2.8,389,476.0,Chinese,55,Low
+Surat,149.0,Yes,No,2.8,510,401.0,Gujarati,23,Low
+Pune,163.0,No,No,3.5,314,358.0,Seafood,51,Low
+Indore,238.0,No,No,3.2,837,329.0,Rajasthani,54,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Mumbai,181.0,Yes,No,3.4,399,436.0,South Indian,21,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Nashik,210.0,Yes,No,2.6,234,,Kerala,23,Low
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Indore,581.0,Yes,No,4.8,694,128.0,Street Food,24,High
+Indore,114.0,No,No,3.0,126,418.0,Cafe,41,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Pune,241.0,No,Yes,2.9,855,29.0,Chinese,31,Low
+Kochi,197.0,Yes,No,2.9,765,316.0,Seafood,39,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Hyderabad,488.0,No,Yes,,599,61.0,South Indian,58,Low
+Kochi,297.0,Yes,No,4.9,653,265.0,Continental,30,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Pune,305.0,No,No,4.9,786,340.0,Seafood,56,High
+Delhi,175.0,Yes,Yes,3.4,325,294.0,Rajasthani,55,Low
+Bangalore,244.0,Yes,No,2.7,381,91.0,North Indian,51,Low
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Surat,470.0,Yes,Yes,4.9,774,231.0,South Indian,26,High
+Pune,585.0,Yes,Yes,4.4,566,105.0,Kerala,26,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Surat,187.0,No,Yes,3.1,640,570.0,North Indian,55,Low
+Surat,224.0,No,Yes,2.8,84,408.0,Biryani,38,Low
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Bangalore,217.0,No,Yes,3.1,546,512.0,South Indian,34,Low
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Jaipur,104.0,No,No,3.2,673,492.0,Gujarati,54,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Kochi,338.0,Yes,No,4.3,434,366.0,Biryani,24,High
+Surat,,No,No,2.8,324,106.0,Seafood,22,Low
+Hyderabad,241.0,Yes,No,2.7,293,100.0,Street Food,39,Low
+Nashik,166.0,No,Yes,3.2,152,516.0,Fast Food,35,Low
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Delhi,233.0,No,No,2.7,48,530.0,Rajasthani,45,High
+Goa,406.0,Yes,Yes,4.5,659,106.0,Rajasthani,28,High
+Kochi,122.0,No,No,3.6,150,262.0,Continental,33,Low
+Indore,475.0,Yes,Yes,4.7,597,266.0,Kerala,26,High
+Hyderabad,196.0,No,Yes,2.8,60,457.0,Street Food,37,Low
+Mumbai,,No,No,4.3,145,27.0,Seafood,20,Low
+Bangalore,203.0,No,Yes,3.3,386,77.0,Gujarati,124,Low
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Mumbai,502.0,Yes,No,3.9,167,306.0,Cafe,35,High
+Chennai,128.0,Yes,Yes,3.6,73,442.0,Street Food,28,Low
+Jaipur,109.0,Yes,Yes,3.8,141,71.0,South Indian,35,High
+Bangalore,,No,Yes,4.3,482,366.0,Cafe,27,High
+Nashik,180.0,No,Yes,3.2,214,115.0,Gujarati,24,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Chennai,,Yes,No,2.7,263,70.0,Fast Food,40,Low
+Delhi,94.0,Yes,Yes,3.2,444,,Fast Food,48,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Ahmedabad,149.0,Yes,Yes,2.7,655,531.0,Street Food,26,Low
+Nagpur,145.0,Yes,Yes,3.0,665,491.0,Kerala,55,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Delhi,106.0,No,No,3.7,30,,Cafe,27,Low
+Surat,95.0,Yes,Yes,2.8,158,236.0,Continental,49,Low
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Nagpur,211.0,No,Yes,3.5,303,404.0,Gujarati,56,Low
+Chennai,143.0,Yes,No,,455,512.0,North Indian,50,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Indore,86.0,Yes,Yes,4.4,119,348.0,Chinese,46,Low
+Bangalore,146.0,Yes,No,2.8,123,178.0,Rajasthani,33,Low
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Goa,136.0,Yes,No,3.2,429,449.0,North Indian,54,Low
+Bangalore,172.0,Yes,Yes,3.9,126,430.0,Rajasthani,41,Low
+Hyderabad,129.0,No,No,3.7,111,237.0,Rajasthani,48,Low
+Delhi,576.0,No,No,4.7,620,531.0,Chinese,33,High
+Chennai,181.0,Yes,No,2.6,760,272.0,Rajasthani,29,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Mumbai,137.0,No,Yes,2.6,536,158.0,Kerala,41,High
+Bhopal,169.0,No,Yes,,115,68.0,North Indian,36,Low
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Bangalore,114.0,Yes,Yes,2.8,350,423.0,Rajasthani,35,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Bangalore,192.0,No,Yes,3.2,254,239.0,Street Food,51,Low
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Ahmedabad,434.0,Yes,No,4.3,713,304.0,Rajasthani,21,High
+Hyderabad,250.0,Yes,No,3.2,54,185.0,Rajasthani,33,Low
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Mumbai,84.0,Yes,No,3.5,435,518.0,Rajasthani,23,Low
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Chennai,163.0,Yes,No,2.9,680,65.0,Street Food,45,Low
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Kochi,81.0,Yes,No,3.3,816,334.0,Seafood,51,Low
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Pune,120.0,No,Yes,4.0,64,350.0,Gujarati,26,Low
+Jaipur,143.0,Yes,No,3.7,113,268.0,North Indian,30,Low
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Jaipur,154.0,Yes,No,3.5,434,352.0,Biryani,30,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Nashik,219.0,Yes,No,2.9,370,58.0,Cafe,51,Low
+Surat,171.0,Yes,No,4.6,76,29.0,Continental,28,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Jaipur,214.0,Yes,Yes,2.9,598,144.0,Biryani,55,Low
+Chennai,234.0,No,No,4.8,135,248.0,Gujarati,21,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Mumbai,94.0,No,Yes,2.8,711,583.0,North Indian,56,Low
+Jaipur,209.0,No,Yes,4.7,35,479.0,Gujarati,50,Low
+Surat,150.0,No,Yes,3.2,303,546.0,Fast Food,26,Low
+Jaipur,387.0,Yes,No,4.4,785,325.0,Gujarati,28,High
+Goa,190.0,No,No,3.3,888,127.0,Rajasthani,51,Low
+Hyderabad,189.0,No,No,3.0,621,484.0,Biryani,40,Low
+Hyderabad,129.0,No,No,3.6,688,579.0,Gujarati,50,Low
+Mumbai,,No,Yes,3.3,815,183.0,Fast Food,49,Low
+Goa,194.0,No,No,3.2,398,157.0,Chinese,41,Low
+Bhopal,,Yes,No,3.5,245,326.0,North Indian,43,Low
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Jaipur,100.0,No,No,3.8,34,545.0,South Indian,26,Low
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Ahmedabad,238.0,Yes,Yes,2.9,353,174.0,South Indian,58,Low
+Bhopal,82.0,No,No,4.0,73,383.0,Fast Food,28,Low
+Surat,107.0,No,No,2.6,69,570.0,Kerala,27,Low
+Ahmedabad,89.0,Yes,No,2.7,362,514.0,South Indian,31,Low
+Bhopal,178.0,No,No,3.4,395,375.0,Seafood,28,Low
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Bhopal,176.0,Yes,Yes,2.9,142,274.0,Street Food,30,Low
+Pune,203.0,Yes,No,3.2,58,600.0,Street Food,46,Low
+Pune,128.0,Yes,Yes,3.0,527,218.0,Kerala,53,Low
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Indore,83.0,No,Yes,2.9,694,89.0,North Indian,47,Low
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Jaipur,134.0,Yes,Yes,3.3,3746,412.0,North Indian,59,Low
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Delhi,234.0,Yes,Yes,2.7,281,,Kerala,45,Low
+Nashik,219.0,No,Yes,2.6,192,48.0,Fast Food,60,Low
+Kochi,103.0,Yes,Yes,3.2,590,38.0,South Indian,36,Low
+Nagpur,183.0,Yes,No,2.8,314,402.0,South Indian,46,Low
+Bhopal,156.0,Yes,Yes,3.5,174,204.0,Gujarati,54,Low
+Bhopal,432.0,No,No,4.8,826,443.0,Cafe,33,High
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Ahmedabad,144.0,Yes,No,2.7,819,211.0,Biryani,51,Low
+Hyderabad,175.0,No,Yes,,638,181.0,Gujarati,21,High
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Mumbai,144.0,Yes,Yes,3.4,395,376.0,North Indian,39,Low
+Chennai,83.0,No,Yes,2.6,420,416.0,Cafe,46,Low
+Hyderabad,151.0,No,Yes,3.6,55,530.0,Continental,37,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Bangalore,101.0,No,No,3.5,664,152.0,Rajasthani,48,Low
+Hyderabad,312.0,No,Yes,4.3,495,465.0,Fast Food,23,High
+Chennai,143.0,No,No,2.5,829,597.0,Gujarati,50,Low
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Chennai,225.0,No,Yes,2.9,392,143.0,South Indian,33,Low
+Jaipur,210.0,No,No,2.8,468,205.0,Chinese,31,Low
+Nashik,187.0,Yes,No,2.5,44,307.0,Biryani,20,Low
+Pune,520.0,No,Yes,4.2,437,68.0,Chinese,51,High
+Bangalore,181.0,No,Yes,3.5,612,582.0,South Indian,20,Low
+Surat,107.0,Yes,No,3.1,101,498.0,Biryani,20,High
+Delhi,218.0,No,No,3.1,186,456.0,Seafood,39,Low
+Bhopal,142.0,Yes,No,2.6,602,47.0,North Indian,46,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Delhi,529.0,Yes,No,4.5,460,40.0,Rajasthani,30,High
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Jaipur,162.0,No,Yes,5.0,123,170.0,Seafood,29,High
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Chennai,212.0,No,No,3.8,74,516.0,Cafe,46,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Bhopal,112.0,Yes,No,2.9,878,77.0,Gujarati,20,Low
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Pune,174.0,No,Yes,3.8,127,484.0,Seafood,46,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Goa,135.0,No,Yes,2.7,721,241.0,Continental,45,Low
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Jaipur,90.0,Yes,No,4.4,35,,Gujarati,32,Low
+Surat,92.0,Yes,Yes,3.0,518,311.0,South Indian,22,Low
+Indore,204.0,No,Yes,,319,561.0,Kerala,39,Low
+Indore,209.0,No,Yes,3.5,264,421.0,North Indian,59,High
+Surat,4980.0,Yes,No,2.7,2757,212.0,Kerala,46,Low
+Hyderabad,188.0,Yes,No,3.4,161,516.0,Biryani,32,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Chennai,116.0,No,No,3.1,352,,Gujarati,30,Low
+Pune,353.0,Yes,Yes,4.7,424,74.0,Chinese,23,High
+Goa,140.0,Yes,Yes,2.5,122,231.0,Rajasthani,59,Low
+Kochi,214.0,No,No,4.3,128,533.0,Cafe,37,Low
+Bhopal,432.0,No,No,4.8,826,443.0,Cafe,33,High
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Kochi,164.0,Yes,Yes,3.5,795,174.0,North Indian,43,High
+Goa,118.0,No,No,4.9,142,215.0,Chinese,21,Low
+Goa,84.0,Yes,Yes,3.1,253,81.0,Kerala,28,High
+Kochi,88.0,Yes,Yes,3.0,606,217.0,Gujarati,29,Low
+Delhi,529.0,Yes,No,4.5,460,40.0,Rajasthani,30,High
+Indore,581.0,Yes,No,4.8,694,128.0,Street Food,24,High
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Indore,130.0,No,Yes,3.4,671,137.0,Cafe,20,Low
+Ahmedabad,96.0,Yes,Yes,2.8,314,532.0,Kerala,51,Low
+Nashik,122.0,No,No,4.8,43,299.0,Gujarati,48,Low
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Jaipur,162.0,No,Yes,5.0,123,170.0,Seafood,29,High
+Indore,182.0,No,No,3.0,626,69.0,Cafe,49,Low
+Hyderabad,91.0,No,No,3.8,60,364.0,Continental,21,Low
+Hyderabad,154.0,No,No,3.5,427,315.0,Street Food,21,Low
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Kochi,137.0,No,No,2.8,507,456.0,Seafood,57,Low
+Jaipur,184.0,No,No,3.2,473,364.0,South Indian,35,Low
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Bangalore,160.0,No,Yes,2.7,31,415.0,Chinese,33,Low
+Ahmedabad,123.0,No,Yes,3.2,757,433.0,South Indian,60,Low
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Hyderabad,234.0,No,Yes,4.3,38,72.0,Kerala,49,Low
+Kochi,116.0,Yes,No,3.3,858,246.0,Biryani,60,Low
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Delhi,243.0,No,No,3.4,669,504.0,Seafood,37,Low
+Nagpur,192.0,No,No,2.5,336,80.0,Biryani,33,Low
+Ahmedabad,362.0,No,Yes,4.6,460,176.0,Cafe,35,High
+Indore,229.0,Yes,Yes,4.9,105,500.0,Seafood,39,Low
+Mumbai,138.0,Yes,No,3.3,502,187.0,Cafe,56,Low
+Chennai,288.0,Yes,No,4.9,480,242.0,Continental,142,High
+Bhopal,166.0,No,Yes,3.5,327,261.0,Gujarati,43,Low
+Goa,167.0,Yes,Yes,2.6,201,327.0,North Indian,52,Low
+Surat,228.0,No,No,4.1,321,234.0,Cafe,47,Low
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Delhi,,No,No,2.9,598,287.0,Kerala,48,Low
+Bangalore,238.0,No,Yes,2.7,224,54.0,Kerala,35,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Bhopal,271.0,No,No,4.9,676,419.0,South Indian,30,High
+Nagpur,,No,Yes,3.3,609,190.0,Street Food,32,Low
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Jaipur,207.0,No,Yes,2.7,60,290.0,Rajasthani,54,Low
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Nagpur,113.0,No,Yes,3.9,122,247.0,Fast Food,47,Low
+Ahmedabad,81.0,No,No,2.8,552,196.0,Seafood,38,Low
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Bhopal,397.0,No,No,4.3,764,471.0,Kerala,34,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Nashik,177.0,No,No,3.0,669,32.0,Gujarati,26,Low
+Surat,300.0,No,Yes,4.3,593,26.0,Rajasthani,31,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Ahmedabad,143.0,No,Yes,3.5,105,74.0,Cafe,29,Low
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Mumbai,122.0,No,No,3.0,480,427.0,Fast Food,39,Low
+Nashik,187.0,Yes,Yes,2.9,739,550.0,Continental,21,Low
+Delhi,303.0,No,No,4.0,678,532.0,Biryani,37,High
+Kochi,136.0,Yes,Yes,3.0,773,155.0,Biryani,53,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Delhi,157.0,No,No,2.5,219,421.0,Cafe,43,Low
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Nagpur,120.0,Yes,No,2.6,858,389.0,North Indian,45,Low
+Indore,583.0,Yes,No,4.5,538,526.0,Continental,32,High
+Bangalore,211.0,No,Yes,2.9,4045,283.0,South Indian,26,Low
+Chennai,163.0,No,Yes,3.3,332,210.0,Biryani,28,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Nashik,166.0,Yes,Yes,4.2,143,502.0,North Indian,36,Low
+Chennai,158.0,No,No,3.1,144,436.0,South Indian,24,Low
+Chennai,187.0,No,Yes,3.5,616,478.0,Biryani,57,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Delhi,443.0,Yes,No,4.7,593,,Cafe,32,High
+Bangalore,143.0,Yes,Yes,2.8,30,176.0,Street Food,58,Low
+Ahmedabad,158.0,No,No,3.5,413,249.0,Street Food,109,Low
+Chennai,,Yes,Yes,2.7,441,454.0,Seafood,35,Low
+Nashik,248.0,Yes,No,3.4,766,596.0,Street Food,41,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Bhopal,210.0,No,Yes,2.9,708,491.0,Continental,50,Low
+Goa,254.0,No,Yes,5.0,436,527.0,Gujarati,31,High
+Kochi,102.0,No,Yes,2.5,67,420.0,Seafood,52,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Indore,180.0,No,No,3.3,183,265.0,Biryani,22,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Delhi,111.0,No,Yes,4.4,77,121.0,Continental,60,Low
+Indore,583.0,Yes,No,4.5,538,526.0,Continental,32,High
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Nagpur,110.0,Yes,Yes,2.7,710,386.0,Kerala,50,High
+Bangalore,177.0,Yes,Yes,3.4,290,456.0,Kerala,60,Low
+Delhi,133.0,Yes,No,3.6,72,335.0,Fast Food,43,Low
+Surat,248.0,No,Yes,2.8,165,265.0,Kerala,23,Low
+Surat,81.0,No,No,3.8,88,330.0,Seafood,24,Low
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Kochi,121.0,No,Yes,2.7,759,432.0,Biryani,28,Low
+Indore,296.0,No,No,4.5,597,,North Indian,26,High
+Surat,206.0,No,Yes,2.9,441,401.0,Street Food,49,Low
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Pune,196.0,Yes,No,4.1,115,244.0,South Indian,32,Low
+Chennai,210.0,No,Yes,3.2,770,73.0,South Indian,34,Low
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Chennai,175.0,Yes,Yes,,126,,South Indian,36,Low
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Surat,293.0,No,Yes,4.6,509,76.0,Biryani,28,High
+Ahmedabad,212.0,No,No,3.0,388,105.0,Chinese,47,High
+Mumbai,3759.0,No,No,4.5,674,208.0,Street Food,31,High
+Pune,171.0,No,No,3.9,53,249.0,Street Food,38,High
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Pune,186.0,Yes,No,3.5,680,135.0,North Indian,42,Low
+Nagpur,,No,Yes,2.8,284,219.0,Kerala,39,Low
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Chennai,223.0,Yes,Yes,4.7,150,237.0,Continental,49,Low
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Delhi,4226.0,No,No,4.9,52,524.0,Chinese,27,Low
+Delhi,345.0,Yes,Yes,4.4,579,,Kerala,44,High
+Nashik,183.0,Yes,Yes,2.9,550,102.0,Continental,31,Low
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Nashik,132.0,Yes,Yes,3.5,49,411.0,Biryani,44,Low
+Chennai,569.0,No,No,,596,,North Indian,33,Low
+Jaipur,,No,Yes,3.4,650,434.0,Continental,36,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Surat,224.0,Yes,Yes,3.5,181,600.0,North Indian,57,Low
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Pune,158.0,Yes,No,3.3,385,,Rajasthani,54,Low
+Bhopal,91.0,No,No,4.3,55,549.0,South Indian,43,Low
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Indore,,No,No,5.0,126,289.0,Seafood,47,Low
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Indore,220.0,No,No,2.7,704,247.0,Chinese,20,Low
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Nashik,166.0,Yes,No,3.2,518,493.0,Fast Food,21,Low
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Bangalore,590.0,No,Yes,4.6,656,534.0,Chinese,26,High
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Pune,154.0,Yes,Yes,3.5,125,420.0,Chinese,55,High
+Delhi,226.0,No,Yes,,551,34.0,Rajasthani,56,Low
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Surat,,No,Yes,3.2,70,561.0,Seafood,44,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Surat,221.0,No,Yes,3.2,608,240.0,North Indian,30,Low
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Goa,,No,Yes,4.2,71,354.0,Gujarati,46,High
+Chennai,227.0,No,Yes,3.0,696,195.0,Rajasthani,35,Low
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Chennai,102.0,No,No,2.7,273,322.0,Biryani,25,Low
+Bangalore,201.0,Yes,Yes,4.3,698,536.0,Kerala,44,High
+Bangalore,164.0,No,Yes,2.9,113,491.0,North Indian,50,Low
+Mumbai,2301.0,Yes,No,3.4,380,204.0,South Indian,32,Low
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Indore,156.0,Yes,Yes,3.7,41,530.0,Seafood,32,Low
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Bangalore,238.0,Yes,No,4.5,114,130.0,Fast Food,57,Low
+Mumbai,467.0,Yes,No,4.0,292,155.0,Fast Food,44,High
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Bangalore,129.0,Yes,Yes,3.7,130,237.0,Kerala,27,Low
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Jaipur,196.0,No,Yes,2.6,2521,540.0,Continental,35,High
+Nagpur,128.0,No,Yes,3.3,421,445.0,Rajasthani,37,Low
+Indore,296.0,No,No,4.5,597,,North Indian,26,High
+Pune,465.0,Yes,No,5.0,857,,Fast Food,26,High
+Surat,238.0,Yes,Yes,4.3,137,360.0,Continental,48,Low
+Bhopal,145.0,No,Yes,3.3,88,30.0,Continental,42,Low
+Mumbai,198.0,Yes,No,3.5,160,248.0,North Indian,20,Low
+Nagpur,233.0,No,No,3.4,765,307.0,Chinese,51,Low
+Ahmedabad,85.0,Yes,No,3.2,451,271.0,Biryani,28,Low
+Hyderabad,149.0,No,Yes,2.5,419,224.0,Street Food,50,Low
+Chennai,,Yes,No,3.4,767,430.0,Kerala,56,Low
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Nashik,398.0,Yes,No,4.6,612,535.0,Street Food,31,High
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Jaipur,146.0,Yes,No,3.0,548,49.0,Kerala,47,Low
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Ahmedabad,502.0,Yes,Yes,4.6,520,256.0,Seafood,33,High
+Jaipur,196.0,No,Yes,2.6,2521,540.0,Continental,35,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Nagpur,385.0,No,Yes,4.7,865,563.0,Kerala,32,High
+Jaipur,200.0,No,No,4.0,149,336.0,Cafe,35,Low
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Goa,184.0,No,Yes,3.7,50,76.0,South Indian,25,Low
+Ahmedabad,223.0,No,No,3.5,705,165.0,Chinese,26,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Surat,208.0,Yes,Yes,2.5,404,599.0,Fast Food,26,Low
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Bangalore,90.0,No,Yes,2.8,630,297.0,Fast Food,51,Low
+Bangalore,181.0,No,No,2.7,642,434.0,Gujarati,36,Low
+Bangalore,144.0,Yes,No,3.6,89,488.0,South Indian,51,Low
+Bhopal,393.0,Yes,Yes,4.4,596,297.0,Rajasthani,29,High
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Ahmedabad,131.0,Yes,No,3.2,613,287.0,Seafood,26,Low
+Hyderabad,206.0,Yes,Yes,3.1,145,341.0,Kerala,27,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Hyderabad,186.0,No,Yes,2.7,437,220.0,Continental,36,Low
+Ahmedabad,,Yes,Yes,2.7,897,194.0,Rajasthani,34,Low
+Delhi,129.0,No,No,3.5,309,578.0,Biryani,47,Low
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Pune,97.0,Yes,Yes,3.9,128,300.0,Cafe,93,Low
+Delhi,233.0,No,No,2.7,48,530.0,Rajasthani,45,High
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Pune,211.0,No,No,3.4,425,463.0,South Indian,24,Low
+Chennai,248.0,No,Yes,3.3,1925,,Chinese,22,Low
+Kochi,144.0,No,Yes,3.2,246,427.0,Seafood,20,High
+Goa,418.0,Yes,No,5.0,638,136.0,Gujarati,30,High
+Pune,144.0,Yes,Yes,3.4,345,41.0,Seafood,58,Low
+Goa,219.0,No,No,2.6,649,,Biryani,60,Low
+Bhopal,171.0,No,No,3.7,671,557.0,Fast Food,51,High
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Ahmedabad,168.0,No,Yes,3.4,569,428.0,Continental,45,Low
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Nagpur,,No,Yes,3.3,549,589.0,Gujarati,51,Low
+Ahmedabad,171.0,No,No,2.8,428,241.0,Biryani,51,Low
+Goa,114.0,No,Yes,3.3,738,188.0,Gujarati,31,Low
+Ahmedabad,434.0,Yes,No,4.3,713,304.0,Rajasthani,21,High
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Chennai,234.0,Yes,Yes,2.9,664,80.0,Street Food,26,Low
+Indore,213.0,No,Yes,4.1,2142,213.0,Fast Food,42,Low
+Ahmedabad,138.0,Yes,No,3.3,676,348.0,Kerala,45,Low
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Chennai,192.0,No,Yes,3.9,145,136.0,South Indian,37,Low
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Bangalore,221.0,No,No,2.7,256,434.0,Biryani,35,Low
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Nagpur,163.0,Yes,Yes,3.3,683,273.0,Continental,37,Low
+Nashik,138.0,Yes,Yes,2.7,169,592.0,Fast Food,55,High
+Kochi,164.0,Yes,Yes,3.5,795,174.0,North Indian,43,High
+Chennai,96.0,No,Yes,3.0,59,24.0,Biryani,31,Low
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Indore,171.0,Yes,Yes,4.9,71,570.0,Street Food,28,Low
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Bangalore,203.0,No,No,3.4,806,76.0,Biryani,40,Low
+Indore,260.0,No,Yes,4.5,860,484.0,North Indian,22,High
+Jaipur,381.0,No,No,4.6,476,473.0,Cafe,30,High
+Hyderabad,82.0,No,No,2.8,701,262.0,Street Food,29,Low
+Chennai,169.0,Yes,Yes,2.8,326,249.0,Fast Food,21,Low
+Jaipur,569.0,Yes,No,5.0,818,168.0,Continental,56,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Kochi,206.0,No,Yes,3.2,848,289.0,Kerala,57,Low
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Ahmedabad,362.0,No,Yes,4.6,460,176.0,Cafe,35,High
+Ahmedabad,121.0,Yes,No,3.4,582,295.0,Gujarati,33,Low
+Goa,297.0,Yes,No,4.8,543,333.0,Cafe,34,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Nagpur,193.0,No,Yes,3.0,594,180.0,Chinese,44,High
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Bhopal,115.0,Yes,Yes,2.7,689,291.0,Chinese,38,Low
+Ahmedabad,131.0,Yes,Yes,3.1,426,317.0,Fast Food,25,Low
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Pune,238.0,No,No,4.1,84,436.0,Continental,33,Low
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Chennai,234.0,Yes,No,4.9,84,120.0,Street Food,47,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Pune,183.0,Yes,No,4.0,92,533.0,Gujarati,42,Low
+Hyderabad,157.0,Yes,Yes,4.2,35,118.0,Continental,57,Low
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Indore,260.0,No,Yes,4.5,860,484.0,North Indian,22,High
+Mumbai,218.0,No,Yes,3.3,743,331.0,Street Food,41,Low
+Nagpur,87.0,Yes,No,4.6,150,177.0,Fast Food,41,Low
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Kochi,232.0,Yes,No,3.1,706,475.0,North Indian,36,Low
+Indore,334.0,Yes,No,4.6,483,490.0,Gujarati,22,High
+Mumbai,109.0,No,Yes,3.4,797,50.0,North Indian,56,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Hyderabad,,No,No,2.7,577,539.0,Seafood,48,Low
+Indore,529.0,Yes,Yes,3.7,811,550.0,Kerala,49,Low
+Bangalore,137.0,No,Yes,2.5,568,465.0,Continental,49,Low
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Mumbai,137.0,No,Yes,2.6,536,158.0,Kerala,41,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Nagpur,,Yes,Yes,2.5,700,242.0,Chinese,55,Low
+Jaipur,335.0,Yes,Yes,4.9,1758,235.0,Seafood,31,High
+Indore,190.0,No,No,2.6,877,154.0,Continental,49,Low
+Nagpur,486.0,Yes,Yes,4.6,740,278.0,Rajasthani,23,High
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Surat,152.0,No,Yes,3.5,763,457.0,Continental,43,Low
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Kochi,232.0,No,No,4.5,129,281.0,Seafood,31,High
+Goa,211.0,No,Yes,4.8,861,578.0,Rajasthani,49,Low
+Nagpur,105.0,Yes,Yes,2.8,601,551.0,Street Food,35,Low
+Goa,150.0,Yes,No,2.9,80,242.0,Rajasthani,47,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Ahmedabad,5470.0,Yes,Yes,,375,474.0,Continental,20,Low
+Nashik,89.0,Yes,Yes,3.3,842,319.0,Fast Food,23,Low
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Chennai,225.0,Yes,No,3.2,30,509.0,Gujarati,39,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Chennai,132.0,No,No,2.8,503,268.0,North Indian,38,Low
+Jaipur,120.0,Yes,No,3.1,795,308.0,South Indian,30,Low
+Kochi,186.0,Yes,Yes,3.1,575,117.0,Continental,52,Low
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Hyderabad,82.0,No,Yes,3.0,603,579.0,Gujarati,20,Low
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Hyderabad,91.0,Yes,No,2.8,863,456.0,Fast Food,51,Low
+Chennai,229.0,Yes,Yes,3.5,88,242.0,Fast Food,28,Low
+Jaipur,122.0,No,No,2.9,469,51.0,Fast Food,43,Low
+Jaipur,497.0,Yes,No,5.0,521,300.0,Rajasthani,26,High
+Bhopal,135.0,No,No,3.3,711,585.0,Gujarati,24,Low
+Mumbai,143.0,Yes,Yes,3.5,225,279.0,Cafe,28,Low
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Indore,224.0,No,No,4.3,42,401.0,Gujarati,23,Low
+Mumbai,430.0,Yes,Yes,4.7,526,318.0,Fast Food,22,High
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Jaipur,313.0,No,Yes,4.5,603,291.0,Rajasthani,28,High
+Nagpur,385.0,No,Yes,4.7,865,563.0,Kerala,32,High
+Ahmedabad,251.0,Yes,Yes,4.4,442,484.0,South Indian,35,High
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Ahmedabad,227.0,Yes,Yes,2.8,430,391.0,Rajasthani,20,Low
+Delhi,191.0,Yes,No,3.8,135,594.0,Cafe,37,Low
+Goa,156.0,No,No,2.7,321,593.0,Street Food,50,Low
+Pune,132.0,Yes,No,3.0,243,535.0,Continental,53,Low
+Pune,329.0,No,No,4.4,519,55.0,Cafe,26,High
+Kochi,222.0,No,No,2.6,71,506.0,South Indian,31,Low
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Pune,237.0,Yes,No,4.1,134,483.0,Rajasthani,37,Low
+Ahmedabad,125.0,Yes,No,2.5,230,98.0,Fast Food,24,Low
+Mumbai,149.0,No,No,3.3,234,389.0,Fast Food,35,Low
+Kochi,123.0,No,No,3.1,894,566.0,Seafood,47,Low
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Hyderabad,264.0,Yes,Yes,,712,305.0,Cafe,29,High
+Delhi,249.0,No,Yes,2.9,200,284.0,Cafe,31,Low
+Mumbai,204.0,Yes,No,2.6,99,52.0,Kerala,41,Low
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Kochi,224.0,No,Yes,3.2,762,317.0,Gujarati,34,Low
+Chennai,244.0,Yes,No,3.2,322,522.0,South Indian,49,Low
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Surat,300.0,No,Yes,4.3,593,26.0,Rajasthani,31,High
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Kochi,221.0,Yes,Yes,4.2,2631,300.0,Kerala,20,Low
+Nagpur,97.0,No,No,3.1,254,222.0,Gujarati,36,Low
+Kochi,563.0,No,Yes,4.5,430,522.0,Continental,26,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Nagpur,193.0,No,Yes,3.0,594,180.0,Chinese,44,High
+Bhopal,336.0,No,Yes,4.7,649,309.0,Biryani,24,High
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Goa,145.0,No,No,2.6,33,586.0,Continental,58,Low
+Pune,137.0,No,Yes,4.7,44,86.0,Rajasthani,41,Low
+Mumbai,125.0,Yes,Yes,3.3,875,99.0,Street Food,56,Low
+Jaipur,109.0,Yes,Yes,3.8,141,71.0,South Indian,35,High
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Surat,229.0,Yes,Yes,3.1,768,121.0,Biryani,47,Low
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Jaipur,157.0,No,No,3.0,851,197.0,Seafood,40,Low
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Goa,117.0,No,No,,138,375.0,Biryani,23,Low
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Ahmedabad,239.0,No,Yes,3.2,616,583.0,Biryani,60,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Surat,232.0,No,Yes,3.2,457,37.0,Seafood,48,Low
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Bhopal,6816.0,No,No,2.6,672,539.0,Fast Food,48,High
+Indore,581.0,Yes,No,4.8,694,128.0,Street Food,24,High
+Surat,240.0,Yes,Yes,3.3,874,565.0,Kerala,59,Low
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Bhopal,,Yes,No,,430,434.0,Cafe,51,Low
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Bangalore,169.0,Yes,No,2.8,545,254.0,Fast Food,56,Low
+Nashik,206.0,Yes,No,2.6,3136,238.0,Fast Food,50,Low
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Chennai,,Yes,No,2.8,124,183.0,Cafe,31,Low
+Pune,107.0,Yes,No,2.9,370,588.0,Continental,155,Low
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Surat,209.0,No,No,2.8,669,581.0,Chinese,40,Low
+Indore,170.0,No,No,3.1,742,98.0,Rajasthani,24,Low
+Nagpur,457.0,No,Yes,4.5,2711,167.0,Kerala,24,High
+Hyderabad,121.0,Yes,Yes,,202,442.0,Seafood,40,Low
+Delhi,228.0,No,Yes,2.8,528,377.0,Kerala,22,Low
+Jaipur,361.0,No,No,3.8,455,201.0,Kerala,46,High
+Kochi,219.0,Yes,Yes,3.2,47,541.0,Biryani,38,Low
+Bhopal,5847.0,No,Yes,2.9,602,51.0,Cafe,34,Low
+Hyderabad,109.0,No,Yes,3.4,802,445.0,Seafood,53,Low
+Indore,185.0,No,Yes,3.4,163,589.0,Street Food,23,Low
+Hyderabad,107.0,No,No,2.9,599,503.0,North Indian,51,Low
+Hyderabad,408.0,Yes,Yes,4.9,610,529.0,Cafe,26,High
+Nashik,104.0,Yes,No,4.5,110,496.0,Biryani,56,Low
+Kochi,95.0,Yes,No,2.7,605,499.0,Street Food,44,Low
+Chennai,199.0,Yes,No,2.6,440,377.0,Gujarati,55,Low
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Pune,157.0,Yes,Yes,3.1,404,443.0,Cafe,30,Low
+Kochi,126.0,Yes,Yes,2.5,516,266.0,Fast Food,52,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Pune,240.0,Yes,No,2.7,42,23.0,North Indian,58,Low
+Delhi,453.0,Yes,Yes,4.9,549,525.0,Seafood,29,High
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Bhopal,170.0,Yes,Yes,3.0,542,280.0,South Indian,21,Low
+Pune,107.0,Yes,No,4.3,109,154.0,Chinese,23,Low
+Indore,277.0,Yes,No,4.7,622,484.0,Chinese,35,High
+Bhopal,243.0,Yes,Yes,2.8,512,196.0,Fast Food,42,Low
+Nagpur,228.0,Yes,No,3.0,653,482.0,Fast Food,25,Low
+Nagpur,240.0,Yes,Yes,3.3,449,246.0,Rajasthani,56,Low
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Chennai,102.0,No,Yes,2.8,425,,Continental,32,Low
+Surat,192.0,Yes,Yes,3.1,188,377.0,Rajasthani,34,Low
+Jaipur,4279.0,Yes,Yes,2.7,765,188.0,Fast Food,34,Low
+Pune,465.0,Yes,No,5.0,857,,Fast Food,26,High
+Chennai,214.0,No,Yes,4.3,123,136.0,Cafe,48,Low
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Ahmedabad,362.0,No,Yes,4.6,460,176.0,Cafe,35,High
+Surat,143.0,No,No,3.1,129,71.0,Continental,38,Low
+Delhi,237.0,Yes,No,3.2,151,387.0,Rajasthani,20,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Hyderabad,236.0,No,No,3.5,600,578.0,Biryani,57,Low
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Mumbai,2760.0,Yes,Yes,3.5,342,581.0,North Indian,27,Low
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Pune,218.0,Yes,Yes,4.8,324,226.0,Seafood,30,High
+Surat,122.0,No,No,3.1,131,467.0,Street Food,49,Low
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Surat,175.0,Yes,Yes,3.2,382,456.0,Biryani,44,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Indore,294.0,Yes,Yes,4.8,584,279.0,Continental,127,High
+Surat,120.0,Yes,Yes,2.8,258,239.0,Chinese,55,Low
+Nagpur,182.0,No,No,4.7,78,359.0,South Indian,37,Low
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Nashik,398.0,Yes,No,4.6,612,535.0,Street Food,31,High
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Nagpur,180.0,Yes,No,3.0,780,250.0,Seafood,23,Low
+Pune,195.0,No,Yes,2.9,760,478.0,Chinese,38,Low
+Nashik,218.0,No,Yes,4.5,873,102.0,Seafood,57,Low
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Bhopal,241.0,Yes,Yes,4.5,134,595.0,Biryani,22,Low
+Kochi,168.0,Yes,Yes,4.5,66,517.0,Gujarati,53,Low
+Indore,356.0,No,Yes,4.5,814,100.0,Kerala,27,High
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Jaipur,495.0,No,No,5.0,310,426.0,Rajasthani,37,Low
+Pune,305.0,No,No,4.9,786,340.0,Seafood,56,High
+Goa,132.0,No,Yes,3.0,518,222.0,South Indian,55,Low
+Mumbai,430.0,Yes,Yes,4.7,526,318.0,Fast Food,22,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Bhopal,6570.0,No,Yes,3.1,608,271.0,Chinese,36,Low
+Chennai,288.0,Yes,No,4.9,480,242.0,Continental,142,High
+Mumbai,312.0,No,Yes,4.7,478,586.0,Continental,29,High
+Pune,111.0,No,No,2.8,263,332.0,Fast Food,43,Low
+Hyderabad,143.0,No,No,2.7,358,565.0,Fast Food,54,Low
+Pune,4774.0,No,Yes,2.7,806,240.0,Kerala,53,Low
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Pune,448.0,Yes,Yes,4.8,837,154.0,Kerala,22,High
+Nashik,,No,Yes,3.2,359,465.0,Biryani,40,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Mumbai,247.0,Yes,No,2.9,35,204.0,Fast Food,52,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Ahmedabad,113.0,Yes,Yes,3.1,164,77.0,Gujarati,20,Low
+Hyderabad,258.0,Yes,Yes,4.5,445,421.0,Chinese,28,High
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Indore,86.0,No,Yes,3.3,289,406.0,Biryani,56,Low
+Jaipur,335.0,Yes,Yes,4.9,1758,235.0,Seafood,31,High
+Bhopal,85.0,No,No,3.2,346,43.0,Gujarati,43,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Jaipur,313.0,No,Yes,4.5,603,291.0,Rajasthani,28,High
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Bangalore,205.0,No,No,2.8,719,350.0,Seafood,60,Low
+Indore,186.0,Yes,Yes,3.1,321,420.0,Street Food,43,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Bhopal,122.0,Yes,No,2.7,424,482.0,Kerala,20,High
+Chennai,4200.0,Yes,No,3.4,615,153.0,Street Food,22,Low
+Hyderabad,194.0,No,Yes,2.7,535,372.0,Rajasthani,23,Low
+Mumbai,162.0,Yes,No,3.1,866,442.0,North Indian,24,Low
+Bhopal,171.0,No,No,3.3,403,364.0,Chinese,55,Low
+Bhopal,81.0,No,No,2.7,728,336.0,Continental,21,Low
+Indore,119.0,Yes,Yes,2.8,478,519.0,Seafood,47,Low
+Goa,117.0,Yes,Yes,2.7,263,371.0,Rajasthani,22,Low
+Bangalore,234.0,No,No,2.9,64,543.0,South Indian,36,Low
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Bhopal,88.0,No,Yes,2.8,816,274.0,Rajasthani,44,Low
+Nagpur,156.0,Yes,Yes,3.3,210,540.0,Fast Food,57,Low
+Bangalore,590.0,No,Yes,4.6,656,534.0,Chinese,26,High
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Kochi,242.0,No,Yes,4.8,127,112.0,Kerala,58,Low
+Ahmedabad,192.0,Yes,No,3.4,644,479.0,South Indian,60,Low
+Indore,172.0,No,No,2.8,792,594.0,South Indian,54,Low
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Kochi,192.0,Yes,No,3.1,404,239.0,Cafe,42,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Pune,200.0,Yes,Yes,2.6,742,279.0,Cafe,37,Low
+Bhopal,168.0,Yes,No,3.0,213,80.0,Biryani,43,Low
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Chennai,240.0,Yes,Yes,3.3,743,532.0,Rajasthani,48,Low
+Chennai,215.0,No,Yes,2.9,775,333.0,Rajasthani,57,Low
+Nagpur,103.0,No,Yes,3.4,581,253.0,Gujarati,40,Low
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Nashik,94.0,No,No,2.6,497,381.0,Seafood,49,Low
+Bhopal,134.0,Yes,No,3.3,78,206.0,North Indian,22,Low
+Ahmedabad,124.0,Yes,No,2.9,627,544.0,Chinese,47,Low
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Delhi,216.0,No,Yes,2.9,368,420.0,North Indian,44,Low
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Nashik,242.0,Yes,Yes,3.5,173,381.0,Cafe,59,Low
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Kochi,367.0,Yes,Yes,4.9,587,426.0,Biryani,21,High
+Goa,143.0,Yes,No,3.4,348,166.0,Kerala,53,Low
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Nagpur,397.0,Yes,No,4.3,760,353.0,Biryani,21,High
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Chennai,222.0,No,No,3.0,48,104.0,North Indian,27,Low
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Ahmedabad,233.0,No,Yes,3.7,134,569.0,Kerala,56,Low
+Delhi,137.0,No,Yes,3.1,426,200.0,Fast Food,44,Low
+Mumbai,191.0,No,Yes,2.7,852,20.0,Chinese,28,Low
+Delhi,81.0,Yes,Yes,3.1,639,512.0,Fast Food,60,Low
+Delhi,248.0,No,Yes,4.5,53,232.0,Rajasthani,25,Low
+Bangalore,172.0,Yes,Yes,4.9,128,228.0,Chinese,22,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Chennai,207.0,No,Yes,2.9,437,532.0,Cafe,35,Low
+Ahmedabad,199.0,No,Yes,3.3,511,536.0,Seafood,55,Low
+Goa,145.0,Yes,Yes,2.6,190,464.0,Continental,39,Low
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Indore,151.0,No,Yes,3.1,705,217.0,Continental,45,Low
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Indore,140.0,No,Yes,3.0,3498,596.0,South Indian,25,High
+Hyderabad,247.0,No,No,3.3,184,285.0,Fast Food,34,Low
+Jaipur,107.0,Yes,Yes,2.9,81,334.0,Biryani,26,Low
+Bangalore,,No,Yes,3.1,585,62.0,South Indian,37,Low
+Kochi,481.0,Yes,No,4.6,737,322.0,Kerala,33,High
+Pune,137.0,No,No,3.5,481,361.0,North Indian,45,Low
+Nashik,163.0,Yes,No,2.8,793,305.0,North Indian,51,Low
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Ahmedabad,201.0,Yes,No,4.6,77,170.0,Cafe,26,Low
+Nagpur,164.0,No,Yes,3.5,640,132.0,Biryani,49,Low
+Indore,143.0,Yes,No,,227,302.0,Street Food,29,Low
+Mumbai,152.0,Yes,No,3.1,138,362.0,North Indian,39,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Pune,154.0,Yes,Yes,3.5,125,420.0,Chinese,55,High
+Hyderabad,160.0,No,No,3.1,857,274.0,Cafe,51,Low
+Goa,,No,Yes,2.8,106,569.0,Kerala,43,Low
+Nashik,84.0,No,Yes,2.6,224,295.0,Fast Food,56,Low
+Hyderabad,535.0,No,Yes,4.1,479,30.0,Seafood,32,Low
+Jaipur,4807.0,Yes,No,2.7,613,199.0,Chinese,58,Low
+Nashik,188.0,Yes,Yes,3.1,502,514.0,Seafood,52,Low
+Nashik,160.0,Yes,No,2.9,354,499.0,North Indian,35,Low
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Delhi,80.0,Yes,Yes,3.2,836,544.0,Street Food,48,Low
+Jaipur,97.0,No,Yes,,104,219.0,Gujarati,35,Low
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Hyderabad,2958.0,No,No,2.6,285,465.0,Chinese,46,Low
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Nashik,141.0,Yes,Yes,3.2,282,94.0,Seafood,21,Low
+Chennai,145.0,Yes,No,3.0,345,175.0,North Indian,26,Low
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Delhi,177.0,Yes,No,2.9,95,380.0,Rajasthani,24,Low
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Surat,230.0,Yes,Yes,4.8,40,220.0,Seafood,48,Low
+Kochi,247.0,Yes,Yes,3.6,48,25.0,Kerala,45,Low
+Bangalore,241.0,Yes,Yes,2.5,214,63.0,Fast Food,48,Low
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Delhi,443.0,Yes,No,4.7,593,,Cafe,32,High
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Hyderabad,244.0,No,Yes,3.3,437,502.0,Cafe,51,Low
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Chennai,131.0,No,Yes,5.0,443,150.0,Rajasthani,38,Low
+Bangalore,144.0,Yes,Yes,2.5,165,197.0,Gujarati,58,Low
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Nashik,328.0,Yes,No,4.8,470,377.0,North Indian,99,High
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Surat,467.0,Yes,Yes,4.9,781,220.0,Kerala,22,High
+Pune,218.0,Yes,Yes,4.8,324,226.0,Seafood,30,High
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Surat,107.0,Yes,No,3.1,101,498.0,Biryani,20,High
+Nagpur,412.0,No,Yes,4.9,420,341.0,South Indian,31,High
+Bhopal,142.0,No,Yes,3.0,883,135.0,Cafe,90,Low
+Bhopal,215.0,Yes,Yes,2.6,510,237.0,Fast Food,21,Low
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Jaipur,122.0,Yes,Yes,2.7,340,261.0,South Indian,55,Low
+Indore,583.0,Yes,No,4.5,538,526.0,Continental,32,High
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Bhopal,412.0,No,Yes,4.3,436,463.0,Chinese,32,High
+Surat,558.0,Yes,Yes,4.3,483,579.0,Street Food,34,High
+Goa,84.0,Yes,Yes,3.1,253,81.0,Kerala,28,High
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Jaipur,427.0,No,No,4.3,510,317.0,Chinese,27,High
+Chennai,113.0,Yes,Yes,3.3,886,55.0,Biryani,38,Low
+Bangalore,134.0,No,Yes,2.5,824,406.0,Kerala,53,Low
+Ahmedabad,434.0,Yes,No,4.3,713,304.0,Rajasthani,21,High
+Mumbai,225.0,Yes,No,2.9,636,345.0,North Indian,42,Low
+Surat,241.0,No,Yes,2.8,432,127.0,South Indian,46,Low
+Nashik,328.0,Yes,No,4.8,470,377.0,North Indian,99,High
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Surat,238.0,Yes,Yes,2.5,683,538.0,Street Food,44,Low
+Nagpur,165.0,No,No,3.2,335,521.0,Seafood,29,Low
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Mumbai,138.0,Yes,No,3.3,626,106.0,North Indian,40,Low
+Pune,214.0,No,No,2.9,506,525.0,Continental,41,Low
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Mumbai,205.0,Yes,Yes,2.9,112,495.0,South Indian,22,Low
+Jaipur,126.0,Yes,Yes,2.5,434,288.0,Kerala,52,Low
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Jaipur,189.0,Yes,Yes,2.7,297,360.0,Rajasthani,55,Low
+Indore,356.0,No,Yes,4.5,814,100.0,Kerala,27,High
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Mumbai,,No,Yes,2.7,839,463.0,South Indian,36,Low
+Pune,116.0,No,No,3.9,134,231.0,Gujarati,54,Low
+Goa,134.0,No,Yes,3.1,386,435.0,North Indian,44,Low
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Kochi,126.0,No,Yes,2.9,296,162.0,Street Food,21,Low
+Kochi,244.0,Yes,Yes,2.8,532,146.0,North Indian,49,Low
+Pune,212.0,Yes,Yes,3.3,777,448.0,Biryani,41,Low
+Indore,294.0,Yes,Yes,4.8,584,279.0,Continental,127,High
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Nagpur,193.0,Yes,No,4.1,60,491.0,Continental,152,Low
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Kochi,106.0,No,No,3.0,805,379.0,Chinese,21,Low
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Jaipur,245.0,Yes,No,3.1,521,50.0,Rajasthani,26,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Surat,85.0,No,Yes,2.9,849,569.0,North Indian,51,Low
+Mumbai,203.0,Yes,Yes,3.7,33,248.0,Biryani,34,Low
+Delhi,233.0,No,Yes,,115,122.0,Kerala,49,Low
+Pune,81.0,Yes,Yes,3.3,560,399.0,Kerala,39,Low
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Indore,260.0,No,Yes,4.5,860,484.0,North Indian,22,High
+Delhi,216.0,Yes,Yes,3.2,740,239.0,Street Food,31,Low
+Surat,237.0,No,No,3.5,359,465.0,Seafood,53,Low
+Hyderabad,201.0,Yes,No,4.2,109,414.0,South Indian,59,Low
+Surat,581.0,No,No,4.3,560,,Fast Food,31,High
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Mumbai,312.0,No,Yes,4.7,478,586.0,Continental,29,High
+Hyderabad,159.0,No,Yes,3.4,660,111.0,Chinese,20,Low
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Pune,214.0,Yes,No,3.2,326,40.0,Fast Food,32,Low
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Goa,297.0,Yes,No,4.8,543,333.0,Cafe,34,High
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Jaipur,143.0,No,Yes,3.3,143,408.0,Cafe,27,Low
+Hyderabad,312.0,No,Yes,4.3,495,465.0,Fast Food,23,High
+Surat,234.0,Yes,Yes,3.8,70,77.0,North Indian,43,Low
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Delhi,103.0,No,No,3.3,351,140.0,Continental,49,Low
+Surat,167.0,Yes,Yes,3.6,98,327.0,Chinese,22,Low
+Ahmedabad,,Yes,No,3.2,210,150.0,Biryani,36,Low
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Mumbai,229.0,Yes,Yes,2.8,321,369.0,South Indian,58,Low
+Surat,152.0,Yes,Yes,2.7,532,482.0,Kerala,26,High
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Chennai,210.0,No,No,3.1,726,308.0,Gujarati,33,Low
+Jaipur,172.0,Yes,Yes,3.3,391,586.0,Chinese,24,Low
+Mumbai,352.0,Yes,Yes,4.7,646,60.0,Seafood,35,High
+Kochi,338.0,Yes,No,4.3,434,366.0,Biryani,24,High
+Goa,85.0,No,Yes,2.6,179,385.0,Fast Food,33,Low
+Bangalore,119.0,Yes,Yes,3.0,215,255.0,Chinese,47,Low
+Jaipur,88.0,No,No,2.9,144,211.0,Seafood,26,Low
+Mumbai,207.0,Yes,No,2.6,637,264.0,Chinese,51,Low
+Surat,124.0,No,Yes,3.3,36,136.0,Street Food,41,Low
+Mumbai,391.0,Yes,Yes,3.8,845,64.0,Fast Food,47,Low
+Surat,104.0,No,No,3.1,853,298.0,Chinese,57,Low
+Kochi,157.0,No,No,4.0,417,420.0,Fast Food,30,Low
+Goa,197.0,No,Yes,3.5,230,202.0,Chinese,43,Low
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Chennai,162.0,No,No,3.3,188,40.0,North Indian,25,Low
+Hyderabad,168.0,No,Yes,3.1,465,138.0,Continental,31,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Pune,98.0,Yes,No,3.1,104,597.0,Gujarati,59,Low
+Hyderabad,199.0,No,No,3.1,162,249.0,South Indian,38,Low
+Chennai,216.0,No,Yes,3.2,93,250.0,Cafe,40,Low
+Bhopal,556.0,Yes,No,4.6,569,529.0,Biryani,26,High
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Bhopal,393.0,Yes,Yes,4.4,596,297.0,Rajasthani,29,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Surat,,No,No,3.5,691,331.0,North Indian,58,Low
+Bhopal,181.0,No,No,4.1,77,304.0,Seafood,22,Low
+Nashik,96.0,No,No,3.1,444,250.0,Gujarati,40,Low
+Kochi,162.0,Yes,No,4.3,110,460.0,Biryani,58,Low
+Surat,293.0,No,Yes,4.6,509,76.0,Biryani,28,High
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Pune,585.0,Yes,Yes,4.4,566,105.0,Kerala,26,High
+Nagpur,439.0,No,Yes,,512,465.0,Fast Food,25,High
+Nagpur,110.0,Yes,Yes,2.7,710,386.0,Kerala,50,High
+Surat,181.0,No,No,3.3,167,222.0,Kerala,60,Low
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Delhi,248.0,Yes,No,3.0,176,516.0,Kerala,43,Low
+Kochi,184.0,Yes,No,3.2,417,454.0,Street Food,31,Low
+Nagpur,585.0,No,Yes,4.7,375,102.0,Rajasthani,51,High
+Bhopal,5690.0,Yes,No,4.3,44,174.0,Cafe,49,Low
+Indore,356.0,No,Yes,4.5,814,100.0,Kerala,27,High
+Delhi,191.0,Yes,Yes,3.4,352,518.0,North Indian,32,Low
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Pune,189.0,No,No,3.0,659,126.0,Cafe,25,Low
+Jaipur,145.0,Yes,No,2.9,427,559.0,Seafood,48,Low
+Jaipur,168.0,Yes,No,3.2,503,160.0,Rajasthani,42,Low
+Ahmedabad,212.0,No,No,3.0,388,105.0,Chinese,47,High
+Surat,106.0,Yes,Yes,,587,101.0,Street Food,49,High
+Chennai,191.0,Yes,Yes,2.8,680,,Gujarati,53,Low
+Pune,,No,Yes,,436,276.0,Continental,57,Low
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Pune,94.0,Yes,No,3.5,470,190.0,Chinese,41,Low
+Nagpur,82.0,Yes,Yes,3.0,118,210.0,Rajasthani,40,Low
+Kochi,143.0,No,Yes,2.5,73,506.0,Street Food,58,Low
+Surat,274.0,Yes,Yes,4.5,580,25.0,South Indian,23,High
+Surat,225.0,No,No,,138,261.0,Seafood,24,Low
+Indore,105.0,No,Yes,3.7,61,579.0,Fast Food,38,Low
+Goa,86.0,Yes,No,3.3,180,206.0,North Indian,48,Low
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Pune,140.0,No,No,3.4,637,211.0,Cafe,36,Low
+Ahmedabad,217.0,No,No,2.7,311,357.0,Kerala,40,Low
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Pune,520.0,No,Yes,4.2,437,68.0,Chinese,51,High
+Pune,154.0,Yes,Yes,3.5,125,420.0,Chinese,55,High
+Jaipur,345.0,No,Yes,5.0,646,189.0,Rajasthani,51,High
+Kochi,86.0,No,No,3.8,30,574.0,Fast Food,38,Low
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Pune,240.0,Yes,No,2.6,325,309.0,Fast Food,49,Low
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Surat,300.0,No,Yes,4.3,593,26.0,Rajasthani,31,High
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Bhopal,145.0,Yes,Yes,2.9,695,152.0,Kerala,48,Low
+Jaipur,477.0,Yes,No,4.6,486,238.0,Street Food,34,High
+Bangalore,,No,Yes,2.6,683,152.0,Kerala,36,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Surat,185.0,Yes,No,3.3,4336,299.0,Fast Food,46,Low
+Indore,140.0,No,Yes,3.0,3498,596.0,South Indian,25,High
+Kochi,338.0,Yes,No,4.3,434,366.0,Biryani,24,High
+Jaipur,429.0,Yes,No,4.1,601,44.0,North Indian,23,High
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Ahmedabad,158.0,Yes,No,2.9,530,498.0,Cafe,20,Low
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Bangalore,165.0,Yes,Yes,2.7,827,255.0,Continental,54,Low
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Indore,120.0,No,No,3.3,720,197.0,Chinese,23,Low
+Indore,236.0,Yes,Yes,2.8,4326,152.0,Continental,33,Low
+Hyderabad,316.0,Yes,No,4.6,846,195.0,Biryani,25,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Delhi,81.0,Yes,No,2.6,581,279.0,Seafood,45,Low
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Nagpur,92.0,Yes,No,2.7,640,475.0,North Indian,28,Low
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Hyderabad,195.0,Yes,No,5.0,82,507.0,Street Food,59,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Nagpur,380.0,Yes,Yes,4.7,543,577.0,Biryani,22,High
+Hyderabad,154.0,No,Yes,3.0,215,600.0,Cafe,23,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Bhopal,218.0,Yes,Yes,3.0,651,84.0,Gujarati,54,Low
+Goa,210.0,Yes,No,3.3,480,134.0,Fast Food,31,Low
+Mumbai,99.0,No,No,3.5,858,387.0,North Indian,46,Low
+Nagpur,235.0,No,Yes,2.7,207,418.0,Street Food,30,Low
+Delhi,160.0,No,Yes,3.3,651,124.0,Chinese,46,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Kochi,481.0,Yes,No,4.6,737,322.0,Kerala,33,High
+Pune,215.0,No,No,2.9,368,94.0,Chinese,31,Low
+Delhi,105.0,Yes,No,2.9,598,403.0,Biryani,20,Low
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Hyderabad,169.0,Yes,Yes,2.9,513,437.0,Gujarati,30,Low
+Nagpur,562.0,No,Yes,4.5,500,437.0,Gujarati,21,High
+Nashik,192.0,No,Yes,3.2,4846,90.0,Fast Food,35,Low
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Jaipur,313.0,No,Yes,4.5,603,291.0,Rajasthani,28,High
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Goa,90.0,Yes,No,2.9,573,377.0,Chinese,46,Low
+Surat,293.0,No,Yes,4.6,509,76.0,Biryani,28,High
+Kochi,110.0,No,No,3.4,818,232.0,Chinese,48,Low
+Delhi,228.0,Yes,Yes,3.2,671,,Biryani,24,Low
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Jaipur,381.0,No,No,4.6,476,473.0,Cafe,30,High
+Jaipur,387.0,Yes,No,4.4,785,325.0,Gujarati,28,High
+Ahmedabad,212.0,No,No,3.0,388,105.0,Chinese,47,High
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Pune,229.0,No,Yes,3.2,306,241.0,North Indian,33,Low
+Delhi,167.0,No,Yes,4.3,48,70.0,Street Food,24,Low
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Jaipur,361.0,No,No,3.8,455,201.0,Kerala,46,High
+Nashik,155.0,Yes,Yes,3.4,111,471.0,Seafood,44,Low
+Nagpur,359.0,Yes,Yes,4.3,705,141.0,South Indian,34,High
+Bhopal,135.0,Yes,Yes,3.5,79,53.0,Gujarati,59,Low
+Bangalore,205.0,No,No,3.4,177,391.0,Kerala,40,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Indore,184.0,Yes,Yes,4.9,123,296.0,Cafe,51,Low
+Bhopal,112.0,No,No,3.3,546,504.0,Fast Food,48,Low
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Jaipur,137.0,No,Yes,3.1,741,247.0,Street Food,41,Low
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Nagpur,100.0,Yes,No,2.9,264,587.0,Fast Food,29,Low
+Pune,218.0,Yes,Yes,4.8,324,226.0,Seafood,30,High
+Chennai,108.0,No,Yes,2.6,783,,Rajasthani,36,Low
+Bangalore,241.0,Yes,No,3.2,146,212.0,Street Food,20,Low
+Hyderabad,181.0,No,Yes,3.9,120,535.0,Rajasthani,54,Low
+Kochi,416.0,No,No,5.0,805,229.0,Cafe,24,High
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Pune,536.0,No,No,4.6,723,446.0,Biryani,25,High
+Chennai,164.0,Yes,Yes,2.7,302,148.0,Cafe,59,Low
+Ahmedabad,362.0,No,Yes,4.6,460,176.0,Cafe,35,High
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Pune,115.0,Yes,Yes,,195,80.0,Cafe,26,Low
+Kochi,326.0,No,Yes,4.8,2292,562.0,Seafood,31,High
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Delhi,443.0,Yes,No,4.7,593,,Cafe,32,High
+Jaipur,427.0,No,No,4.3,510,317.0,Chinese,27,High
+Ahmedabad,222.0,Yes,Yes,3.3,524,497.0,Chinese,22,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Delhi,146.0,No,No,3.4,606,529.0,Continental,52,Low
+Delhi,93.0,Yes,Yes,3.3,552,504.0,Cafe,27,Low
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Mumbai,3759.0,No,No,4.5,674,208.0,Street Food,31,High
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Mumbai,352.0,Yes,Yes,4.7,646,60.0,Seafood,35,High
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Nashik,228.0,No,No,4.7,70,351.0,Chinese,26,Low
+Goa,225.0,Yes,Yes,2.9,870,427.0,Rajasthani,24,Low
+Bangalore,496.0,No,Yes,4.7,617,176.0,Continental,41,High
+Kochi,142.0,Yes,No,3.5,875,509.0,Continental,60,Low
+Delhi,216.0,Yes,No,2.6,398,504.0,Kerala,51,Low
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Indore,475.0,Yes,Yes,4.7,597,266.0,Kerala,26,High
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Kochi,88.0,No,Yes,3.5,823,128.0,Biryani,35,Low
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Jaipur,153.0,No,Yes,3.2,671,,Cafe,38,Low
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Mumbai,133.0,No,Yes,3.2,832,68.0,Biryani,40,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Chennai,118.0,No,No,4.4,90,,Kerala,36,Low
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Chennai,399.0,No,No,4.5,853,381.0,Biryani,30,High
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Nagpur,176.0,Yes,Yes,2.8,551,284.0,South Indian,54,Low
+Ahmedabad,147.0,Yes,No,2.6,837,442.0,Rajasthani,25,Low
+Goa,523.0,No,No,,4021,578.0,Seafood,22,High
+Goa,418.0,Yes,No,5.0,638,136.0,Gujarati,30,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Pune,536.0,No,No,4.6,723,446.0,Biryani,25,High
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Bhopal,,Yes,Yes,4.6,125,480.0,Chinese,48,Low
+Ahmedabad,100.0,No,No,3.1,352,138.0,Fast Food,35,Low
+Kochi,242.0,No,No,3.5,625,247.0,Continental,49,Low
+Chennai,354.0,No,No,4.5,734,322.0,Fast Food,32,High
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Surat,483.0,No,Yes,4.9,841,109.0,North Indian,22,High
+Delhi,111.0,No,Yes,2.7,96,326.0,Fast Food,58,Low
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Jaipur,,No,No,2.7,515,203.0,Rajasthani,23,Low
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Nashik,165.0,Yes,Yes,4.0,56,241.0,Street Food,55,Low
+Bhopal,172.0,Yes,Yes,3.0,317,,Biryani,45,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Nashik,486.0,Yes,Yes,4.7,866,183.0,Biryani,27,High
+Delhi,153.0,No,Yes,3.5,391,548.0,Rajasthani,54,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Surat,344.0,No,Yes,,695,378.0,North Indian,47,High
+Bhopal,226.0,Yes,No,2.8,442,441.0,Seafood,59,Low
+Goa,176.0,No,Yes,,653,236.0,Cafe,40,Low
+Bangalore,596.0,Yes,Yes,3.7,547,591.0,South Indian,50,Low
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Goa,574.0,No,No,4.4,782,462.0,Biryani,28,High
+Hyderabad,249.0,No,No,2.6,412,79.0,Seafood,48,Low
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Mumbai,155.0,Yes,No,4.4,106,123.0,South Indian,36,Low
+Bhopal,148.0,No,No,3.1,834,440.0,Cafe,28,Low
+Jaipur,216.0,No,Yes,2.9,49,301.0,Continental,33,Low
+Surat,249.0,Yes,No,2.9,118,348.0,North Indian,50,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Pune,429.0,Yes,No,3.8,366,533.0,Continental,56,High
+Pune,243.0,No,No,3.1,827,506.0,Fast Food,35,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Mumbai,205.0,No,Yes,2.8,127,139.0,Biryani,24,Low
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Delhi,114.0,Yes,No,3.0,78,33.0,Kerala,33,Low
+Bangalore,127.0,Yes,Yes,3.5,599,493.0,North Indian,56,Low
+Nashik,146.0,No,Yes,3.7,139,285.0,South Indian,24,Low
+Surat,135.0,Yes,Yes,3.2,618,204.0,North Indian,43,Low
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Chennai,153.0,Yes,No,3.0,559,391.0,Kerala,48,Low
+Chennai,210.0,No,No,4.9,34,563.0,Street Food,23,Low
+Nagpur,176.0,No,Yes,3.4,809,479.0,South Indian,20,Low
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Goa,217.0,Yes,Yes,3.5,4457,499.0,Fast Food,53,Low
+Hyderabad,179.0,No,Yes,2.9,504,79.0,Seafood,55,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Bangalore,485.0,Yes,Yes,4.6,882,188.0,South Indian,50,Low
+Goa,216.0,No,Yes,3.1,276,600.0,Rajasthani,25,Low
+Bangalore,87.0,Yes,Yes,3.2,256,123.0,Kerala,57,Low
+Hyderabad,101.0,No,No,2.8,2276,416.0,Seafood,28,Low
+Ahmedabad,241.0,No,No,2.7,523,299.0,Fast Food,58,Low
+Surat,117.0,Yes,Yes,2.9,434,433.0,Street Food,24,Low
+Hyderabad,,Yes,No,3.2,543,545.0,Chinese,54,Low
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Chennai,134.0,Yes,No,2.8,695,57.0,Gujarati,27,Low
+Bhopal,397.0,No,No,4.3,764,471.0,Kerala,34,High
+Pune,471.0,No,Yes,4.4,462,430.0,Biryani,21,High
+Bangalore,230.0,No,Yes,3.5,96,336.0,Kerala,90,Low
+Kochi,104.0,Yes,Yes,3.4,228,234.0,Biryani,23,Low
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Mumbai,467.0,Yes,No,4.0,292,155.0,Fast Food,44,High
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Nagpur,412.0,No,Yes,4.9,420,341.0,South Indian,31,High
+Indore,140.0,No,Yes,3.0,3498,596.0,South Indian,25,High
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Mumbai,157.0,Yes,Yes,3.1,508,455.0,Gujarati,41,Low
+Goa,172.0,No,Yes,3.1,882,187.0,Rajasthani,48,Low
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Indore,127.0,Yes,Yes,4.3,135,598.0,North Indian,30,Low
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Hyderabad,147.0,No,No,4.1,84,288.0,Gujarati,54,Low
+Indore,160.0,No,Yes,,762,204.0,Seafood,25,Low
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Surat,206.0,No,No,3.1,686,22.0,Fast Food,56,Low
+Kochi,338.0,Yes,No,4.3,434,366.0,Biryani,24,High
+Mumbai,216.0,No,No,,807,64.0,Chinese,34,Low
+Bhopal,93.0,Yes,Yes,3.2,141,265.0,Gujarati,35,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Ahmedabad,196.0,Yes,Yes,3.3,487,206.0,Continental,27,Low
+Ahmedabad,133.0,Yes,No,2.5,640,423.0,Continental,54,Low
+Jaipur,196.0,No,Yes,2.6,2521,540.0,Continental,35,High
+Jaipur,169.0,No,Yes,4.2,128,417.0,Cafe,35,Low
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Kochi,465.0,No,Yes,4.6,152,304.0,South Indian,30,High
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Surat,106.0,No,No,2.8,147,111.0,Chinese,27,Low
+Jaipur,81.0,Yes,Yes,3.4,708,122.0,North Indian,36,Low
+Pune,442.0,Yes,No,4.6,586,368.0,Street Food,24,High
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Ahmedabad,599.0,Yes,Yes,,432,393.0,Seafood,27,High
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Nagpur,204.0,Yes,No,3.5,184,103.0,North Indian,32,High
+Mumbai,246.0,No,No,2.7,176,36.0,Cafe,38,Low
+Chennai,181.0,No,No,4.8,97,54.0,North Indian,54,Low
+Mumbai,154.0,Yes,Yes,3.3,413,533.0,Rajasthani,47,Low
+Ahmedabad,248.0,No,Yes,3.3,493,579.0,Street Food,32,Low
+Hyderabad,248.0,Yes,No,2.9,763,110.0,South Indian,55,Low
+Nagpur,83.0,Yes,Yes,2.8,814,255.0,Rajasthani,35,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Chennai,163.0,No,Yes,2.8,576,60.0,North Indian,28,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Ahmedabad,128.0,Yes,No,3.5,524,503.0,North Indian,35,Low
+Bangalore,139.0,Yes,No,3.4,879,523.0,Cafe,58,Low
+Nagpur,102.0,No,Yes,3.3,606,589.0,Fast Food,54,Low
+Ahmedabad,167.0,No,No,4.3,135,522.0,North Indian,55,Low
+Mumbai,195.0,Yes,Yes,2.8,271,395.0,North Indian,43,Low
+Ahmedabad,93.0,No,Yes,2.9,308,257.0,North Indian,55,Low
+Hyderabad,224.0,No,Yes,3.5,130,287.0,South Indian,39,Low
+Goa,406.0,Yes,Yes,4.5,659,106.0,Rajasthani,28,High
+Pune,134.0,No,No,3.4,403,393.0,Biryani,40,Low
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Hyderabad,81.0,No,Yes,,282,423.0,South Indian,30,Low
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Indore,135.0,No,No,2.9,790,233.0,Cafe,21,Low
+Nagpur,180.0,Yes,No,3.2,723,485.0,Fast Food,35,Low
+Bhopal,104.0,Yes,Yes,2.9,511,88.0,North Indian,20,Low
+Goa,175.0,Yes,No,4.1,70,273.0,Kerala,48,Low
+Hyderabad,181.0,No,Yes,2.9,442,167.0,Gujarati,59,Low
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Hyderabad,203.0,No,No,3.5,194,543.0,Gujarati,60,Low
+Mumbai,3759.0,No,No,4.5,674,208.0,Street Food,31,High
+Delhi,363.0,No,Yes,4.6,220,415.0,South Indian,58,High
+Chennai,144.0,Yes,No,4.8,67,304.0,Kerala,31,Low
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Pune,149.0,No,Yes,2.8,177,241.0,Fast Food,30,High
+Kochi,144.0,No,Yes,3.2,246,427.0,Seafood,20,High
+Bhopal,192.0,No,No,3.1,168,,South Indian,23,Low
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Pune,193.0,No,Yes,3.3,478,309.0,Chinese,22,Low
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Mumbai,232.0,Yes,Yes,2.6,720,73.0,North Indian,47,Low
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Mumbai,179.0,No,No,3.3,586,104.0,South Indian,55,Low
+Ahmedabad,95.0,No,Yes,3.1,420,320.0,Seafood,59,Low
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Hyderabad,161.0,Yes,No,3.5,505,228.0,Gujarati,41,Low
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Surat,229.0,No,Yes,2.6,653,304.0,Fast Food,24,Low
+Delhi,80.0,Yes,No,2.6,584,374.0,Rajasthani,60,Low
+Nashik,113.0,Yes,Yes,3.0,873,446.0,Street Food,47,Low
+Bhopal,145.0,Yes,Yes,5.0,607,325.0,Seafood,53,High
+Hyderabad,201.0,No,No,3.4,121,92.0,Seafood,31,Low
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Nagpur,192.0,Yes,Yes,3.5,185,174.0,Rajasthani,57,Low
+Jaipur,184.0,Yes,No,4.0,55,83.0,Fast Food,42,Low
+Nashik,328.0,Yes,No,4.8,470,377.0,North Indian,99,High
+Jaipur,196.0,No,Yes,2.6,2521,540.0,Continental,35,High
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Bhopal,85.0,Yes,Yes,2.9,555,180.0,Gujarati,37,Low
+Bhopal,247.0,Yes,No,3.5,689,585.0,Seafood,57,High
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Indore,225.0,No,No,3.4,494,369.0,Gujarati,30,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Pune,245.0,No,No,3.1,877,,Rajasthani,49,Low
+Chennai,186.0,No,No,3.7,131,319.0,South Indian,58,Low
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Jaipur,243.0,No,Yes,2.8,344,183.0,Rajasthani,45,Low
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Indore,334.0,Yes,No,4.6,483,490.0,Gujarati,22,High
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Nashik,103.0,Yes,Yes,3.4,434,435.0,Seafood,57,Low
+Chennai,104.0,No,No,3.5,136,248.0,Biryani,41,Low
+Mumbai,430.0,Yes,Yes,4.7,526,318.0,Fast Food,22,High
+Indore,475.0,Yes,Yes,4.7,597,266.0,Kerala,26,High
+Bangalore,92.0,Yes,Yes,2.6,279,582.0,Street Food,28,Low
+Kochi,222.0,No,Yes,2.5,157,179.0,Continental,45,Low
+Surat,,No,Yes,3.4,716,,Biryani,29,Low
+Goa,523.0,No,No,,4021,578.0,Seafood,22,High
+Nagpur,103.0,Yes,Yes,,339,199.0,Biryani,27,Low
+Bangalore,176.0,Yes,Yes,3.5,345,474.0,Kerala,23,Low
+Surat,,Yes,No,3.4,650,324.0,Fast Food,28,Low
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Pune,231.0,Yes,No,3.5,874,560.0,South Indian,38,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Chennai,106.0,Yes,No,3.1,444,585.0,Rajasthani,47,Low
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Chennai,155.0,No,Yes,3.3,900,250.0,Fast Food,28,Low
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Delhi,101.0,No,No,3.2,655,188.0,North Indian,41,Low
+Hyderabad,512.0,No,Yes,4.4,456,265.0,Street Food,35,High
+Nashik,154.0,No,Yes,3.9,139,384.0,South Indian,47,Low
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Delhi,233.0,No,No,2.7,48,530.0,Rajasthani,45,High
+Bangalore,215.0,Yes,No,2.7,1814,236.0,Kerala,53,Low
+Surat,180.0,Yes,Yes,3.4,286,199.0,South Indian,42,Low
+Nagpur,199.0,Yes,No,3.4,235,226.0,North Indian,24,Low
+Pune,171.0,No,No,3.9,53,249.0,Street Food,38,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Bhopal,99.0,Yes,Yes,4.2,73,479.0,Chinese,30,Low
+Pune,223.0,No,Yes,3.4,882,42.0,Chinese,56,Low
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Indore,117.0,Yes,Yes,3.4,32,127.0,Chinese,50,Low
+Hyderabad,200.0,No,No,2.9,262,118.0,Kerala,56,Low
+Nagpur,179.0,No,Yes,2.8,361,197.0,Cafe,20,Low
+Jaipur,313.0,No,Yes,4.5,603,291.0,Rajasthani,28,High
+Hyderabad,204.0,No,No,3.3,900,485.0,Chinese,20,Low
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Bangalore,370.0,No,No,4.5,798,61.0,Rajasthani,32,High
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Surat,600.0,No,No,5.0,684,249.0,Continental,24,High
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Hyderabad,132.0,Yes,No,2.5,245,133.0,Gujarati,20,Low
+Surat,162.0,Yes,No,3.4,242,337.0,South Indian,44,Low
+Bhopal,139.0,No,Yes,2.7,79,417.0,Street Food,41,Low
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Mumbai,352.0,Yes,Yes,4.7,646,60.0,Seafood,35,High
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Bhopal,246.0,Yes,No,3.0,479,264.0,Biryani,50,Low
+Bhopal,215.0,No,No,3.0,363,221.0,Rajasthani,49,Low
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Bangalore,219.0,Yes,Yes,4.9,66,413.0,South Indian,44,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Mumbai,176.0,Yes,No,2.7,709,441.0,Cafe,35,Low
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Jaipur,214.0,Yes,No,3.3,620,220.0,Seafood,51,Low
+Ahmedabad,231.0,No,No,3.2,860,164.0,Rajasthani,56,Low
+Jaipur,93.0,Yes,Yes,3.2,630,151.0,Fast Food,40,Low
+Kochi,175.0,No,Yes,4.8,34,266.0,Kerala,41,Low
+Jaipur,477.0,Yes,No,4.6,486,238.0,Street Food,34,High
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Delhi,130.0,Yes,No,3.9,113,66.0,South Indian,52,Low
+Pune,536.0,No,No,4.6,723,446.0,Biryani,25,High
+Jaipur,197.0,No,Yes,3.2,57,188.0,Chinese,33,Low
+Hyderabad,132.0,No,Yes,,123,23.0,Continental,49,Low
+Delhi,229.0,Yes,Yes,3.7,122,422.0,Continental,52,Low
+Pune,193.0,No,No,2.6,784,381.0,Rajasthani,56,Low
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Bangalore,195.0,No,No,2.8,874,351.0,Gujarati,42,Low
+Surat,166.0,No,No,2.7,75,447.0,Fast Food,50,Low
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Ahmedabad,111.0,No,No,3.3,135,502.0,Continental,34,Low
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Surat,99.0,Yes,No,2.8,873,430.0,North Indian,43,High
+Indore,475.0,Yes,Yes,4.7,597,266.0,Kerala,26,High
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Delhi,486.0,No,Yes,4.3,514,90.0,Cafe,32,High
+Bangalore,245.0,No,Yes,3.0,763,341.0,Street Food,35,Low
+Bangalore,370.0,No,No,4.5,798,61.0,Rajasthani,32,High
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Jaipur,575.0,No,Yes,4.6,1776,295.0,Gujarati,20,High
+Bhopal,209.0,No,No,3.4,492,376.0,Biryani,45,Low
+Hyderabad,176.0,Yes,No,4.3,122,360.0,South Indian,34,Low
+Kochi,207.0,No,Yes,2.9,219,175.0,Street Food,22,Low
+Hyderabad,236.0,Yes,No,3.5,732,416.0,Kerala,48,Low
+Pune,235.0,Yes,Yes,2.8,595,458.0,Seafood,43,Low
+Surat,81.0,No,Yes,3.1,783,559.0,Continental,31,Low
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Ahmedabad,250.0,Yes,Yes,4.3,643,96.0,South Indian,31,High
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Chennai,205.0,Yes,No,3.6,33,527.0,Fast Food,58,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Delhi,576.0,No,No,4.7,620,531.0,Chinese,33,High
+Ahmedabad,245.0,Yes,Yes,3.0,176,527.0,Chinese,27,Low
+Bhopal,222.0,Yes,No,3.0,702,513.0,Street Food,34,Low
+Ahmedabad,213.0,Yes,No,3.4,815,110.0,Biryani,49,Low
+Jaipur,153.0,Yes,Yes,3.1,660,214.0,South Indian,53,Low
+Nagpur,290.0,No,No,,810,367.0,South Indian,29,High
+Surat,127.0,Yes,No,3.3,486,523.0,Cafe,31,Low
+Delhi,85.0,No,Yes,2.6,639,538.0,Gujarati,51,Low
+Nagpur,105.0,No,Yes,3.3,767,150.0,Seafood,20,Low
+Mumbai,182.0,No,Yes,3.0,884,378.0,Street Food,24,Low
+Nashik,138.0,No,No,,106,126.0,Chinese,41,Low
+Surat,222.0,No,No,4.6,54,349.0,Rajasthani,47,Low
+Kochi,230.0,Yes,Yes,4.3,57,245.0,Seafood,47,Low
+Goa,185.0,Yes,No,3.4,56,81.0,Chinese,23,Low
+Hyderabad,152.0,No,No,3.4,778,454.0,Seafood,50,Low
+Nashik,129.0,No,Yes,2.7,826,289.0,Seafood,21,Low
+Delhi,112.0,No,No,3.5,211,468.0,Fast Food,29,Low
+Mumbai,369.0,No,Yes,4.4,580,461.0,Chinese,31,High
+Jaipur,213.0,Yes,Yes,3.1,165,85.0,Biryani,38,Low
+Delhi,116.0,Yes,Yes,3.4,45,194.0,North Indian,52,Low
+Jaipur,335.0,Yes,Yes,4.9,1758,235.0,Seafood,31,High
+Surat,154.0,Yes,No,3.4,4639,412.0,Biryani,52,Low
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Delhi,234.0,No,Yes,2.9,682,547.0,North Indian,60,Low
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Jaipur,147.0,Yes,Yes,2.6,2710,183.0,North Indian,36,Low
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Indore,106.0,No,No,3.4,123,25.0,Biryani,39,Low
+Nashik,201.0,Yes,No,4.6,64,591.0,Gujarati,50,Low
+Chennai,,No,No,2.5,110,62.0,Continental,152,Low
+Nashik,315.0,Yes,No,4.3,889,87.0,Biryani,20,High
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Indore,321.0,No,No,4.5,864,329.0,South Indian,20,High
+Ahmedabad,203.0,Yes,Yes,2.7,517,,North Indian,54,Low
+Chennai,85.0,Yes,No,2.6,686,,Seafood,57,Low
+Surat,133.0,Yes,Yes,2.9,667,272.0,Gujarati,51,Low
+Goa,132.0,Yes,Yes,2.9,472,498.0,Rajasthani,21,Low
+Indore,113.0,Yes,Yes,3.4,361,94.0,Continental,45,Low
+Pune,113.0,No,Yes,2.7,153,74.0,South Indian,26,Low
+Kochi,409.0,Yes,Yes,4.0,474,97.0,Chinese,38,Low
+Goa,198.0,No,Yes,3.4,470,374.0,Rajasthani,57,Low
+Nashik,86.0,Yes,Yes,2.7,644,152.0,Rajasthani,160,High
+Ahmedabad,541.0,No,No,4.7,644,211.0,Chinese,26,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Delhi,577.0,No,Yes,4.4,769,527.0,Continental,32,High
+Nashik,167.0,Yes,No,2.8,50,264.0,Continental,42,High
+Pune,172.0,Yes,Yes,2.6,838,441.0,Biryani,29,Low
+Nagpur,102.0,Yes,Yes,3.4,450,454.0,Cafe,21,Low
+Mumbai,233.0,Yes,Yes,2.7,321,447.0,Seafood,26,Low
+Kochi,144.0,No,Yes,3.2,246,427.0,Seafood,20,High
+Chennai,548.0,No,No,4.9,754,89.0,Fast Food,29,High
+Nagpur,111.0,No,No,3.1,65,112.0,Continental,59,Low
+Ahmedabad,259.0,No,No,4.3,786,559.0,South Indian,25,High
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Nagpur,5853.0,No,No,2.5,307,525.0,Gujarati,47,Low
+Mumbai,115.0,Yes,No,3.5,420,465.0,Kerala,54,Low
+Kochi,189.0,Yes,No,3.5,877,484.0,Rajasthani,45,Low
+Jaipur,477.0,Yes,No,4.6,486,238.0,Street Food,34,High
+Bhopal,122.0,No,Yes,3.4,60,341.0,Biryani,32,Low
+Nashik,,No,No,2.6,42,270.0,Rajasthani,22,Low
+Mumbai,294.0,Yes,Yes,4.9,230,344.0,Rajasthani,27,High
+Nashik,232.0,No,No,3.2,467,378.0,Continental,32,Low
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Ahmedabad,212.0,No,No,3.0,388,105.0,Chinese,47,High
+Goa,418.0,Yes,No,4.8,3264,519.0,Fast Food,23,High
+Pune,151.0,No,Yes,3.1,892,378.0,Cafe,43,Low
+Pune,214.0,No,Yes,3.4,396,431.0,North Indian,35,Low
+Surat,120.0,No,No,3.1,600,68.0,Continental,21,Low
+Pune,83.0,Yes,Yes,2.6,473,419.0,Gujarati,47,Low
+Mumbai,235.0,No,Yes,2.7,766,83.0,North Indian,38,Low
+Chennai,160.0,Yes,No,2.6,838,466.0,Chinese,36,Low
+Pune,,No,No,4.4,800,565.0,South Indian,34,High
+Hyderabad,408.0,Yes,Yes,4.9,610,529.0,Cafe,26,High
+Surat,4632.0,No,Yes,4.0,75,,Fast Food,32,Low
+Indore,157.0,Yes,No,,174,442.0,South Indian,47,Low
+Pune,171.0,No,No,3.9,53,249.0,Street Food,38,High
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Indore,209.0,No,Yes,3.5,264,421.0,North Indian,59,High
+Kochi,193.0,Yes,No,3.5,454,101.0,Continental,46,Low
+Surat,206.0,Yes,Yes,4.4,90,564.0,Seafood,45,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Nagpur,224.0,No,Yes,2.8,324,453.0,Seafood,35,Low
+Indore,277.0,Yes,No,4.7,622,484.0,Chinese,35,High
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Kochi,244.0,No,No,2.6,833,574.0,Street Food,45,Low
+Surat,183.0,No,Yes,3.2,336,305.0,Kerala,28,Low
+Delhi,159.0,No,Yes,4.4,106,338.0,Gujarati,21,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Bhopal,185.0,Yes,No,3.2,454,249.0,Street Food,30,Low
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Surat,171.0,No,Yes,3.3,776,460.0,Fast Food,58,Low
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Nagpur,246.0,Yes,No,2.5,423,495.0,Chinese,47,Low
+Hyderabad,192.0,No,No,3.4,582,88.0,Fast Food,57,Low
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Goa,179.0,Yes,Yes,2.9,208,412.0,Fast Food,23,Low
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Indore,162.0,No,No,,197,398.0,Cafe,30,Low
+Nagpur,214.0,Yes,No,2.9,238,38.0,Biryani,33,Low
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Delhi,203.0,No,No,2.8,731,109.0,Street Food,44,Low
+Goa,406.0,Yes,Yes,4.5,659,106.0,Rajasthani,28,High
+Bangalore,134.0,No,Yes,3.0,429,517.0,Continental,51,Low
+Nagpur,93.0,Yes,Yes,2.7,487,431.0,Seafood,56,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Kochi,103.0,Yes,Yes,2.7,742,228.0,South Indian,52,Low
+Surat,92.0,Yes,Yes,,667,523.0,Chinese,101,Low
+Pune,370.0,Yes,Yes,4.9,453,191.0,North Indian,31,High
+Kochi,208.0,Yes,No,3.1,196,156.0,Rajasthani,55,Low
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Jaipur,163.0,No,Yes,2.8,368,370.0,North Indian,35,Low
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Mumbai,164.0,No,Yes,2.7,157,564.0,South Indian,138,Low
+Nashik,205.0,No,No,3.4,883,271.0,Street Food,51,Low
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Mumbai,250.0,No,Yes,3.0,318,,Fast Food,25,Low
+Chennai,549.0,No,No,4.4,568,285.0,Chinese,28,High
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Surat,,Yes,No,4.4,397,485.0,Biryani,60,High
+Surat,80.0,Yes,Yes,2.6,172,224.0,Cafe,25,Low
+Pune,223.0,Yes,No,3.4,4774,372.0,Continental,47,Low
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Pune,132.0,Yes,Yes,4.4,65,482.0,Continental,30,Low
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Jaipur,134.0,No,Yes,2.9,709,260.0,North Indian,26,Low
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Goa,155.0,No,No,3.8,57,133.0,Seafood,29,Low
+Bhopal,171.0,No,No,3.7,671,557.0,Fast Food,51,High
+Nagpur,181.0,Yes,Yes,2.7,733,531.0,Kerala,25,High
+Mumbai,124.0,No,No,3.3,749,51.0,Biryani,40,Low
+Mumbai,84.0,Yes,No,4.2,56,154.0,Gujarati,20,Low
+Pune,448.0,Yes,Yes,4.8,837,154.0,Kerala,22,High
+Hyderabad,108.0,Yes,Yes,3.5,254,,Street Food,53,High
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Kochi,186.0,No,No,,221,329.0,Fast Food,41,Low
+Bhopal,501.0,Yes,No,4.6,859,473.0,Gujarati,52,Low
+Bangalore,249.0,Yes,No,4.8,423,118.0,Gujarati,40,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Surat,94.0,No,No,2.6,755,458.0,Biryani,40,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Surat,109.0,Yes,No,3.2,383,524.0,Street Food,56,Low
+Hyderabad,142.0,Yes,Yes,2.6,529,108.0,Street Food,50,Low
+Nashik,110.0,Yes,Yes,3.3,109,96.0,Kerala,139,Low
+Goa,,Yes,Yes,3.0,541,,North Indian,25,Low
+Kochi,180.0,No,Yes,2.8,738,529.0,Seafood,40,Low
+Kochi,214.0,Yes,Yes,3.4,192,466.0,Fast Food,24,Low
+Surat,173.0,No,No,3.3,550,595.0,South Indian,33,Low
+Mumbai,130.0,No,No,2.5,223,280.0,Biryani,51,Low
+Ahmedabad,106.0,Yes,No,2.5,668,337.0,Gujarati,50,Low
+Nagpur,486.0,Yes,Yes,4.6,740,278.0,Rajasthani,23,High
+Hyderabad,422.0,No,No,4.7,561,376.0,Seafood,32,High
+Delhi,109.0,Yes,No,3.3,477,264.0,Gujarati,23,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Delhi,577.0,No,Yes,4.4,769,527.0,Continental,32,High
+Kochi,143.0,No,Yes,2.8,220,576.0,Rajasthani,26,Low
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Surat,203.0,Yes,Yes,3.2,445,466.0,North Indian,58,Low
+Hyderabad,167.0,No,Yes,3.2,139,586.0,North Indian,29,Low
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Surat,127.0,Yes,No,2.7,759,482.0,Street Food,46,Low
+Jaipur,142.0,Yes,Yes,4.6,112,138.0,Fast Food,55,Low
+Kochi,210.0,Yes,No,3.0,244,84.0,Rajasthani,25,Low
+Mumbai,225.0,Yes,No,2.6,467,524.0,Gujarati,40,Low
+Indore,369.0,Yes,Yes,4.7,593,561.0,Cafe,96,High
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Bhopal,172.0,Yes,No,3.1,891,518.0,North Indian,22,Low
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Bhopal,517.0,No,Yes,4.4,634,509.0,Chinese,23,High
+Kochi,481.0,Yes,No,4.6,737,322.0,Kerala,33,High
+Kochi,115.0,Yes,Yes,,824,584.0,Fast Food,41,Low
+Surat,91.0,Yes,No,3.3,444,198.0,Rajasthani,41,Low
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Hyderabad,546.0,No,No,4.1,605,298.0,Fast Food,32,Low
+Kochi,202.0,Yes,Yes,2.6,157,158.0,North Indian,58,Low
+Nashik,142.0,No,No,3.4,35,573.0,Gujarati,55,High
+Delhi,81.0,No,Yes,2.8,840,405.0,Kerala,30,High
+Chennai,200.0,No,No,2.9,565,229.0,Seafood,59,Low
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Ahmedabad,6734.0,No,No,3.2,165,127.0,North Indian,55,Low
+Nagpur,244.0,No,Yes,2.9,616,36.0,Fast Food,20,Low
+Nagpur,106.0,No,No,3.2,432,151.0,Kerala,48,Low
+Bhopal,432.0,No,No,4.8,826,443.0,Cafe,33,High
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Pune,536.0,No,No,4.6,723,446.0,Biryani,25,High
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Kochi,465.0,No,Yes,4.6,152,304.0,South Indian,30,High
+Delhi,215.0,No,No,3.0,141,257.0,Fast Food,33,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Pune,201.0,Yes,Yes,2.7,366,289.0,Cafe,54,Low
+Kochi,174.0,Yes,Yes,4.1,86,255.0,North Indian,52,Low
+Bangalore,169.0,No,No,3.2,567,593.0,Continental,56,Low
+Indore,317.0,No,No,4.5,699,164.0,South Indian,30,High
+Jaipur,387.0,Yes,No,4.4,785,325.0,Gujarati,28,High
+Mumbai,3759.0,No,No,4.5,674,208.0,Street Food,31,High
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Bhopal,227.0,No,Yes,3.5,678,289.0,Seafood,32,Low
+Indore,356.0,No,Yes,4.5,814,100.0,Kerala,27,High
+Chennai,135.0,Yes,No,3.0,3482,459.0,South Indian,26,Low
+Bhopal,393.0,Yes,Yes,4.4,596,297.0,Rajasthani,29,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Delhi,206.0,Yes,Yes,4.3,148,197.0,Kerala,48,Low
+Ahmedabad,453.0,No,Yes,4.9,811,386.0,North Indian,35,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Surat,212.0,No,Yes,2.7,607,343.0,Street Food,36,Low
+Indore,165.0,Yes,Yes,3.0,770,67.0,North Indian,25,Low
+Nashik,177.0,No,Yes,3.4,140,39.0,Rajasthani,38,Low
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Bhopal,193.0,Yes,Yes,2.7,374,31.0,Kerala,21,Low
+Surat,147.0,Yes,Yes,3.1,118,189.0,Seafood,41,Low
+Delhi,219.0,Yes,Yes,2.7,519,599.0,Rajasthani,26,Low
+Nashik,,No,No,2.6,504,185.0,Chinese,28,Low
+Bhopal,153.0,No,Yes,2.6,307,599.0,Chinese,39,Low
+Indore,120.0,Yes,No,2.8,35,361.0,South Indian,32,Low
+Delhi,243.0,No,No,2.8,835,207.0,Biryani,36,Low
+Jaipur,6833.0,No,Yes,3.3,733,405.0,Street Food,27,Low
+Ahmedabad,179.0,Yes,No,2.7,152,194.0,Cafe,38,Low
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Jaipur,172.0,No,Yes,4.5,104,392.0,Rajasthani,21,Low
+Kochi,137.0,No,No,3.1,613,31.0,Continental,30,Low
+Kochi,367.0,Yes,Yes,4.9,587,426.0,Biryani,21,High
+Jaipur,185.0,Yes,No,3.4,896,41.0,Street Food,41,Low
+Nagpur,143.0,No,No,,538,89.0,Cafe,43,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Mumbai,192.0,No,No,3.5,296,24.0,Gujarati,41,Low
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Goa,107.0,Yes,No,3.0,432,240.0,Fast Food,49,Low
+Pune,214.0,Yes,Yes,4.5,2768,79.0,Fast Food,23,Low
+Ahmedabad,212.0,No,No,3.0,388,105.0,Chinese,47,High
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Chennai,193.0,No,No,4.7,39,335.0,North Indian,48,Low
+Hyderabad,408.0,Yes,Yes,4.9,610,529.0,Cafe,26,High
+Bhopal,237.0,No,Yes,2.6,60,101.0,Seafood,38,Low
+Mumbai,119.0,Yes,Yes,4.6,35,358.0,Rajasthani,49,Low
+Pune,212.0,Yes,No,2.8,527,588.0,Fast Food,48,Low
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Hyderabad,232.0,Yes,No,3.1,493,478.0,Street Food,45,High
+Hyderabad,258.0,Yes,Yes,4.5,445,421.0,Chinese,28,High
+Ahmedabad,6235.0,Yes,Yes,3.4,334,109.0,Street Food,53,Low
+Jaipur,248.0,No,Yes,3.5,659,127.0,Biryani,35,Low
+Delhi,200.0,No,Yes,3.5,529,27.0,Biryani,29,Low
+Nagpur,397.0,Yes,No,4.3,760,353.0,Biryani,21,High
+Bangalore,135.0,No,Yes,3.4,620,468.0,Chinese,36,High
+Indore,292.0,Yes,No,4.8,830,394.0,Continental,21,High
+Mumbai,226.0,Yes,No,2.7,122,539.0,Street Food,44,Low
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Ahmedabad,159.0,No,No,4.2,142,121.0,Biryani,21,Low
+Bangalore,177.0,No,No,3.5,690,491.0,Chinese,34,Low
+Nagpur,100.0,Yes,Yes,3.3,389,246.0,Continental,21,Low
+Kochi,234.0,Yes,Yes,3.5,310,256.0,Continental,21,Low
+Indore,162.0,No,Yes,3.2,592,530.0,Gujarati,35,Low
+Ahmedabad,4655.0,Yes,Yes,3.8,138,325.0,Continental,60,Low
+Jaipur,232.0,No,No,4.6,148,135.0,Kerala,53,Low
+Hyderabad,232.0,Yes,No,3.1,493,478.0,Street Food,45,High
+Kochi,504.0,Yes,Yes,4.4,819,552.0,North Indian,34,High
+Goa,254.0,No,Yes,5.0,436,527.0,Gujarati,31,High
+Chennai,192.0,Yes,No,3.1,886,33.0,Biryani,33,Low
+Kochi,165.0,Yes,No,2.9,125,294.0,Biryani,38,Low
+Pune,227.0,No,No,,466,544.0,South Indian,38,Low
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Bangalore,,Yes,No,2.6,102,506.0,Cafe,60,High
+Bhopal,122.0,Yes,No,2.7,424,482.0,Kerala,20,High
+Chennai,548.0,No,No,4.9,754,89.0,Fast Food,29,High
+Jaipur,420.0,No,Yes,4.7,409,46.0,Biryani,26,High
+Delhi,88.0,Yes,No,2.9,103,174.0,Gujarati,45,Low
+Hyderabad,135.0,No,Yes,3.0,215,147.0,Kerala,58,Low
+Mumbai,200.0,No,Yes,,179,160.0,Continental,22,Low
+Surat,6669.0,Yes,No,3.3,369,498.0,North Indian,46,Low
+Nashik,138.0,Yes,Yes,2.7,169,592.0,Fast Food,55,High
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Goa,128.0,No,No,2.5,193,285.0,North Indian,55,Low
+Indore,249.0,Yes,No,4.5,46,312.0,Fast Food,49,Low
+Bangalore,250.0,Yes,Yes,2.6,544,226.0,South Indian,25,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Bhopal,517.0,No,Yes,4.4,634,509.0,Chinese,23,High
+Jaipur,162.0,Yes,Yes,2.7,813,588.0,Rajasthani,50,Low
+Jaipur,196.0,No,Yes,2.6,2521,540.0,Continental,35,High
+Surat,238.0,No,No,3.5,43,335.0,South Indian,60,Low
+Kochi,600.0,Yes,Yes,4.4,604,249.0,Seafood,25,High
+Mumbai,312.0,No,Yes,4.7,478,586.0,Continental,29,High
+Indore,107.0,No,No,2.7,693,369.0,Street Food,20,Low
+Pune,246.0,No,No,2.9,155,373.0,Fast Food,60,Low
+Delhi,139.0,Yes,Yes,3.1,158,,South Indian,33,Low
+Nashik,350.0,Yes,No,4.7,889,533.0,Kerala,26,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Bhopal,556.0,Yes,No,4.6,569,529.0,Biryani,26,High
+Chennai,208.0,Yes,No,3.5,479,508.0,Chinese,36,Low
+Jaipur,162.0,No,Yes,5.0,123,170.0,Seafood,29,High
+Mumbai,94.0,Yes,No,3.3,429,84.0,Street Food,48,Low
+Pune,353.0,Yes,Yes,4.7,424,74.0,Chinese,23,High
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Bangalore,120.0,Yes,Yes,2.6,713,291.0,Kerala,54,Low
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Indore,369.0,Yes,Yes,4.7,593,561.0,Cafe,96,High
+Nashik,549.0,Yes,Yes,,189,103.0,North Indian,49,High
+Surat,132.0,Yes,Yes,2.8,458,509.0,Continental,24,Low
+Kochi,249.0,Yes,Yes,2.7,33,31.0,Chinese,42,Low
+Ahmedabad,242.0,No,No,3.0,198,245.0,Chinese,24,Low
+Surat,250.0,No,No,4.4,450,191.0,Kerala,35,High
+Nashik,120.0,No,No,2.6,283,562.0,Seafood,39,Low
+Nashik,164.0,Yes,Yes,2.5,175,264.0,North Indian,33,Low
+Kochi,504.0,Yes,Yes,4.4,819,552.0,North Indian,34,High
+Surat,160.0,No,No,2.9,623,78.0,Gujarati,48,Low
+Kochi,361.0,No,Yes,4.9,644,206.0,Rajasthani,35,High
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Hyderabad,218.0,No,No,3.4,369,165.0,Biryani,25,Low
+Bangalore,119.0,Yes,Yes,3.1,595,332.0,Biryani,26,Low
+Nagpur,204.0,Yes,No,3.5,184,103.0,North Indian,32,High
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Goa,574.0,No,No,4.4,782,462.0,Biryani,28,High
+Jaipur,462.0,No,No,4.6,782,249.0,Continental,29,High
+Bhopal,229.0,No,No,2.7,228,345.0,Seafood,51,Low
+Ahmedabad,170.0,Yes,No,2.7,200,128.0,Gujarati,24,High
+Surat,554.0,No,Yes,5.0,671,567.0,Continental,30,High
+Goa,292.0,Yes,No,4.9,648,280.0,Chinese,21,High
+Nashik,166.0,Yes,No,2.5,204,189.0,Biryani,38,Low
+Indore,356.0,Yes,Yes,4.3,882,162.0,Kerala,24,High
+Delhi,329.0,No,No,4.8,444,531.0,Cafe,29,Low
+Goa,,No,No,2.8,814,137.0,Continental,25,Low
+Surat,96.0,Yes,No,2.9,678,578.0,Rajasthani,27,Low
+Goa,95.0,Yes,No,2.6,53,,Rajasthani,33,Low
+Mumbai,197.0,Yes,Yes,3.6,54,75.0,Biryani,25,Low
+Nagpur,157.0,No,No,3.9,33,413.0,Continental,50,Low
+Nashik,152.0,Yes,Yes,3.7,96,,Continental,20,Low
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Chennai,206.0,Yes,No,2.6,104,,North Indian,30,Low
+Goa,499.0,No,Yes,4.6,723,305.0,North Indian,30,High
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Hyderabad,232.0,Yes,No,3.1,493,478.0,Street Food,45,High
+Pune,186.0,No,Yes,4.5,149,311.0,Kerala,25,Low
+Nagpur,296.0,No,Yes,,526,488.0,Cafe,32,High
+Nashik,328.0,Yes,No,4.8,470,377.0,North Indian,99,High
+Kochi,140.0,No,Yes,,803,303.0,Rajasthani,44,Low
+Kochi,235.0,No,No,2.6,640,464.0,Rajasthani,42,Low
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Hyderabad,246.0,No,No,2.8,697,418.0,Chinese,21,Low
+Chennai,169.0,Yes,No,2.6,668,566.0,Continental,47,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Goa,80.0,No,No,2.6,47,,South Indian,44,Low
+Jaipur,143.0,No,No,2.6,281,104.0,Biryani,59,Low
+Pune,450.0,Yes,No,4.3,773,127.0,Chinese,26,High
+Pune,448.0,Yes,Yes,4.8,837,154.0,Kerala,22,High
+Bhopal,172.0,No,No,3.4,48,372.0,South Indian,51,Low
+Hyderabad,145.0,Yes,Yes,2.7,131,574.0,Seafood,30,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Surat,434.0,No,Yes,5.0,841,162.0,Street Food,35,High
+Delhi,270.0,No,Yes,4.3,753,432.0,North Indian,32,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Mumbai,356.0,No,Yes,4.9,723,287.0,Continental,20,High
+Delhi,447.0,Yes,Yes,4.6,647,520.0,South Indian,21,High
+Goa,203.0,Yes,Yes,3.0,200,224.0,Biryani,53,Low
+Nashik,204.0,Yes,Yes,3.6,486,544.0,Cafe,45,High
+Delhi,149.0,No,No,2.5,700,252.0,Gujarati,153,Low
+Surat,,Yes,Yes,3.0,626,473.0,Fast Food,46,Low
+Kochi,240.0,Yes,Yes,2.8,259,344.0,Chinese,55,Low
+Bangalore,284.0,Yes,Yes,4.4,896,564.0,Kerala,20,High
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Kochi,245.0,Yes,No,3.5,415,297.0,Kerala,34,Low
+Pune,329.0,No,No,4.4,519,55.0,Cafe,26,High
+Nashik,226.0,Yes,No,4.6,111,103.0,Street Food,46,Low
+Pune,127.0,Yes,Yes,3.1,216,290.0,Fast Food,27,Low
+Chennai,173.0,Yes,No,3.3,538,517.0,Cafe,20,Low
+Indore,513.0,No,Yes,5.0,833,383.0,Cafe,22,High
+Chennai,242.0,Yes,Yes,3.0,3361,,North Indian,25,Low
+Nagpur,110.0,Yes,Yes,2.7,710,386.0,Kerala,50,High
+Bhopal,203.0,No,No,3.4,355,490.0,Kerala,48,Low
+Delhi,130.0,No,No,4.6,271,409.0,Fast Food,42,High
+Mumbai,352.0,Yes,Yes,4.7,646,60.0,Seafood,35,High
+Bangalore,167.0,Yes,Yes,2.7,819,401.0,Kerala,34,Low
+Ahmedabad,140.0,Yes,No,2.5,3741,530.0,Chinese,54,Low
+Goa,535.0,Yes,Yes,4.5,649,473.0,Gujarati,20,High
+Pune,247.0,No,No,2.9,647,103.0,Rajasthani,53,Low
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Goa,485.0,No,No,,567,423.0,Kerala,26,High
+Chennai,,No,No,3.0,212,92.0,Cafe,30,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Indore,363.0,No,Yes,4.9,644,295.0,Chinese,23,High
+Nashik,398.0,No,Yes,4.4,661,119.0,Gujarati,22,High
+Kochi,367.0,Yes,Yes,4.9,587,426.0,Biryani,21,High
+Nashik,237.0,Yes,No,3.1,254,40.0,Fast Food,53,Low
+Surat,300.0,No,Yes,4.3,593,26.0,Rajasthani,31,High
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Kochi,189.0,Yes,No,3.1,526,429.0,Fast Food,59,Low
+Ahmedabad,194.0,Yes,Yes,3.2,434,55.0,Kerala,52,Low
+Nashik,163.0,Yes,Yes,2.6,190,302.0,Fast Food,30,Low
+Surat,176.0,Yes,Yes,3.3,895,56.0,South Indian,27,Low
+Jaipur,153.0,Yes,No,3.1,121,289.0,Biryani,57,Low
+Kochi,227.0,Yes,Yes,2.8,803,255.0,North Indian,57,Low
+Jaipur,182.0,No,Yes,3.5,107,254.0,South Indian,26,Low
+Nagpur,429.0,Yes,Yes,4.9,585,402.0,South Indian,112,High
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Chennai,5966.0,No,No,4.9,608,496.0,Rajasthani,21,High
+Indore,117.0,No,No,2.9,55,49.0,Gujarati,46,Low
+Goa,89.0,Yes,Yes,3.3,521,528.0,Chinese,21,Low
+Ahmedabad,486.0,No,Yes,4.8,636,597.0,South Indian,21,High
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Surat,203.0,Yes,Yes,2.9,95,59.0,Street Food,55,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Kochi,309.0,No,No,4.8,425,249.0,Gujarati,30,High
+Mumbai,82.0,Yes,No,3.1,249,243.0,South Indian,43,Low
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Nagpur,208.0,Yes,Yes,3.0,194,562.0,Cafe,34,Low
+Bangalore,284.0,Yes,Yes,4.4,896,564.0,Kerala,20,High
+Bhopal,242.0,No,Yes,3.2,657,469.0,South Indian,59,High
+Ahmedabad,241.0,Yes,No,3.3,91,229.0,Rajasthani,22,Low
+Chennai,477.0,Yes,No,4.9,493,249.0,South Indian,31,High
+Nashik,137.0,No,Yes,2.8,776,251.0,Fast Food,41,Low
+Bangalore,215.0,Yes,No,2.7,601,445.0,Street Food,43,High
+Chennai,5966.0,No,No,4.9,608,496.0,Rajasthani,21,High
+Indore,320.0,Yes,Yes,4.6,594,451.0,South Indian,35,High
+Nagpur,111.0,Yes,Yes,3.0,2731,109.0,Continental,55,Low
+Kochi,139.0,Yes,Yes,4.8,125,344.0,Cafe,49,Low
+Mumbai,152.0,Yes,Yes,3.2,140,130.0,North Indian,58,Low
+Nashik,258.0,No,Yes,4.8,705,,South Indian,21,High
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Pune,194.0,Yes,Yes,2.9,900,543.0,Street Food,25,Low
+Mumbai,467.0,Yes,No,4.0,292,155.0,Fast Food,44,High
+Chennai,154.0,Yes,No,2.7,531,572.0,Cafe,34,High
+Nashik,444.0,Yes,Yes,5.0,658,540.0,Fast Food,30,High
+Nagpur,307.0,No,No,5.0,728,431.0,Biryani,25,High
+Chennai,407.0,Yes,Yes,4.8,785,,Gujarati,30,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Indore,145.0,Yes,Yes,2.5,285,87.0,Street Food,40,Low
+Mumbai,383.0,No,No,3.6,346,338.0,North Indian,34,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Kochi,557.0,Yes,Yes,4.9,697,,North Indian,32,High
+Jaipur,130.0,No,No,2.6,592,553.0,Chinese,125,Low
+Nagpur,150.0,Yes,Yes,4.4,123,482.0,Seafood,46,Low
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Ahmedabad,82.0,No,Yes,2.8,900,158.0,Biryani,32,Low
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Nashik,338.0,No,No,4.3,709,435.0,Continental,30,High
+Bhopal,360.0,No,Yes,4.4,723,299.0,South Indian,29,High
+Nashik,416.0,No,Yes,4.7,679,584.0,Gujarati,33,High
+Jaipur,175.0,Yes,Yes,3.4,94,394.0,North Indian,52,Low
+Ahmedabad,144.0,Yes,Yes,4.9,721,424.0,Kerala,39,High
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Ahmedabad,197.0,No,Yes,3.0,654,485.0,Gujarati,31,Low
+Nashik,102.0,No,Yes,3.4,118,590.0,Fast Food,32,Low
+Nagpur,136.0,No,No,2.6,342,,Kerala,153,Low
+Delhi,345.0,Yes,Yes,4.4,579,,Kerala,44,High
+Ahmedabad,300.0,Yes,Yes,4.4,522,,Biryani,34,High
+Bhopal,122.0,Yes,No,2.7,424,482.0,Kerala,20,High
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Bangalore,209.0,Yes,Yes,3.0,318,195.0,Street Food,54,Low
+Indore,209.0,No,Yes,3.5,264,421.0,North Indian,59,High
+Indore,448.0,Yes,Yes,4.8,730,259.0,Kerala,20,High
+Indore,82.0,No,Yes,,410,400.0,Chinese,29,Low
+Delhi,242.0,Yes,Yes,3.5,661,293.0,Cafe,31,Low
+Chennai,160.0,No,Yes,2.5,408,447.0,Kerala,35,Low
+Kochi,217.0,Yes,Yes,3.0,674,238.0,Biryani,47,Low
+Bangalore,239.0,No,Yes,3.0,301,68.0,Biryani,39,Low
+Bangalore,127.0,No,Yes,3.1,139,,South Indian,45,Low
+Delhi,345.0,Yes,Yes,4.4,579,,Kerala,44,High
+Mumbai,159.0,Yes,No,3.1,108,246.0,Kerala,60,Low
+Kochi,259.0,Yes,No,4.3,811,441.0,Cafe,28,High
+Pune,154.0,No,Yes,2.9,816,349.0,Rajasthani,40,Low
+Goa,574.0,No,No,4.4,782,462.0,Biryani,28,High
+Mumbai,408.0,Yes,Yes,4.3,475,539.0,Biryani,27,High
+Jaipur,289.0,Yes,No,4.8,711,215.0,Gujarati,103,High
+Goa,172.0,No,Yes,2.7,392,302.0,Seafood,35,Low
+Surat,223.0,No,Yes,3.4,129,64.0,South Indian,51,Low
+Kochi,297.0,Yes,No,4.9,653,265.0,Continental,30,High
+Jaipur,361.0,No,No,3.8,455,201.0,Kerala,46,High
+Mumbai,131.0,Yes,Yes,4.5,141,376.0,Fast Food,30,Low
+Goa,202.0,Yes,Yes,2.5,352,108.0,Chinese,21,Low
+Bhopal,393.0,Yes,Yes,4.4,596,297.0,Rajasthani,29,High
+Goa,120.0,Yes,No,4.1,62,550.0,Biryani,60,Low
+Pune,167.0,Yes,No,3.1,633,304.0,Rajasthani,20,Low
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Bangalore,174.0,No,Yes,3.9,97,293.0,Seafood,51,Low
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Indore,148.0,Yes,Yes,3.4,202,518.0,Gujarati,29,Low
+Bangalore,149.0,Yes,No,2.8,3893,299.0,South Indian,44,Low
+Nashik,150.0,Yes,Yes,3.0,164,412.0,Fast Food,28,High
+Bangalore,492.0,No,Yes,4.6,581,215.0,Continental,147,High
+Delhi,190.0,Yes,No,3.1,394,410.0,Fast Food,60,Low
+Surat,569.0,Yes,Yes,4.6,821,80.0,Continental,21,High
+Pune,106.0,Yes,No,,772,194.0,Seafood,39,Low
+Bhopal,271.0,No,No,4.9,676,419.0,South Indian,30,High
+Jaipur,84.0,Yes,Yes,2.6,582,,Biryani,35,Low
+Delhi,486.0,No,Yes,4.3,514,90.0,Cafe,32,High
+Mumbai,127.0,Yes,Yes,2.6,763,422.0,Seafood,38,Low
+Hyderabad,217.0,No,No,2.7,784,401.0,Seafood,24,Low
+Ahmedabad,224.0,Yes,Yes,3.1,718,574.0,Biryani,46,Low
+Surat,248.0,No,No,3.3,434,,North Indian,59,Low
+Nashik,163.0,Yes,Yes,2.6,856,277.0,South Indian,58,Low
+Ahmedabad,129.0,Yes,No,2.8,636,99.0,Chinese,54,Low
+Nagpur,169.0,Yes,No,2.7,435,421.0,Chinese,30,Low
+Jaipur,85.0,Yes,No,3.5,56,285.0,Fast Food,138,Low
+Jaipur,132.0,No,No,3.3,716,44.0,Seafood,30,Low
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Surat,202.0,No,No,2.9,169,303.0,Chinese,55,Low
+Surat,470.0,Yes,Yes,4.9,774,231.0,South Indian,26,High
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Chennai,146.0,No,No,,410,167.0,Rajasthani,60,Low
+Delhi,88.0,Yes,Yes,3.3,140,516.0,Street Food,46,Low
+Jaipur,220.0,No,Yes,3.0,765,259.0,Kerala,60,Low
+Goa,372.0,Yes,Yes,4.9,446,340.0,Rajasthani,25,High
+Chennai,133.0,No,Yes,3.1,299,398.0,Seafood,30,Low
+Surat,354.0,No,Yes,,569,244.0,Fast Food,25,High
+Chennai,89.0,No,Yes,3.0,44,347.0,Street Food,50,Low
+Mumbai,136.0,Yes,Yes,3.3,332,390.0,Chinese,59,Low
+Chennai,139.0,No,Yes,2.9,408,277.0,Chinese,41,Low
+Ahmedabad,369.0,No,Yes,4.9,767,108.0,Fast Food,23,High
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Hyderabad,238.0,Yes,Yes,3.9,69,490.0,North Indian,33,Low
+Delhi,117.0,No,No,3.4,848,140.0,South Indian,39,Low
+Kochi,169.0,No,No,3.3,614,507.0,Chinese,37,Low
+Nashik,,No,Yes,3.2,330,502.0,Fast Food,57,High
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Mumbai,152.0,Yes,Yes,3.4,3902,282.0,Cafe,54,Low
+Kochi,488.0,No,Yes,4.3,733,67.0,Chinese,23,High
+Indore,369.0,Yes,Yes,4.7,593,561.0,Cafe,96,High
+Nagpur,412.0,No,Yes,4.9,420,341.0,South Indian,31,High
+Goa,195.0,Yes,Yes,3.9,133,510.0,South Indian,56,High
+Ahmedabad,345.0,Yes,No,3.6,507,57.0,Gujarati,42,High
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Indore,158.0,Yes,No,2.7,580,485.0,Chinese,27,Low
+Hyderabad,163.0,Yes,No,2.6,432,522.0,South Indian,49,High
+Chennai,140.0,No,Yes,2.8,669,229.0,Kerala,56,Low
+Pune,91.0,Yes,No,3.8,65,500.0,South Indian,45,Low
+Delhi,180.0,No,Yes,3.4,474,419.0,Chinese,34,Low
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Goa,353.0,No,No,4.4,794,150.0,Street Food,27,High
+Goa,459.0,No,No,4.4,572,451.0,South Indian,34,High
+Bangalore,258.0,Yes,No,4.6,566,347.0,North Indian,24,High
+Nagpur,152.0,Yes,Yes,4.9,154,402.0,Biryani,59,High
+Hyderabad,189.0,Yes,No,2.9,617,463.0,Gujarati,45,Low
+Nashik,136.0,Yes,Yes,3.5,623,202.0,Gujarati,47,Low
+Delhi,209.0,No,No,3.2,51,190.0,Seafood,20,Low
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Hyderabad,165.0,No,Yes,2.6,379,,Gujarati,51,Low
+Bhopal,232.0,No,Yes,3.5,712,221.0,Seafood,33,Low
+Delhi,453.0,Yes,Yes,4.9,549,525.0,Seafood,29,High
+Goa,523.0,No,No,,4021,578.0,Seafood,22,High
+Delhi,211.0,Yes,No,3.4,335,415.0,Continental,25,Low
+Surat,216.0,Yes,No,2.9,311,470.0,Rajasthani,46,Low
+Surat,223.0,No,Yes,2.9,185,187.0,South Indian,46,Low
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Bhopal,248.0,Yes,Yes,2.7,4610,441.0,Seafood,27,Low
+Delhi,233.0,No,No,3.0,898,349.0,South Indian,122,Low
+Bangalore,284.0,Yes,Yes,4.4,896,564.0,Kerala,20,High
+Nashik,142.0,No,No,3.4,35,573.0,Gujarati,55,High
+Goa,175.0,No,No,3.3,480,430.0,Kerala,51,Low
+Pune,518.0,Yes,Yes,4.9,513,118.0,Gujarati,25,High
+Indore,193.0,No,No,3.0,120,77.0,North Indian,48,Low
+Hyderabad,373.0,No,No,4.6,694,29.0,Street Food,27,High
+Delhi,164.0,No,No,3.3,52,448.0,Gujarati,29,Low
+Jaipur,108.0,No,Yes,2.6,534,349.0,South Indian,34,Low
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Goa,386.0,Yes,Yes,4.5,654,353.0,Gujarati,30,High
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Bhopal,543.0,No,No,4.3,554,163.0,Chinese,32,High
+Bhopal,96.0,No,No,3.4,788,402.0,Continental,20,Low
+Pune,448.0,Yes,Yes,4.8,837,154.0,Kerala,22,High
+Hyderabad,312.0,No,Yes,4.3,495,465.0,Fast Food,23,High
+Chennai,230.0,Yes,No,3.5,91,26.0,Gujarati,54,Low
+Delhi,443.0,Yes,Yes,4.3,523,267.0,North Indian,21,High
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Mumbai,470.0,No,Yes,5.0,486,35.0,Seafood,24,High
+Bhopal,99.0,No,No,2.6,281,335.0,Biryani,57,Low
+Bhopal,538.0,No,No,,798,416.0,Rajasthani,26,High
+Indore,197.0,No,Yes,4.7,147,365.0,Seafood,30,Low
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Delhi,545.0,No,Yes,4.6,708,570.0,Rajasthani,34,High
+Bhopal,122.0,Yes,No,2.7,424,482.0,Kerala,20,High
+Bhopal,490.0,Yes,No,3.7,884,513.0,Rajasthani,57,High
+Pune,301.0,Yes,No,,625,145.0,Seafood,21,High
+Nashik,111.0,No,No,2.8,60,540.0,Biryani,60,High
+Goa,148.0,Yes,No,3.3,856,253.0,Kerala,42,Low
+Goa,426.0,Yes,Yes,4.3,842,358.0,Rajasthani,34,High
+Hyderabad,112.0,Yes,No,4.4,85,62.0,Continental,133,Low
+Nagpur,204.0,Yes,No,3.5,184,103.0,North Indian,32,High
+Mumbai,158.0,Yes,Yes,3.3,122,340.0,Street Food,42,Low
+Bangalore,106.0,No,No,3.1,134,386.0,Cafe,50,High
+Chennai,234.0,No,Yes,4.6,31,195.0,Seafood,46,Low
+Pune,217.0,Yes,No,2.5,538,576.0,Continental,58,Low
+Chennai,295.0,No,No,4.8,598,555.0,Seafood,27,High
+Nashik,140.0,No,Yes,2.7,106,70.0,Street Food,28,Low
+Nagpur,359.0,Yes,Yes,4.3,705,141.0,South Indian,34,High
+Hyderabad,506.0,No,Yes,3.8,375,210.0,Fast Food,48,High
+Chennai,114.0,Yes,No,3.5,316,573.0,Chinese,20,Low
+Ahmedabad,240.0,Yes,Yes,2.7,685,599.0,Kerala,33,Low
+Bhopal,262.0,No,Yes,4.5,654,170.0,Gujarati,27,High
+Hyderabad,209.0,No,No,2.8,657,346.0,Rajasthani,30,Low
+Kochi,,No,No,5.0,635,259.0,South Indian,31,High
+Pune,125.0,No,No,5.0,144,194.0,Gujarati,26,Low
+Pune,,No,No,4.4,800,565.0,South Indian,34,High
+Goa,150.0,Yes,No,2.8,175,183.0,Chinese,42,Low
+Bhopal,150.0,No,Yes,2.6,385,508.0,Gujarati,29,Low
+Goa,,Yes,Yes,4.6,806,358.0,Seafood,32,High
+Kochi,110.0,Yes,No,4.2,147,418.0,Cafe,34,Low
+Goa,454.0,No,No,4.5,781,581.0,Fast Food,105,High
+Kochi,242.0,Yes,Yes,2.6,673,552.0,Chinese,132,Low
+Surat,136.0,No,Yes,2.8,346,592.0,Gujarati,25,Low
+Jaipur,130.0,No,No,2.5,149,394.0,Biryani,33,Low
+Nagpur,227.0,No,No,3.2,134,149.0,Chinese,53,Low
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Bhopal,171.0,No,No,3.7,671,557.0,Fast Food,51,High
+Nashik,178.0,Yes,No,3.3,77,285.0,Seafood,45,Low
+Nashik,211.0,No,Yes,3.0,291,,North Indian,60,Low
+Mumbai,217.0,Yes,No,4.0,114,214.0,Street Food,50,Low
+Jaipur,94.0,Yes,Yes,2.7,312,562.0,Kerala,51,Low
+Kochi,326.0,No,Yes,4.8,2292,562.0,Seafood,31,High
+Ahmedabad,128.0,Yes,No,4.7,41,234.0,North Indian,28,Low
+Pune,353.0,Yes,Yes,4.7,424,74.0,Chinese,23,High
+Ahmedabad,207.0,Yes,No,3.3,130,520.0,Street Food,26,Low
+Bhopal,250.0,Yes,Yes,2.6,181,76.0,Rajasthani,42,Low
+Pune,124.0,No,Yes,2.9,496,107.0,Rajasthani,23,Low
+Pune,253.0,No,No,4.7,673,390.0,Gujarati,29,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Pune,149.0,Yes,No,4.3,64,103.0,Cafe,32,Low
+Nagpur,213.0,Yes,No,2.7,745,437.0,Biryani,55,Low
+Pune,206.0,No,No,2.7,591,596.0,Biryani,53,Low
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Jaipur,197.0,Yes,No,5.0,104,178.0,Seafood,35,Low
+Ahmedabad,250.0,Yes,Yes,4.3,643,96.0,South Indian,31,High
+Surat,213.0,No,Yes,2.7,378,277.0,Seafood,26,Low
+Bangalore,267.0,No,No,4.5,671,539.0,Continental,21,High
+Delhi,511.0,No,Yes,4.9,470,128.0,Biryani,20,High
+Chennai,414.0,No,No,4.6,731,120.0,North Indian,34,High
+Nagpur,181.0,No,Yes,4.6,131,396.0,Biryani,54,Low
+Jaipur,194.0,Yes,Yes,4.2,120,508.0,Gujarati,23,Low
+Bangalore,404.0,No,Yes,4.7,615,536.0,Chinese,22,High
+Kochi,114.0,Yes,No,2.9,687,201.0,Gujarati,26,Low
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Jaipur,99.0,Yes,Yes,3.1,220,433.0,Cafe,51,Low
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Hyderabad,140.0,Yes,Yes,4.0,140,408.0,Street Food,59,Low
+Jaipur,403.0,Yes,No,4.3,427,283.0,Seafood,30,High
+Kochi,567.0,No,No,4.7,412,578.0,South Indian,32,High
+Bhopal,442.0,No,No,4.9,491,272.0,Cafe,25,High
+Pune,520.0,No,Yes,4.2,437,68.0,Chinese,51,High
+Chennai,188.0,Yes,No,3.0,237,482.0,Chinese,35,Low
+Bhopal,528.0,Yes,Yes,4.6,485,177.0,Street Food,32,High
+Mumbai,326.0,No,No,4.9,455,62.0,Continental,33,High
+Kochi,323.0,No,Yes,4.0,610,153.0,Kerala,25,Low
+Mumbai,579.0,Yes,No,3.6,308,295.0,South Indian,26,High
+Ahmedabad,,No,No,3.0,874,514.0,Street Food,53,Low
+Chennai,572.0,Yes,Yes,4.4,472,46.0,Chinese,33,High
+Kochi,87.0,No,No,4.1,112,349.0,Kerala,49,High
+Delhi,545.0,No,No,4.4,506,85.0,Biryani,32,High
+Indore,250.0,No,No,3.2,105,152.0,Fast Food,43,Low
+Hyderabad,505.0,Yes,No,4.6,405,451.0,South Indian,30,High
+Goa,94.0,Yes,No,2.7,416,238.0,South Indian,46,Low
+Ahmedabad,111.0,No,No,2.9,135,371.0,Gujarati,54,High
+Nagpur,124.0,Yes,Yes,3.4,242,209.0,Street Food,43,Low
+Bhopal,451.0,No,No,4.6,744,399.0,Cafe,30,High
+Chennai,154.0,Yes,Yes,3.5,226,,North Indian,20,Low
+Nagpur,533.0,Yes,Yes,4.9,684,156.0,Seafood,27,High
+Indore,277.0,Yes,No,4.7,622,484.0,Chinese,35,High
+Nagpur,,No,Yes,3.6,689,262.0,Street Food,51,High
+Hyderabad,,No,No,3.1,72,344.0,South Indian,56,Low
+Surat,548.0,No,Yes,4.0,863,483.0,Fast Food,150,High
+Hyderabad,107.0,No,No,3.5,807,298.0,Cafe,34,Low
+Nagpur,222.0,No,No,3.0,247,383.0,North Indian,36,High
+Delhi,303.0,No,No,4.0,678,532.0,Biryani,37,High
+Ahmedabad,207.0,No,No,2.7,537,533.0,South Indian,41,High
+Hyderabad,138.0,Yes,Yes,2.7,122,463.0,Biryani,35,Low
+Pune,248.0,Yes,Yes,4.7,45,393.0,Biryani,20,Low
+Nashik,345.0,No,No,4.5,4517,347.0,Cafe,49,High
+Nagpur,115.0,No,No,3.0,169,287.0,Biryani,31,Low
+Jaipur,94.0,Yes,Yes,3.1,795,569.0,Gujarati,56,High
+Goa,230.0,No,No,2.8,578,209.0,Fast Food,32,Low
+Jaipur,174.0,No,Yes,3.5,192,41.0,Continental,35,Low
+Nagpur,91.0,No,No,2.6,413,466.0,Gujarati,33,Low
+Chennai,406.0,Yes,Yes,4.8,721,493.0,Chinese,31,High
+Pune,220.0,Yes,Yes,3.0,531,68.0,Biryani,37,Low
+Delhi,113.0,No,No,2.6,128,505.0,Rajasthani,53,Low
+Indore,288.0,No,Yes,4.7,581,555.0,Street Food,26,High
+Pune,534.0,No,No,4.7,503,443.0,Biryani,23,High
+Ahmedabad,98.0,No,No,2.9,645,431.0,Fast Food,34,Low
+Delhi,564.0,Yes,No,4.5,891,314.0,Continental,31,High
+Hyderabad,153.0,No,No,3.5,656,280.0,Chinese,22,Low
+Surat,96.0,No,No,2.8,415,181.0,Seafood,47,Low
+Delhi,173.0,Yes,No,3.5,820,317.0,Cafe,28,Low
+Delhi,422.0,No,Yes,4.2,810,73.0,Cafe,31,High
+Bangalore,565.0,Yes,No,4.6,897,146.0,Seafood,33,High
+Jaipur,494.0,No,No,3.7,464,335.0,Chinese,59,High
+Nagpur,168.0,Yes,Yes,3.0,547,134.0,North Indian,34,Low
+Indore,289.0,No,Yes,4.5,416,,Seafood,28,Low
+Jaipur,107.0,No,No,2.5,740,209.0,Fast Food,51,Low
+Bhopal,110.0,No,No,4.5,130,169.0,North Indian,32,Low
+Nashik,370.0,Yes,Yes,4.7,898,534.0,Seafood,33,High
+Nagpur,189.0,No,Yes,3.1,737,566.0,North Indian,47,Low
+Goa,488.0,No,No,4.8,557,392.0,South Indian,23,High
+Ahmedabad,222.0,No,No,3.3,101,141.0,South Indian,22,Low
+Kochi,143.0,Yes,Yes,3.5,703,500.0,Biryani,26,Low
+Bhopal,86.0,No,Yes,3.0,1521,473.0,Street Food,41,Low
+Jaipur,97.0,No,Yes,2.8,821,58.0,Cafe,47,Low
+Hyderabad,401.0,No,No,4.4,664,101.0,Biryani,23,High
